@@ -3,13 +3,13 @@
     <ZH_CN>欢迎回来</ZH_CN>
     <ZH_TW>欢迎回来</ZH_TW>
     <ZH_WENYAN>恭迎</ZH_WENYAN>
-    <EN_GE>Welcome</EN_GE>
+    <EN_GE>Welcome Back</EN_GE>
   </TextBlock>
 <TextBlock id ="1">
     <ZH_CN>单击屏幕以登录</ZH_CN>
     <ZH_TW>單擊屏幕以登錄</ZH_TW>
     <ZH_WENYAN>单击荧幕以登入</ZH_WENYAN>
-    <EN_GE>Click anywhere on the screen to login</EN_GE>
+    <EN_GE>Click anywhere to logon</EN_GE>
   </TextBlock>
 <TextBlock id ="2">
     <ZH_CN>生产力</ZH_CN>
@@ -97,7 +97,7 @@
   </TextBlock>
 <TextBlock id ="16">
     <ZH_CN>设置 Taurus UI 的显示语言</ZH_CN>
-    <ZH_TW>設置 Taurus UI 的顯示語言</ZH_TW>
+    <ZH_TW>設定 Taurus UI 的顯示語言</ZH_TW>
     <ZH_WENYAN>设 Taurus UI 示言</ZH_WENYAN>
     <EN_GE>Set the display language for Taurus UI</EN_GE>
   </TextBlock>
@@ -169,14 +169,14 @@
   </TextBlock>
 <TextBlock id ="28">
     <ZH_CN>更改声音设置</ZH_CN>
-    <ZH_TW>更改聲音設置</ZH_TW>
+    <ZH_TW>更改聲音設定</ZH_TW>
     <ZH_WENYAN>更张其声</ZH_WENYAN>
     <EN_GE>Change sound settings</EN_GE>
   </TextBlock>
 <TextBlock id ="29">
     <ZH_CN>声音设置</ZH_CN>
-    <ZH_TW>聲音設置</ZH_TW>
-    <ZH_WENYAN>设定</ZH_WENYAN>
+    <ZH_TW>聲音設定</ZH_TW>
+    <ZH_WENYAN>声设</ZH_WENYAN>
     <EN_GE>Sound settings</EN_GE>
   </TextBlock>
 <TextBlock id ="30">
@@ -189,25 +189,25 @@
     <ZH_CN>从服务器中检查、下载更新</ZH_CN>
     <ZH_TW>從服務器中檢查、下載更新</ZH_TW>
     <ZH_WENYAN>自服务器中查及载下载更新</ZH_WENYAN>
-    <EN_GE>Check for and download updates from the server</EN_GE>
+    <EN_GE>Check and download updates from the server</EN_GE>
   </TextBlock>
 <TextBlock id ="32">
-    <ZH_CN>软件更新</ZH_CN>
-    <ZH_TW>軟體更新</ZH_TW>
-    <ZH_WENYAN>软件更新</ZH_WENYAN>
-    <EN_GE>Software updates</EN_GE>
+    <ZH_CN>系统更新</ZH_CN>
+    <ZH_TW>系统更新</ZH_TW>
+    <ZH_WENYAN>系统更新</ZH_WENYAN>
+    <EN_GE>System Update</EN_GE>
   </TextBlock>
 <TextBlock id ="33">
     <ZH_CN>无需更新</ZH_CN>
     <ZH_TW>您是最新的</ZH_TW>
     <ZH_WENYAN>子最新也</ZH_WENYAN>
-    <EN_GE>You are up to date</EN_GE>
+    <EN_GE>No updates</EN_GE>
   </TextBlock>
 <TextBlock id ="34">
     <ZH_CN>您已经是最新版本</ZH_CN>
     <ZH_TW>您已經是最新版本</ZH_TW>
     <ZH_WENYAN>君已最新版本</ZH_WENYAN>
-    <EN_GE>You are already up to date</EN_GE>
+    <EN_GE>You are in the latest version</EN_GE>
   </TextBlock>
 <TextBlock id ="35">
     <ZH_CN>更新较慢</ZH_CN>
@@ -219,19 +219,19 @@
     <ZH_CN>服务器性能羸弱，请稍作等待。</ZH_CN>
     <ZH_TW>伺服器性能羸弱，請稍作等待。</ZH_TW>
     <ZH_WENYAN>服务器性羸弱,请少待之。</ZH_WENYAN>
-    <EN_GE>Server performance is weak, please wait.</EN_GE>
+    <EN_GE>The Server performance is weak, please wait.</EN_GE>
   </TextBlock>
 <TextBlock id ="37">
     <ZH_CN>服务器性能羸弱，请稍作等待。</ZH_CN>
     <ZH_TW>伺服器性能羸弱，請稍作等待。</ZH_TW>
     <ZH_WENYAN>服务器性羸弱,请少待之。</ZH_WENYAN>
-    <EN_GE>Server performance is weak, please wait.</EN_GE>
+    <EN_GE>The Server performance is weak, please wait.</EN_GE>
   </TextBlock>
 <TextBlock id ="38">
     <ZH_CN>无法获取更新？</ZH_CN>
     <ZH_TW>無法獲取更新？</ZH_TW>
     <ZH_WENYAN>无以取新?</ZH_WENYAN>
-    <EN_GE>Can't get updates?</EN_GE>
+    <EN_GE>Can not get updates?</EN_GE>
   </TextBlock>
 <TextBlock id ="39">
     <ZH_CN>请检查您的网络连接。</ZH_CN>
@@ -264,9 +264,9 @@
     <EN_GE>Please note</EN_GE>
   </TextBlock>
 <TextBlock id ="44">
-    <ZH_CN>安装更新会清除部分设置数据，请谨慎更新。下载过程的 5 分钟内您将不能使用 Taurus UI。</ZH_CN>
-    <ZH_TW>安裝更新會清除部分設置數據，請謹慎更新。 下載過程的 5 分鐘內您將不能使用 Taurus UI。</ZH_TW>
-    <ZH_WENYAN>安装更新,清分置数,请谨更新。 下载之 5 分钟内,将不可用 Taurus UI。</ZH_WENYAN>
+    <ZH_CN>安装更新会清除部分设置数据，请谨慎更新。下载过程中您将不能使用 Taurus UI。</ZH_CN>
+    <ZH_TW>安裝更新會清除部分設定數據，請謹慎更新。 下載過程中您將不能使用 Taurus UI。</ZH_TW>
+    <ZH_WENYAN>安装更新,清分置数,请谨更新。 下载内,将不可用 Taurus UI。</ZH_WENYAN>
     <EN_GE>Installing updates will clear some of the settings data, so update with caution. You can't use Taurus UI during the download process.</EN_GE>
   </TextBlock>
 <TextBlock id ="45">
@@ -361,32 +361,32 @@
   </TextBlock>
 <TextBlock id ="60">
     <ZH_CN>设置 Taurus UI 的颜色样式</ZH_CN>
-    <ZH_TW>設置 Taurus UI 的顏色樣式</ZH_TW>
-    <ZH_WENYAN>置 Taurus UI 色式</ZH_WENYAN>
+    <ZH_TW>設定 Taurus UI 的顏色樣式</ZH_TW>
+    <ZH_WENYAN>定 Taurus UI 色式</ZH_WENYAN>
     <EN_GE>Sets the color style for Taurus UI</EN_GE>
   </TextBlock>
 <TextBlock id ="61">
     <ZH_CN>壁纸</ZH_CN>
     <ZH_TW>壁紙</ZH_TW>
-    <ZH_WENYAN>壁纸</ZH_WENYAN>
+    <ZH_WENYAN>墙纸</ZH_WENYAN>
     <EN_GE>Wallpaper</EN_GE>
   </TextBlock>
 <TextBlock id ="62">
     <ZH_CN>设置 Taurus UI 的桌面与锁屏壁纸</ZH_CN>
-    <ZH_TW>設置 Taurus UI 的桌面與鎖屏壁紙</ZH_TW>
-    <ZH_WENYAN>设 Taurus UI 案面及锁屏壁纸</ZH_WENYAN>
+    <ZH_TW>設定 Taurus UI 的桌面與鎖屏壁紙</ZH_TW>
+    <ZH_WENYAN>设 Taurus UI 桌面及锁屏墙纸</ZH_WENYAN>
     <EN_GE>Set Taurus UI's desktop with lock screen wallpaper</EN_GE>
   </TextBlock>
 <TextBlock id ="63">
     <ZH_CN>桌面</ZH_CN>
     <ZH_TW>桌面</ZH_TW>
-    <ZH_WENYAN>案面</ZH_WENYAN>
+    <ZH_WENYAN>桌面</ZH_WENYAN>
     <EN_GE>Desktop</EN_GE>
   </TextBlock>
 <TextBlock id ="64">
     <ZH_CN>设置桌面文字颜色</ZH_CN>
-    <ZH_TW>設置桌面文字顏色</ZH_TW>
-    <ZH_WENYAN>置案面文字色</ZH_WENYAN>
+    <ZH_TW>設定桌面文字顏色</ZH_TW>
+    <ZH_WENYAN>置桌面文字色</ZH_WENYAN>
     <EN_GE>Set the desktop text color</EN_GE>
   </TextBlock>
 <TextBlock id ="65">
@@ -397,21 +397,21 @@
   </TextBlock>
 <TextBlock id ="66">
     <ZH_CN>设置锁屏文字颜色、设置锁屏自定义签名</ZH_CN>
-    <ZH_TW>設置鎖屏文字顏色、設置鎖屏自定義簽名</ZH_TW>
+    <ZH_TW>設定鎖屏文字顏色、設定鎖屏自定義簽名</ZH_TW>
     <ZH_WENYAN>置锁屏文色、置锁屏自定义署名</ZH_WENYAN>
     <EN_GE>Set the lock screen text color and set the lock screen custom signature</EN_GE>
   </TextBlock>
 <TextBlock id ="67">
-    <ZH_CN>系统颜色</ZH_CN>
-    <ZH_TW>系統顏色</ZH_TW>
-    <ZH_WENYAN>系统之色</ZH_WENYAN>
-    <EN_GE>Light and dark mode</EN_GE>
+    <ZH_CN>更改系统主题色</ZH_CN>
+    <ZH_TW>更改系統主題色</ZH_TW>
+    <ZH_WENYAN>更系统主题色</ZH_WENYAN>
+    <EN_GE>Change the system main color</EN_GE>
   </TextBlock>
 <TextBlock id ="68">
     <ZH_CN>将主题色应用在应用托盘上</ZH_CN>
     <ZH_TW>將主題色應用在應用托盤上</ZH_TW>
     <ZH_WENYAN>将主题色应用托盘</ZH_WENYAN>
-    <EN_GE>Apply the accent color to the app bar</EN_GE>
+    <EN_GE>Apply the main color to the app bar</EN_GE>
   </TextBlock>
 <TextBlock id ="69">
     <ZH_CN>请注意</ZH_CN>
@@ -429,19 +429,19 @@
     <ZH_CN>主题色</ZH_CN>
     <ZH_TW>主題色</ZH_TW>
     <ZH_WENYAN>大显色</ZH_WENYAN>
-    <EN_GE>Accent color</EN_GE>
+    <EN_GE>Main color</EN_GE>
   </TextBlock>
 <TextBlock id ="72">
     <ZH_CN>使用 RGB 自定义主题色</ZH_CN>
     <ZH_TW>使用 RGB 自定義主題色</ZH_TW>
     <ZH_WENYAN>用 RGB 自定义主题色</ZH_WENYAN>
-    <EN_GE>Customize accent colors</EN_GE>
+    <EN_GE>Customize the main colors</EN_GE>
   </TextBlock>
 <TextBlock id ="73">
-    <ZH_CN>需要 R G B 三个整数值</ZH_CN>
-    <ZH_TW>需要 R G B 三個整數值</ZH_TW>
-    <ZH_WENYAN>须 R G B 三整数直</ZH_WENYAN>
-    <EN_GE>Three integer values of R G B are required</EN_GE>
+    <ZH_CN>需要 RGB 三个整数值</ZH_CN>
+    <ZH_TW>需要 RGB 三個整數值</ZH_TW>
+    <ZH_WENYAN>须 RGB 三整数直</ZH_WENYAN>
+    <EN_GE>Need three integer values of RGB</EN_GE>
   </TextBlock>
 <TextBlock id ="74">
     <ZH_CN>桌面壁纸</ZH_CN>
@@ -487,7 +487,7 @@
   </TextBlock>
 <TextBlock id ="81">
     <ZH_CN>网络壁纸设置...</ZH_CN>
-    <ZH_TW>網路壁紙設置...</ZH_TW>
+    <ZH_TW>網路壁紙設定...</ZH_TW>
     <ZH_WENYAN>网络墙纸设置...</ZH_WENYAN>
     <EN_GE>Web wallpaper settings...</EN_GE>
   </TextBlock>
@@ -505,9 +505,9 @@
   </TextBlock>
 <TextBlock id ="84">
     <ZH_CN>设置壁纸使用模式</ZH_CN>
-    <ZH_TW>設置壁紙使用模式</ZH_TW>
+    <ZH_TW>設定壁紙使用模式</ZH_TW>
     <ZH_WENYAN>置壁纸用式</ZH_WENYAN>
-    <EN_GE>Set the wallpaper usage mode</EN_GE>
+    <EN_GE>Change the wallpaper usage mode</EN_GE>
   </TextBlock>
 <TextBlock id ="85">
     <ZH_CN>作为锁屏或者桌面壁纸</ZH_CN>
@@ -531,13 +531,13 @@
     <ZH_CN>默认(不获取)</ZH_CN>
     <ZH_TW>預設(不取得)</ZH_TW>
     <ZH_WENYAN>默认(不取)</ZH_WENYAN>
-    <EN_GE>Default (do not get)</EN_GE>
+    <EN_GE>Default (Not get)</EN_GE>
   </TextBlock>
 <TextBlock id ="89">
     <ZH_CN>默认(不获取)</ZH_CN>
     <ZH_TW>預設(不取得)</ZH_TW>
     <ZH_WENYAN>默认(不取)</ZH_WENYAN>
-    <EN_GE>Default (do not get)</EN_GE>
+    <EN_GE>Default (Not get)</EN_GE>
   </TextBlock>
 <TextBlock id ="90">
     <ZH_CN>同时</ZH_CN>
@@ -571,13 +571,13 @@
   </TextBlock>
 <TextBlock id ="95">
     <ZH_CN>设置锁屏文字颜色</ZH_CN>
-    <ZH_TW>設置鎖屏文字顏色</ZH_TW>
+    <ZH_TW>設定鎖屏文字顏色</ZH_TW>
     <ZH_WENYAN>设锁屏文字之色</ZH_WENYAN>
     <EN_GE>Sets the lock screen text color</EN_GE>
   </TextBlock>
 <TextBlock id ="96">
     <ZH_CN>设置锁屏自定义签名</ZH_CN>
-    <ZH_TW>設置鎖屏自定義簽名</ZH_TW>
+    <ZH_TW>設定鎖屏自定義簽名</ZH_TW>
     <ZH_WENYAN>置锁屏自定义署名</ZH_WENYAN>
     <EN_GE>Set up a lock screen custom signature</EN_GE>
   </TextBlock>
@@ -703,9 +703,9 @@
   </TextBlock>
 <TextBlock id ="117">
     <ZH_CN>设置 PIN 可保护设备安全</ZH_CN>
-    <ZH_TW>設置 PIN 可保護設備安全</ZH_TW>
+    <ZH_TW>設定 PIN 可保護設備安全</ZH_TW>
     <ZH_WENYAN>置 PIN 可保备</ZH_WENYAN>
-    <EN_GE>Setting a PIN secures your device</EN_GE>
+    <EN_GE>Setting a PIN to secure your device</EN_GE>
   </TextBlock>
 <TextBlock id ="118">
     <ZH_CN>安全问题</ZH_CN>
@@ -715,13 +715,13 @@
   </TextBlock>
 <TextBlock id ="119">
     <ZH_CN>设置一个安全问题，便于恢复密码</ZH_CN>
-    <ZH_TW>設置一個安全問題，便於恢復密碼</ZH_TW>
+    <ZH_TW>設定一個安全問題，便於恢復密碼</ZH_TW>
     <ZH_WENYAN>设一安全题问,便于复密码</ZH_WENYAN>
     <EN_GE>Set up a security question to make it easy to recover your password</EN_GE>
   </TextBlock>
 <TextBlock id ="120">
     <ZH_CN>设置</ZH_CN>
-    <ZH_TW>設置</ZH_TW>
+    <ZH_TW>設定</ZH_TW>
     <ZH_WENYAN>置</ZH_WENYAN>
     <EN_GE>Configure</EN_GE>
   </TextBlock>
@@ -757,7 +757,7 @@
   </TextBlock>
 <TextBlock id ="126">
     <ZH_CN>设置一个简单的问题，有助于恢复密码</ZH_CN>
-    <ZH_TW>設置一個簡單的問題，有助於恢復密碼</ZH_TW>
+    <ZH_TW>設定一個簡單的問題，有助於恢復密碼</ZH_TW>
     <ZH_WENYAN>设一简,助复密码</ZH_WENYAN>
     <EN_GE>Set up a simple question that helps to recover the password</EN_GE>
   </TextBlock>
@@ -793,7 +793,7 @@
   </TextBlock>
 <TextBlock id ="132">
     <ZH_CN>设置一个简单的答案，有助于恢复密码</ZH_CN>
-    <ZH_TW>設置一個簡單的答案，有助於恢復密碼</ZH_TW>
+    <ZH_TW>設定一個簡單的答案，有助於恢復密碼</ZH_TW>
     <ZH_WENYAN>设简对,助复密码</ZH_WENYAN>
     <EN_GE>Set up a simple answer that will help you recover your password</EN_GE>
   </TextBlock>
@@ -960,10 +960,10 @@
     <EN_GE>Notepad</EN_GE>
   </TextBlock>
 <TextBlock id ="160">
-    <ZH_CN>应用市场</ZH_CN>
-    <ZH_TW>應用市場</ZH_TW>
+    <ZH_CN>应用商店</ZH_CN>
+    <ZH_TW>應用商店</ZH_TW>
     <ZH_WENYAN>用市诗</ZH_WENYAN>
-    <EN_GE>App Market</EN_GE>
+    <EN_GE>Store</EN_GE>
   </TextBlock>
 <TextBlock id ="161">
     <ZH_CN>浏览器</ZH_CN>
@@ -1285,7 +1285,7 @@
   </TextBlock>
 <TextBlock id ="214">
     <ZH_CN>转到系统设置</ZH_CN>
-    <ZH_TW>轉到系統設置</ZH_TW>
+    <ZH_TW>轉到系統設定</ZH_TW>
     <ZH_WENYAN>移于系统设置</ZH_WENYAN>
     <EN_GE>Switch to Settings</EN_GE>
   </TextBlock>
@@ -1548,9 +1548,9 @@
     <EN_GE>English</EN_GE>
   </TextBlock>
 <TextBlock id ="258">
-    <ZH_CN>英语 (美国)</ZH_CN>
-    <ZH_TW>英語 (美國)</ZH_TW>
-    <ZH_WENYAN>英语 (美国)</ZH_WENYAN>
+    <ZH_CN>英语 (美利坚)</ZH_CN>
+    <ZH_TW>英語 (美利坚)</ZH_TW>
+    <ZH_WENYAN>英语 (美利坚)</ZH_WENYAN>
     <EN_GE>English (US)</EN_GE>
   </TextBlock>
 <TextBlock id ="259">
@@ -1560,15 +1560,15 @@
     <EN_GE>Reload</EN_GE>
   </TextBlock>
 <TextBlock id ="260">
-    <ZH_CN>修复模式</ZH_CN>
-    <ZH_TW>修復模式</ZH_TW>
-    <ZH_WENYAN>修复模式</ZH_WENYAN>
+    <ZH_CN>恢复模式</ZH_CN>
+    <ZH_TW>恢復模式</ZH_TW>
+    <ZH_WENYAN>恢复模式</ZH_WENYAN>
     <EN_GE>Recovery Mode</EN_GE>
   </TextBlock>
 <TextBlock id ="261">
-    <ZH_CN>进入修复模式，进行备份等操作</ZH_CN>
-    <ZH_TW>進入修復模式，進行備份等操作</ZH_TW>
-    <ZH_WENYAN>入修复模式，行备份等事</ZH_WENYAN>
+    <ZH_CN>进入恢复模式，进行备份等操作</ZH_CN>
+    <ZH_TW>進入恢復模式，進行備份等操作</ZH_TW>
+    <ZH_WENYAN>入恢复模式，行备份等事</ZH_WENYAN>
     <EN_GE>Enter the recovery mode and backup your software or perform other operations</EN_GE>
   </TextBlock>
 <TextBlock id ="262">
@@ -1707,7 +1707,7 @@
     <ZH_CN>相册</ZH_CN>
     <ZH_TW>相冊</ZH_TW>
     <ZH_WENYAN>相册</ZH_WENYAN>
-    <EN_GE>Album</EN_GE>
+    <EN_GE>Albums</EN_GE>
   </TextBlock>
 <TextBlock id ="285">
     <ZH_CN>集锦</ZH_CN>
@@ -2019,7 +2019,7 @@
     <ZH_CN>这里还没有东西哦...</ZH_CN>
     <ZH_TW>這裏還沒有東西哦...</ZH_TW>
     <ZH_WENYAN>此处尚无物...</ZH_WENYAN>
-    <EN_GE>Empty...</EN_GE>
+    <EN_GE>There's nothing here...</EN_GE>
   </TextBlock>
 <TextBlock id ="337">
     <ZH_CN>技术支持 © Microsoft Corporation. 保留所有权利。</ZH_CN>
@@ -2046,10 +2046,10 @@
     <EN_GE>Doc 3</EN_GE>
   </TextBlock>
 <TextBlock id ="341">
-    <ZH_CN>请在这里输入标题</ZH_CN>
-    <ZH_TW>請在這裏輸入標題</ZH_TW>
-    <ZH_WENYAN>命题于此处</ZH_WENYAN>
-    <EN_GE>Entitle here</EN_GE>
+    <ZH_CN>标题</ZH_CN>
+    <ZH_TW>標題</ZH_TW>
+    <ZH_WENYAN>题</ZH_WENYAN>
+    <EN_GE>Title</EN_GE>
   </TextBlock>
 <TextBlock id ="342">
     <ZH_CN>所有文档</ZH_CN>
@@ -2172,15 +2172,63 @@
     <EN_GE>Q: How to change the file name?    A: By clicking the textbox and enter texts.</EN_GE>
   </TextBlock>
 <TextBlock id ="362">
-    <ZH_CN>问: 为何无法使用编辑栏？ 答: 第一次使用需要点击“加载页面”。</ZH_CN>
-    <ZH_TW>問: 爲何無法使用編輯欄？ 答: 第一次使用需要點擊“加載頁面”。</ZH_TW>
-    <ZH_WENYAN>问：为何无能用编栏？ 答：首用需击“加载页面”。</ZH_WENYAN>
-    <EN_GE>Q: Why can I use the edit bar?    A: You need to click the "Load this page（加载页面）" button.</EN_GE>
+    <ZH_CN>问: 为何无法使用编辑栏？ 答: 第一次使用需要点击“重新加载”。</ZH_CN>
+    <ZH_TW>問: 爲何無法使用編輯欄？ 答: 第一次使用需要點擊“重新加載”。</ZH_TW>
+    <ZH_WENYAN>问：为何无能用编栏？ 答：首用需击“重载”。</ZH_WENYAN>
+    <EN_GE>Q: Why can I use the edit bar?    A: You need to click the "Reload" button.</EN_GE>
   </TextBlock>
 <TextBlock id ="363">
     <ZH_CN>若要应用文档格式，请点击“全部应用”。</ZH_CN>
     <ZH_TW>如果要應用檔案格式，請點擊“全部應用”。</ZH_TW>
-    <ZH_WENYAN>问：若应文书格式，请击“全部应用”。</ZH_WENYAN>
-    <EN_GE>If you want to apply a format to your document, please click the "Apply all（全部应用）" button.</EN_GE>
+    <ZH_WENYAN>问：若应文书格式，请击“具用”。</ZH_WENYAN>
+    <EN_GE>If you want to apply a format to your document, please click the "Apply all" button.</EN_GE>
+  </TextBlock>
+<TextBlock id ="364">
+    <ZH_CN>注意：可能有部分内容未翻译或者翻译错误！</ZH_CN>
+    <ZH_TW>注意：可能有部分內容未翻譯或者翻譯錯誤！</ZH_TW>
+    <ZH_WENYAN>注：或有书文未译错译！</ZH_WENYAN>
+    <EN_GE>ATTENTION: Some contents may not be translated correctly! </EN_GE>
+  </TextBlock>
+<TextBlock id ="365">
+    <ZH_CN>标题</ZH_CN>
+    <ZH_TW>標題</ZH_TW>
+    <ZH_WENYAN>题</ZH_WENYAN>
+    <EN_GE>Title</EN_GE>
+  </TextBlock>
+<TextBlock id ="366">
+    <ZH_CN>正文</ZH_CN>
+    <ZH_TW>正文</ZH_TW>
+    <ZH_WENYAN>文</ZH_WENYAN>
+    <EN_GE>Text</EN_GE>
+  </TextBlock>
+<TextBlock id ="367">
+    <ZH_CN>9 张</ZH_CN>
+    <ZH_TW>9 张</ZH_TW>
+    <ZH_WENYAN>9 张</ZH_WENYAN>
+    <EN_GE>9 Pictures</EN_GE>
+  </TextBlock>
+<TextBlock id ="368">
+    <ZH_CN>2 套</ZH_CN>
+    <ZH_TW>2 套</ZH_TW>
+    <ZH_WENYAN>2 套</ZH_WENYAN>
+    <EN_GE>2 Albums</EN_GE>
+  </TextBlock>
+<TextBlock id ="369">
+    <ZH_CN>无权访问！</ZH_CN>
+    <ZH_TW>無權訪問！</ZH_TW>
+    <ZH_WENYAN>无权访问！</ZH_WENYAN>
+    <EN_GE>No permission!</EN_GE>
+  </TextBlock>
+<TextBlock id ="370">
+    <ZH_CN>字体</ZH_CN>
+    <ZH_TW>字体</ZH_TW>
+    <ZH_WENYAN>字体</ZH_WENYAN>
+    <EN_GE>Font</EN_GE>
+  </TextBlock>
+<TextBlock id ="371">
+    <ZH_CN>字号</ZH_CN>
+    <ZH_TW>字号</ZH_TW>
+    <ZH_WENYAN>字号</ZH_WENYAN>
+    <EN_GE>Size</EN_GE>
   </TextBlock>
 </DocRoot>
