@@ -63,7 +63,7 @@
     <ZH_CN>照片</ZH_CN>
     <ZH_TW>照片</ZH_TW>
     <ZH_WENYAN>影像</ZH_WENYAN>
-    <EN_GE>Photo</EN_GE>
+    <EN_GE>Photos</EN_GE>
   </TextBlock>
 <TextBlock id ="11">
     <ZH_CN>通用</ZH_CN>
@@ -188,7 +188,7 @@
 <TextBlock id ="31">
     <ZH_CN>从服务器中检查、下载更新</ZH_CN>
     <ZH_TW>從服務器中檢查、下載更新</ZH_TW>
-    <ZH_WENYAN>自服务器中查及载下载更新</ZH_WENYAN>
+    <ZH_WENYAN>自服务器中查及取更新</ZH_WENYAN>
     <EN_GE>Check and download updates from the server</EN_GE>
   </TextBlock>
 <TextBlock id ="32">
@@ -285,7 +285,7 @@
     <ZH_CN>实验性功能</ZH_CN>
     <ZH_TW>實驗性功能</ZH_TW>
     <ZH_WENYAN>实验性功能</ZH_WENYAN>
-    <EN_GE>Flags</EN_GE>
+    <EN_GE>Experimental Functions</EN_GE>
   </TextBlock>
 <TextBlock id ="48">
     <ZH_CN>发布时间</ZH_CN>
@@ -327,7 +327,7 @@
     <ZH_CN>这些功能仅用于实验，可能需要高版本 PowerPoint ，随时可能被取消。</ZH_CN>
     <ZH_TW>這些功能僅用於實驗，可能需要高版本 PowerPoint，隨時可能被取消。</ZH_TW>
     <ZH_WENYAN>此功止于实验，或须高版 PowerPoint ，随时可除。</ZH_WENYAN>
-    <EN_GE>These features are for experimental purposes only and may require a later version of PowerPoint and may be canceled at any time.</EN_GE>
+    <EN_GE>These functions are for experimental purposes only and may require a later version of PowerPoint and may be canceled at any time.</EN_GE>
   </TextBlock>
 <TextBlock id ="55">
     <ZH_CN>相机</ZH_CN>
@@ -621,7 +621,7 @@
     <ZH_CN>个人资料与照片、管理信息使用渠道</ZH_CN>
     <ZH_TW>個人資料與照片、管理資訊使用管道</ZH_TW>
     <ZH_WENYAN>个人资料与照片、管信用渠</ZH_WENYAN>
-    <EN_GE>Profile and photo, manage information usage channels</EN_GE>
+    <EN_GE>Profile and Photos, manage information usage channels</EN_GE>
   </TextBlock>
 <TextBlock id ="104">
     <ZH_CN>安全选项</ZH_CN>
@@ -933,7 +933,7 @@
     <ZH_CN>建议</ZH_CN>
     <ZH_TW>建议</ZH_TW>
     <ZH_WENYAN>陈词</ZH_WENYAN>
-    <EN_GE>Proposal</EN_GE>
+    <EN_GE>Suggestion</EN_GE>
   </TextBlock>
 <TextBlock id ="156">
     <ZH_CN>主页</ZH_CN>
@@ -950,7 +950,7 @@
 <TextBlock id ="158">
     <ZH_CN>壁纸提供</ZH_CN>
     <ZH_TW>壁纸提供</ZH_TW>
-    <ZH_WENYAN>背景皆给俸禄</ZH_WENYAN>
+    <ZH_WENYAN>墙纸供</ZH_WENYAN>
     <EN_GE>Wallpaper supply</EN_GE>
   </TextBlock>
 <TextBlock id ="159">
@@ -962,7 +962,7 @@
 <TextBlock id ="160">
     <ZH_CN>应用商店</ZH_CN>
     <ZH_TW>應用商店</ZH_TW>
-    <ZH_WENYAN>用市诗</ZH_WENYAN>
+    <ZH_WENYAN>应用市</ZH_WENYAN>
     <EN_GE>Store</EN_GE>
   </TextBlock>
 <TextBlock id ="161">
@@ -1080,10 +1080,10 @@
     <EN_GE>Current version</EN_GE>
   </TextBlock>
 <TextBlock id ="180">
-    <ZH_CN>幸福倒计时</ZH_CN>
-    <ZH_TW>幸福倒计时</ZH_TW>
-    <ZH_WENYAN>幸福倒計時</ZH_WENYAN>
-    <EN_GE>Countdown to update</EN_GE>
+    <ZH_CN>是时候开始安装更新了</ZH_CN>
+    <ZH_TW>是時候開始安裝更新了</ZH_TW>
+    <ZH_WENYAN>是时始安新也</ZH_WENYAN>
+    <EN_GE>It's time to update your system</EN_GE>
   </TextBlock>
 <TextBlock id ="181">
     <ZH_CN>在安装更新前</ZH_CN>
@@ -1164,10 +1164,10 @@
     <EN_GE>Conversion</EN_GE>
   </TextBlock>
 <TextBlock id ="194">
-    <ZH_CN>当前您正在使用 Alpha Preview 版本，仅可用于体验测试，不得私自修改并发行。</ZH_CN>
-    <ZH_TW>當前您正在使用 Alpha Preview 版本，僅可用於體驗測試，不得私自修改併發行。</ZH_TW>
-    <ZH_WENYAN>今君方用 Alpha Preview 版本,仅可试以体验,不得私改而行。</ZH_WENYAN>
-    <EN_GE>You are currently using the Alpha Preview version, which can only be used for experience testing, and may not be modified and released privately.</EN_GE>
+    <ZH_CN>当前您正在使用 Beta Preview 版本，仅可用于体验测试，不得私自修改并发行。</ZH_CN>
+    <ZH_TW>當前您正在使用 Beta Preview 版本，僅可用於體驗測試，不得私自修改併發行。</ZH_TW>
+    <ZH_WENYAN>今君方用 Beta Preview 版本,仅可试以体验,不得私改而行。</ZH_WENYAN>
+    <EN_GE>You are currently using the Beta Preview version, which can only be used for experience testing, and may not be modified and released privately.</EN_GE>
   </TextBlock>
 <TextBlock id ="195">
     <ZH_CN>此版本遵循 CC-BY-NC-ND 开源</ZH_CN>
@@ -1218,10 +1218,10 @@
     <EN_GE>OK</EN_GE>
   </TextBlock>
 <TextBlock id ="203">
-    <ZH_CN>我们所有的更新文件均为从 Github.com 获取，若您无法获取更新，请使用代理工具或稍作等待。</ZH_CN>
-    <ZH_TW>我們所有的更新檔均為從 Github.com 獲取，若您無法獲取更新，請使用代理工具或稍作等待。</ZH_TW>
-    <ZH_WENYAN>凡新文皆取于 Github.com,若无所取新,请用摄具稍待之。</ZH_WENYAN>
-    <EN_GE>All of our update files are obtained from Github.com, if you are unable to get the update, please use the proxy tool or wait a little.</EN_GE>
+    <ZH_CN>我们所有的更新文件均为从 Github.com 获取。若您无法获取更新，请使用代理工具或稍作等待。</ZH_CN>
+    <ZH_TW>我們所有的更新檔均為從 Github.com 獲取。若您無法獲取更新，請使用代理工具或稍作等待。</ZH_TW>
+    <ZH_WENYAN>凡新文皆取于 Github.com。若君无所取新,请用摄具稍待之。</ZH_WENYAN>
+    <EN_GE>All of our update files are obtained from Github.com. If you are unable to get the update, please use the proxy tool or wait for a while.</EN_GE>
   </TextBlock>
 <TextBlock id ="204">
     <ZH_CN>软件更新仍在进行测试，有些时候您可能无法从云端获取更新内容。</ZH_CN>
@@ -1267,8 +1267,8 @@
   </TextBlock>
 <TextBlock id ="211">
     <ZH_CN>个性化</ZH_CN>
-    <ZH_TW>個性化</ZH_TW>
-    <ZH_WENYAN>晚化</ZH_WENYAN>
+    <ZH_TW>個人化</ZH_TW>
+    <ZH_WENYAN>个性化</ZH_WENYAN>
     <EN_GE>Personalization</EN_GE>
   </TextBlock>
 <TextBlock id ="212">
@@ -1392,10 +1392,10 @@
     <EN_GE>License Terms</EN_GE>
   </TextBlock>
 <TextBlock id ="232">
-    <ZH_CN>Alpha Preview 版本说明</ZH_CN>
-    <ZH_TW>Alpha Preview 版本説明</ZH_TW>
-    <ZH_WENYAN>Alpha Preview 版本说明</ZH_WENYAN>
-    <EN_GE>Alpha Preview Release Notes</EN_GE>
+    <ZH_CN>Beta Preview 版本说明</ZH_CN>
+    <ZH_TW>Beta Preview 版本説明</ZH_TW>
+    <ZH_WENYAN>Beta Preview 版本说明</ZH_WENYAN>
+    <EN_GE>Beta Preview Release Notes</EN_GE>
   </TextBlock>
 <TextBlock id ="233">
     <ZH_CN>更换主题样式、修改主题色</ZH_CN>
@@ -1719,7 +1719,7 @@
     <ZH_CN>所有照片</ZH_CN>
     <ZH_TW>所有照片</ZH_TW>
     <ZH_WENYAN>咸像</ZH_WENYAN>
-    <EN_GE>All photos</EN_GE>
+    <EN_GE>All Photos</EN_GE>
   </TextBlock>
 <TextBlock id ="287">
     <ZH_CN>回收站</ZH_CN>
@@ -1731,7 +1731,7 @@
     <ZH_CN>关于照片</ZH_CN>
     <ZH_TW>關於照片</ZH_TW>
     <ZH_WENYAN>关于影像</ZH_WENYAN>
-    <EN_GE>About Photo</EN_GE>
+    <EN_GE>About Photos</EN_GE>
   </TextBlock>
 <TextBlock id ="289">
     <ZH_CN>最近添加</ZH_CN>
@@ -1767,7 +1767,7 @@
     <ZH_CN>查看所有照片</ZH_CN>
     <ZH_TW>查看所有照片</ZH_TW>
     <ZH_WENYAN>览咸像</ZH_WENYAN>
-    <EN_GE>View all your photos</EN_GE>
+    <EN_GE>View all your Photos</EN_GE>
   </TextBlock>
 <TextBlock id ="295">
     <ZH_CN>回顾过往记录</ZH_CN>
@@ -2157,7 +2157,7 @@
     <ZH_CN>此产品由 © 极美游戏工作室 和 Cladonia 制作。</ZH_CN>
     <ZH_TW>此產品由 © 極美游戲工作室 和 Cladonia 製作。</ZH_TW>
     <ZH_WENYAN>此产品由 © 极美游戏工作室 同 Cladonia 共制。</ZH_WENYAN>
-    <EN_GE>This produce is made by © Fantastic Studio and Cladonia.</EN_GE>
+    <EN_GE>This product is made by © Fantastic Game Studio and Cladonia.</EN_GE>
   </TextBlock>
 <TextBlock id ="360">
     <ZH_CN>打开...</ZH_CN>
@@ -2230,5 +2230,521 @@
     <ZH_TW>字号</ZH_TW>
     <ZH_WENYAN>字号</ZH_WENYAN>
     <EN_GE>Size</EN_GE>
+  </TextBlock>
+<TextBlock id ="372">
+    <ZH_CN>桌面和锁屏设置</ZH_CN>
+    <ZH_TW>桌面和鎖屏設定</ZH_TW>
+    <ZH_WENYAN>桌锁设定</ZH_WENYAN>
+    <EN_GE>Desktop and lockscreen settings</EN_GE>
+  </TextBlock>
+<TextBlock id ="373">
+    <ZH_CN>无法加载浏览器</ZH_CN>
+    <ZH_TW>無法載入瀏覽器</ZH_TW>
+    <ZH_WENYAN>浏览器难以载也</ZH_WENYAN>
+    <EN_GE>Could not load the browser.</EN_GE>
+  </TextBlock>
+<TextBlock id ="374">
+    <ZH_CN>请检查是否已安装注册表补丁</ZH_CN>
+    <ZH_TW>請檢查是否已安裝註冊表補丁</ZH_TW>
+    <ZH_WENYAN>请检补丁之安装与否</ZH_WENYAN>
+    <EN_GE>Please check whether the registry patch is installed.</EN_GE>
+  </TextBlock>
+<TextBlock id ="375">
+    <ZH_CN>如果已安装，请尝试退出重进</ZH_CN>
+    <ZH_TW>如果已安裝，請嘗試退出重進</ZH_TW>
+    <ZH_WENYAN>已装则试退而再入</ZH_WENYAN>
+    <EN_GE>If it is installed，please try to exit the browser and re-enter it.</EN_GE>
+  </TextBlock>
+<TextBlock id ="376">
+    <ZH_CN>错误代码：LOADING_FAILED</ZH_CN>
+    <ZH_TW>錯誤代碼：LOADING_FAILED</ZH_TW>
+    <ZH_WENYAN>错误代码：LOADING_FAILED</ZH_WENYAN>
+    <EN_GE>Error Code：LOADING_FAILED</EN_GE>
+  </TextBlock>
+<TextBlock id ="377">
+    <ZH_CN>退出</ZH_CN>
+    <ZH_TW>退出</ZH_TW>
+    <ZH_WENYAN>退出</ZH_WENYAN>
+    <EN_GE>Exit</EN_GE>
+  </TextBlock>
+<TextBlock id ="378">
+    <ZH_CN>更多操作</ZH_CN>
+    <ZH_TW>更多操作</ZH_TW>
+    <ZH_WENYAN>更多操作</ZH_WENYAN>
+    <EN_GE>More actions</EN_GE>
+  </TextBlock>
+<TextBlock id ="379">
+    <ZH_CN>我想从官网下载更新</ZH_CN>
+    <ZH_TW>我想從官網下載更新</ZH_TW>
+    <ZH_WENYAN>吾愿取更新于官网</ZH_WENYAN>
+    <EN_GE>I want to download updates from the official website.</EN_GE>
+  </TextBlock>
+<TextBlock id ="380">
+    <ZH_CN>Taurus UI Camelot 在运行时遇到问题，需要重新启动</ZH_CN>
+    <ZH_TW>Taurus UI Camelot 在運行時遇到問題，需要重新啟動</ZH_TW>
+    <ZH_WENYAN>Taurus UI Camelot 忽逢疑难之症于行时，需重启以复原</ZH_WENYAN>
+    <EN_GE>Taurus UI Camelot went wrong!</EN_GE>
+  </TextBlock>
+<TextBlock id ="381">
+    <ZH_CN>您可以从“错误信息”中找到问题所在</ZH_CN>
+    <ZH_TW>您可以從“錯誤資訊”中找到問題所在</ZH_TW>
+    <ZH_WENYAN>君可查疑之根于“错误信息”中</ZH_WENYAN>
+    <EN_GE>You can check out the operational error from "ERROR INFO"</EN_GE>
+  </TextBlock>
+<TextBlock id ="382">
+    <ZH_CN>错误代码：ILLEGAL_INSTRUCTIONS</ZH_CN>
+    <ZH_TW>錯誤代碼：ILLEGAL_INSTRUCTIONS</ZH_TW>
+    <ZH_WENYAN>错误代码：ILLEGAL_INSTRUCTIONS</ZH_WENYAN>
+    <EN_GE>ERROR CODE: ILLEGAL_INSTRUCTIONS</EN_GE>
+  </TextBlock>
+<TextBlock id ="383">
+    <ZH_CN>错误信息：执行了非法指令</ZH_CN>
+    <ZH_TW>錯誤資訊：執行了非法指令</ZH_TW>
+    <ZH_WENYAN>错误信息：行非法指令也</ZH_WENYAN>
+    <EN_GE>ERROR INFO: Executed illegal instructions</EN_GE>
+  </TextBlock>
+<TextBlock id ="384">
+    <ZH_CN>进入恢复模式</ZH_CN>
+    <ZH_TW>進入恢復模式</ZH_TW>
+    <ZH_WENYAN>入恢复模式</ZH_WENYAN>
+    <EN_GE>Enter Recovery Mode</EN_GE>
+  </TextBlock>
+<TextBlock id ="385">
+    <ZH_CN>重新启动 Taurus UI</ZH_CN>
+    <ZH_TW>重新啟動 Taurus UI</ZH_TW>
+    <ZH_WENYAN>重启 Taurus UI</ZH_WENYAN>
+    <EN_GE>Restart Taurus UI</EN_GE>
+  </TextBlock>
+<TextBlock id ="386">
+    <ZH_CN>关闭 PowerPoint</ZH_CN>
+    <ZH_TW>關閉 PowerPoint</ZH_TW>
+    <ZH_WENYAN>关 PowerPoint</ZH_WENYAN>
+    <EN_GE>Close PowerPoint</EN_GE>
+  </TextBlock>
+<TextBlock id ="387">
+    <ZH_CN>使用 Tab 键来选择，Enter 键来执行选项</ZH_CN>
+    <ZH_TW>使用 Tab 鍵來選擇，Enter 鍵來執行選項</ZH_TW>
+    <ZH_WENYAN>击 Tab 键以择，Enter 键以施行</ZH_WENYAN>
+    <EN_GE>Use Tab to select, Enter to enter the option.</EN_GE>
+  </TextBlock>
+<TextBlock id ="388">
+    <ZH_CN>“相机” 应用需要以下权限来正常运行</ZH_CN>
+    <ZH_TW>“相機” 應用需要以下權限來正常運行</ZH_TW>
+    <ZH_WENYAN>“照机” 需如下权限以常转</ZH_WENYAN>
+    <EN_GE>The Camera app requires the following permissions to function properly.</EN_GE>
+  </TextBlock>
+<TextBlock id ="389">
+    <ZH_CN>详细信息</ZH_CN>
+    <ZH_TW>詳細信息</ZH_TW>
+    <ZH_WENYAN>详</ZH_WENYAN>
+    <EN_GE>Details</EN_GE>
+  </TextBlock>
+<TextBlock id ="390">
+    <ZH_CN>• 访问摄像头</ZH_CN>
+    <ZH_TW>• 訪問相機</ZH_TW>
+    <ZH_WENYAN>• 访照机</ZH_WENYAN>
+    <EN_GE>• Access the camera</EN_GE>
+  </TextBlock>
+<TextBlock id ="391">
+    <ZH_CN>注意：某些应用可能会调取您的摄像头，来窃取您的隐私信息，请对这类应用保持警惕。</ZH_CN>
+    <ZH_TW>注意：某些應用程式可能會調用您的相機，來竊取您的隱私信息，請對這類應用保持警惕。</ZH_TW>
+    <ZH_WENYAN>注：或有应用调尔之照机以窃尔隐私，且慎之以防其肆。</ZH_WENYAN>
+    <EN_GE>ATTENTION: Some apps may invoke your camera to steal your privacy, so please pay attention to these apps.</EN_GE>
+  </TextBlock>
+<TextBlock id ="392">
+    <ZH_CN>允许</ZH_CN>
+    <ZH_TW>允許</ZH_TW>
+    <ZH_WENYAN>许</ZH_WENYAN>
+    <EN_GE>Allow</EN_GE>
+  </TextBlock>
+<TextBlock id ="393">
+    <ZH_CN>拒绝</ZH_CN>
+    <ZH_TW>拒絕</ZH_TW>
+    <ZH_WENYAN>拒</ZH_WENYAN>
+    <EN_GE>Refuse</EN_GE>
+  </TextBlock>
+<TextBlock id ="394">
+    <ZH_CN>单击切换按钮可以切换白天/黑夜模式</ZH_CN>
+    <ZH_TW>單擊切換按鈕可以切換白天/黑夜模式</ZH_TW>
+    <ZH_WENYAN>击切钮可切昼/夜之态</ZH_WENYAN>
+    <EN_GE>Click the toggle button to switch the interface from daylight or night mode to another mode</EN_GE>
+  </TextBlock>
+<TextBlock id ="395">
+    <ZH_CN>单击按钮外任何区域以返回</ZH_CN>
+    <ZH_TW>單擊按鈕外任何區域以返回</ZH_TW>
+    <ZH_WENYAN>击钮外任意一处以返归</ZH_WENYAN>
+    <EN_GE>Click anywhere outside the button to return</EN_GE>
+  </TextBlock>
+<TextBlock id ="396">
+    <ZH_CN>所有应用</ZH_CN>
+    <ZH_TW>所有應用</ZH_TW>
+    <ZH_WENYAN>具应用</ZH_WENYAN>
+    <EN_GE>All apps</EN_GE>
+  </TextBlock>
+<TextBlock id ="397">
+    <ZH_CN>关于应用商店</ZH_CN>
+    <ZH_TW>關於應用商店</ZH_TW>
+    <ZH_WENYAN>关于应用市</ZH_WENYAN>
+    <EN_GE>About App Market</EN_GE>
+  </TextBlock>
+<TextBlock id ="398">
+    <ZH_CN>推荐应用</ZH_CN>
+    <ZH_TW>推薦應用</ZH_TW>
+    <ZH_WENYAN>良品</ZH_WENYAN>
+    <EN_GE>Recommended apps</EN_GE>
+  </TextBlock>
+<TextBlock id ="399">
+    <ZH_CN>分类</ZH_CN>
+    <ZH_TW>分類</ZH_TW>
+    <ZH_WENYAN>分类</ZH_WENYAN>
+    <EN_GE>Category</EN_GE>
+  </TextBlock>
+<TextBlock id ="400">
+    <ZH_CN>生产力</ZH_CN>
+    <ZH_TW>生產力</ZH_TW>
+    <ZH_WENYAN>生产力</ZH_WENYAN>
+    <EN_GE>Productivity</EN_GE>
+  </TextBlock>
+<TextBlock id ="401">
+    <ZH_CN>学习</ZH_CN>
+    <ZH_TW>學習</ZH_TW>
+    <ZH_WENYAN>学习</ZH_WENYAN>
+    <EN_GE>Learning</EN_GE>
+  </TextBlock>
+<TextBlock id ="402">
+    <ZH_CN>生活</ZH_CN>
+    <ZH_TW>生活</ZH_TW>
+    <ZH_WENYAN>生活</ZH_WENYAN>
+    <EN_GE>Life</EN_GE>
+  </TextBlock>
+<TextBlock id ="403">
+    <ZH_CN>娱乐</ZH_CN>
+    <ZH_TW>娛樂</ZH_TW>
+    <ZH_WENYAN>娱乐</ZH_WENYAN>
+    <EN_GE>Entertainment</EN_GE>
+  </TextBlock>
+<TextBlock id ="404">
+    <ZH_CN>查看所有应用</ZH_CN>
+    <ZH_TW>查看所有應用</ZH_TW>
+    <ZH_WENYAN>览具应用</ZH_WENYAN>
+    <EN_GE>View all apps</EN_GE>
+  </TextBlock>
+<TextBlock id ="405">
+    <ZH_CN>内核信息</ZH_CN>
+    <ZH_TW>内核信息</ZH_TW>
+    <ZH_WENYAN>内核信息</ZH_WENYAN>
+    <EN_GE>App Core Info</EN_GE>
+  </TextBlock>
+<TextBlock id ="406">
+    <ZH_CN>腾讯文档</ZH_CN>
+    <ZH_TW>騰訊文檔</ZH_TW>
+    <ZH_WENYAN>腾讯文档</ZH_WENYAN>
+    <EN_GE>Tencent Docs</EN_GE>
+  </TextBlock>
+<TextBlock id ="407">
+    <ZH_CN>金山文档</ZH_CN>
+    <ZH_TW>金山文檔</ZH_TW>
+    <ZH_WENYAN>金山文档</ZH_WENYAN>
+    <EN_GE>KDocs</EN_GE>
+  </TextBlock>
+<TextBlock id ="408">
+    <ZH_CN>石墨文档</ZH_CN>
+    <ZH_TW>石墨文檔</ZH_TW>
+    <ZH_WENYAN>石墨文档</ZH_WENYAN>
+    <EN_GE>Shimo</EN_GE>
+  </TextBlock>
+<TextBlock id ="409">
+    <ZH_CN>奶牛快传</ZH_CN>
+    <ZH_TW>奶牛快傳</ZH_TW>
+    <ZH_WENYAN>奶牛快传</ZH_WENYAN>
+    <EN_GE>Cowtransfer</EN_GE>
+  </TextBlock>
+<TextBlock id ="410">
+    <ZH_CN>必应翻译</ZH_CN>
+    <ZH_TW>必應翻譯</ZH_TW>
+    <ZH_WENYAN>必应翻译</ZH_WENYAN>
+    <EN_GE>Bing Translator</EN_GE>
+  </TextBlock>
+<TextBlock id ="411">
+    <ZH_CN>洋葱学园</ZH_CN>
+    <ZH_TW>洋葱學園</ZH_TW>
+    <ZH_WENYAN>洋葱学园</ZH_WENYAN>
+    <EN_GE>Onion Academy</EN_GE>
+  </TextBlock>
+<TextBlock id ="412">
+    <ZH_CN>新华网</ZH_CN>
+    <ZH_TW>新華網</ZH_TW>
+    <ZH_WENYAN>新华网</ZH_WENYAN>
+    <EN_GE>XINHUANET</EN_GE>
+  </TextBlock>
+<TextBlock id ="413">
+    <ZH_CN>腾讯天气</ZH_CN>
+    <ZH_TW>騰訊天氣</ZH_TW>
+    <ZH_WENYAN>腾讯天气</ZH_WENYAN>
+    <EN_GE>Tencent Weather</EN_GE>
+  </TextBlock>
+<TextBlock id ="414">
+    <ZH_CN>淘宝</ZH_CN>
+    <ZH_TW>淘寶</ZH_TW>
+    <ZH_WENYAN>淘宝</ZH_WENYAN>
+    <EN_GE>Taobao</EN_GE>
+  </TextBlock>
+<TextBlock id ="415">
+    <ZH_CN>阿里巴巴</ZH_CN>
+    <ZH_TW>阿里巴巴</ZH_TW>
+    <ZH_WENYAN>阿里巴巴</ZH_WENYAN>
+    <EN_GE>Alibaba</EN_GE>
+  </TextBlock>
+<TextBlock id ="416">
+    <ZH_CN>微信</ZH_CN>
+    <ZH_TW>微信</ZH_TW>
+    <ZH_WENYAN>微信</ZH_WENYAN>
+    <EN_GE>WeChat</EN_GE>
+  </TextBlock>
+<TextBlock id ="417">
+    <ZH_CN>高德地图</ZH_CN>
+    <ZH_TW>高德地圖</ZH_TW>
+    <ZH_WENYAN>高德地图</ZH_WENYAN>
+    <EN_GE>Amap</EN_GE>
+  </TextBlock>
+<TextBlock id ="418">
+    <ZH_CN>高德软件</ZH_CN>
+    <ZH_TW>高德軟體</ZH_TW>
+    <ZH_WENYAN>高德软件</ZH_WENYAN>
+    <EN_GE>AutoNavi</EN_GE>
+  </TextBlock>
+<TextBlock id ="419">
+    <ZH_CN>哔哩哔哩</ZH_CN>
+    <ZH_TW>嗶哩嗶哩</ZH_TW>
+    <ZH_WENYAN>哔哩哔哩</ZH_WENYAN>
+    <EN_GE>bilibili</EN_GE>
+  </TextBlock>
+<TextBlock id ="420">
+    <ZH_CN>IT之家</ZH_CN>
+    <ZH_TW>IT之家</ZH_TW>
+    <ZH_WENYAN>IT之家</ZH_WENYAN>
+    <EN_GE>ithome</EN_GE>
+  </TextBlock>
+<TextBlock id ="421">
+    <ZH_CN>软媒</ZH_CN>
+    <ZH_TW>軟媒</ZH_TW>
+    <ZH_WENYAN>软媒</ZH_WENYAN>
+    <EN_GE>RuanMei</EN_GE>
+  </TextBlock>
+<TextBlock id ="422">
+    <ZH_CN>澎湃新闻</ZH_CN>
+    <ZH_TW>澎湃新聞</ZH_TW>
+    <ZH_WENYAN>澎湃新闻</ZH_WENYAN>
+    <EN_GE>The Paper</EN_GE>
+  </TextBlock>
+<TextBlock id ="423">
+    <ZH_CN>上海报业集团</ZH_CN>
+    <ZH_TW>上海報業集團</ZH_TW>
+    <ZH_WENYAN>上海报业集团</ZH_WENYAN>
+    <EN_GE>SUMG</EN_GE>
+  </TextBlock>
+<TextBlock id ="424">
+    <ZH_CN>学习强国</ZH_CN>
+    <ZH_TW>學習强國</ZH_TW>
+    <ZH_WENYAN>学习强国</ZH_WENYAN>
+    <EN_GE>Xuéxí Qiángguó</EN_GE>
+  </TextBlock>
+<TextBlock id ="425">
+    <ZH_CN>中共中央宣传部</ZH_CN>
+    <ZH_TW>中共中央宣傳部</ZH_TW>
+    <ZH_WENYAN>中共中央宣传部</ZH_WENYAN>
+    <EN_GE>Publicity Department of CPC</EN_GE>
+  </TextBlock>
+<TextBlock id ="426">
+    <ZH_CN>应用内付费，已安装</ZH_CN>
+    <ZH_TW>應用内付費，已安裝</ZH_TW>
+    <ZH_WENYAN>付于应用，已装也</ZH_WENYAN>
+    <EN_GE>Intalled, pay in the app</EN_GE>
+  </TextBlock>
+<TextBlock id ="427">
+    <ZH_CN>免费，已安装</ZH_CN>
+    <ZH_TW>免費，已安裝</ZH_TW>
+    <ZH_WENYAN>免费，已装也</ZH_WENYAN>
+    <EN_GE>Intalled, free</EN_GE>
+  </TextBlock>
+<TextBlock id ="428">
+    <ZH_CN>来自网络</ZH_CN>
+    <ZH_TW>來自網路</ZH_TW>
+    <ZH_WENYAN>自网络来</ZH_WENYAN>
+    <EN_GE>from the Internet</EN_GE>
+  </TextBlock>
+<TextBlock id ="429">
+    <ZH_CN>戌犬朱狼</ZH_CN>
+    <ZH_TW>戌犬朱狼</ZH_TW>
+    <ZH_WENYAN>戌犬朱狼</ZH_WENYAN>
+    <EN_GE>Lipus Leo Leung</EN_GE>
+  </TextBlock>
+<TextBlock id ="430">
+    <ZH_CN>“实验性功能” 需要以下权限来正常运行</ZH_CN>
+    <ZH_TW>“實驗性功能” 需要以下權限來正常運行</ZH_TW>
+    <ZH_WENYAN>“实验性功能” 需如下权限以常转</ZH_WENYAN>
+    <EN_GE>Experimental Functions require the following permissions to function properly.</EN_GE>
+  </TextBlock>
+<TextBlock id ="431">
+    <ZH_CN>• 更改系统设置</ZH_CN>
+    <ZH_TW>• 更改系統設定</ZH_TW>
+    <ZH_WENYAN>• 更系统设定</ZH_WENYAN>
+    <EN_GE>• Change system settings</EN_GE>
+  </TextBlock>
+<TextBlock id ="432">
+    <ZH_CN>• 使用设备最高权限</ZH_CN>
+    <ZH_TW>• 使用設備最高權限</ZH_TW>
+    <ZH_WENYAN>• 用设备之极权</ZH_WENYAN>
+    <EN_GE>• Use the highest permission of this device</EN_GE>
+  </TextBlock>
+<TextBlock id ="433">
+    <ZH_CN>• 强制关闭任何应用，包括系统界面</ZH_CN>
+    <ZH_TW>• 强制關閉任何應用，包括系統界面</ZH_TW>
+    <ZH_WENYAN>• 强闭具应用，含系统界面</ZH_WENYAN>
+    <EN_GE>• Force to close any apps, including the system UI</EN_GE>
+  </TextBlock>
+<TextBlock id ="434">
+    <ZH_CN>某些实验性功能会导致系统崩溃，请三思而后行！</ZH_CN>
+    <ZH_TW>某些實驗性功能會導致系統崩潰，請三思而後行！</ZH_TW>
+    <ZH_WENYAN>或有实验性功能致系统崩溃之险也，望君三思而后行！</ZH_WENYAN>
+    <EN_GE>Some experimental functions may cause the system to crush. Please think twice before you take actions!</EN_GE>
+  </TextBlock>
+<TextBlock id ="435">
+    <ZH_CN>• 读取更多个人信息</ZH_CN>
+    <ZH_TW>• 讀取更多個人信息</ZH_TW>
+    <ZH_WENYAN>• 获愈多个人之详资</ZH_WENYAN>
+    <EN_GE>• Read more personal information</EN_GE>
+  </TextBlock>
+<TextBlock id ="436">
+    <ZH_CN>注意：请三思而后行！</ZH_CN>
+    <ZH_TW>注意：請三思而後行！</ZH_TW>
+    <ZH_WENYAN>注：请三思而后行！</ZH_WENYAN>
+    <EN_GE>ATTENTION: Please think twice before you take actions!</EN_GE>
+  </TextBlock>
+<TextBlock id ="437">
+    <ZH_CN>备份系统</ZH_CN>
+    <ZH_TW>備份系統</ZH_TW>
+    <ZH_WENYAN>备份系统</ZH_WENYAN>
+    <EN_GE>Back up your system</EN_GE>
+  </TextBlock>
+<TextBlock id ="438">
+    <ZH_CN>建议先备份系统，方便在系统崩溃时将其还原</ZH_CN>
+    <ZH_TW>建議先備份系統，方便在系統崩潰時將其還原</ZH_TW>
+    <ZH_WENYAN>劝君先备份系统，以便崩毁之时得以复还</ZH_WENYAN>
+    <EN_GE>back up your system, and restore it when it is crashed</EN_GE>
+  </TextBlock>
+<TextBlock id ="439">
+    <ZH_CN>备份</ZH_CN>
+    <ZH_TW>備份</ZH_TW>
+    <ZH_WENYAN>备份</ZH_WENYAN>
+    <EN_GE>Back up</EN_GE>
+  </TextBlock>
+<TextBlock id ="440">
+    <ZH_CN>无壁纸主题</ZH_CN>
+    <ZH_TW>無壁紙主題</ZH_TW>
+    <ZH_WENYAN>无墙纸主题</ZH_WENYAN>
+    <EN_GE>Themes (without wallpapers)</EN_GE>
+  </TextBlock>
+<TextBlock id ="441">
+    <ZH_CN>取消系统壁纸背景 (不可撤销)</ZH_CN>
+    <ZH_TW>取消系統壁紙背景 (不可撤銷)</ZH_TW>
+    <ZH_WENYAN>消系统墙纸背景 (无法撤销)</ZH_WENYAN>
+    <EN_GE>Cancel system wallpaper backgrounds (Irreversible)</EN_GE>
+  </TextBlock>
+<TextBlock id ="442">
+    <ZH_CN>执行</ZH_CN>
+    <ZH_TW>執行</ZH_TW>
+    <ZH_WENYAN>行</ZH_WENYAN>
+    <EN_GE>Execute</EN_GE>
+  </TextBlock>
+<TextBlock id ="443">
+    <ZH_CN>让系统崩溃</ZH_CN>
+    <ZH_TW>讓系統崩潰</ZH_TW>
+    <ZH_WENYAN>崩毁系统</ZH_WENYAN>
+    <EN_GE>Crash the system</EN_GE>
+  </TextBlock>
+<TextBlock id ="444">
+    <ZH_CN>发送指令使系统崩溃</ZH_CN>
+    <ZH_TW>發送指令使系統崩潰</ZH_TW>
+    <ZH_WENYAN>下令以崩毁系统</ZH_WENYAN>
+    <EN_GE>Send instructions to crash the system</EN_GE>
+  </TextBlock>
+<TextBlock id ="445">
+    <ZH_CN>让 PowerPoint 崩溃</ZH_CN>
+    <ZH_TW>讓 PowerPoint 崩潰</ZH_TW>
+    <ZH_WENYAN>崩毁 PowerPoint</ZH_WENYAN>
+    <EN_GE>Crash PowerPoint</EN_GE>
+  </TextBlock>
+<TextBlock id ="446">
+    <ZH_CN>真心劝你别搞搞震哇~</ZH_CN>
+    <ZH_TW>真心勸你別搞事情~</ZH_TW>
+    <ZH_WENYAN>此言诚劝君勿滋事端也~</ZH_WENYAN>
+    <EN_GE>Don't Zuo Si, OK?</EN_GE>
+  </TextBlock>
+<TextBlock id ="447">
+    <ZH_CN>昼夜切换按钮</ZH_CN>
+    <ZH_TW>晝夜切換按鈕</ZH_TW>
+    <ZH_WENYAN>昼夜切钮</ZH_WENYAN>
+    <EN_GE>Day and night switch button</EN_GE>
+  </TextBlock>
+<TextBlock id ="448">
+    <ZH_CN>听说这可是逼疯程序员的按钮哦~</ZH_CN>
+    <ZH_TW>聽説這可是逼瘋程序員的按鈕哦~</ZH_TW>
+    <ZH_WENYAN>闻此或为程序员之疯魔之源也~</ZH_WENYAN>
+    <EN_GE>It is said that this is a button that makes a programmer mad...</EN_GE>
+  </TextBlock>
+<TextBlock id ="449">
+    <ZH_CN>强制更改系统字体</ZH_CN>
+    <ZH_TW>强制更改系統字體</ZH_TW>
+    <ZH_WENYAN>强易系统字体</ZH_WENYAN>
+    <EN_GE>Change the system font</EN_GE>
+  </TextBlock>
+<TextBlock id ="450">
+    <ZH_CN>强制更改系统默认字体为微软雅黑 (不可撤销)</ZH_CN>
+    <ZH_TW>强制更改系統默認字體為微軟雅黑 (不可撤銷)</ZH_TW>
+    <ZH_WENYAN>强易系统默认字体为微软雅黑 (无法撤销)</ZH_WENYAN>
+    <EN_GE>Change the default font of the system into Segoe UI unconditionally (Irreversible)</EN_GE>
+  </TextBlock>
+<TextBlock id ="451">
+    <ZH_CN>强制使用白色/黑色字体</ZH_CN>
+    <ZH_TW>强制使用白色/黑色字體</ZH_TW>
+    <ZH_WENYAN>强用白/黑字体</ZH_WENYAN>
+    <EN_GE>Force to use white or black fonts unconditionally</EN_GE>
+  </TextBlock>
+<TextBlock id ="452">
+    <ZH_CN>同样不可撤销的操作</ZH_CN>
+    <ZH_TW>同樣不可撤銷的操作</ZH_TW>
+    <ZH_WENYAN>此作为亦不可撤销也</ZH_WENYAN>
+    <EN_GE>An irreversible operation...</EN_GE>
+  </TextBlock>
+<TextBlock id ="453">
+    <ZH_CN>白色</ZH_CN>
+    <ZH_TW>白色</ZH_TW>
+    <ZH_WENYAN>白色</ZH_WENYAN>
+    <EN_GE>White</EN_GE>
+  </TextBlock>
+<TextBlock id ="454">
+    <ZH_CN>黑色</ZH_CN>
+    <ZH_TW>黑色</ZH_TW>
+    <ZH_WENYAN>黑色</ZH_WENYAN>
+    <EN_GE>Black</EN_GE>
+  </TextBlock>
+<TextBlock id ="455">
+    <ZH_CN>更改幻灯片切换时间</ZH_CN>
+    <ZH_TW>更改幻燈片切換時間</ZH_TW>
+    <ZH_WENYAN>更幻灯片切换之时</ZH_WENYAN>
+    <EN_GE>Change the time for switching slides</EN_GE>
+  </TextBlock>
+<TextBlock id ="456">
+    <ZH_CN>强制更改所有幻灯片的切换时间 (以秒为单位)，双击文本框可应用</ZH_CN>
+    <ZH_TW>强制更改所有幻燈片的切換時間 (以秒爲單位)，雙擊文本框可應用</ZH_TW>
+    <ZH_WENYAN>强更具幻灯片切换之时 (以秒计之)，双击文本框以应用</ZH_WENYAN>
+    <EN_GE>Change the time for switching slides unconditionally (in seconds), double-click the textbox to apply</EN_GE>
+  </TextBlock>
+<TextBlock id ="457">
+    <ZH_CN>执行失败！</ZH_CN>
+    <ZH_TW>執行失敗！</ZH_TW>
+    <ZH_WENYAN>执行失败！</ZH_WENYAN>
+    <EN_GE>Fail to execute!</EN_GE>
   </TextBlock>
 </DocRoot>
