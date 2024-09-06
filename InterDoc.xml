@@ -3,2748 +3,2802 @@
     <ZH_CN>欢迎回来</ZH_CN>
     <ZH_TW>欢迎回来</ZH_TW>
     <ZH_WENYAN>恭迎</ZH_WENYAN>
-    <EN_GE>Welcome Back</EN_GE>
+    <EN_US>Welcome Back</EN_US>
   </TextBlock>
 <TextBlock id ="1">
     <ZH_CN>单击屏幕以登录</ZH_CN>
     <ZH_TW>單擊屏幕以登錄</ZH_TW>
     <ZH_WENYAN>单击荧幕以登入</ZH_WENYAN>
-    <EN_GE>Click anywhere to logon</EN_GE>
+    <EN_US>Click anywhere to logon</EN_US>
   </TextBlock>
 <TextBlock id ="2">
     <ZH_CN>生产力</ZH_CN>
     <ZH_TW>生產力</ZH_TW>
     <ZH_WENYAN>力之生</ZH_WENYAN>
-    <EN_GE>Productivity</EN_GE>
+    <EN_US>Productivity</EN_US>
   </TextBlock>
 <TextBlock id ="3">
     <ZH_CN>白板</ZH_CN>
     <ZH_TW>白板</ZH_TW>
     <ZH_WENYAN>白板</ZH_WENYAN>
-    <EN_GE>Whiteboard</EN_GE>
+    <EN_US>Whiteboard</EN_US>
   </TextBlock>
 <TextBlock id ="4">
     <ZH_CN>文件</ZH_CN>
     <ZH_TW>檔案庫</ZH_TW>
     <ZH_WENYAN>文书库</ZH_WENYAN>
-    <EN_GE>Files</EN_GE>
+    <EN_US>Files</EN_US>
   </TextBlock>
 <TextBlock id ="5">
     <ZH_CN>媒体</ZH_CN>
     <ZH_TW>媒體</ZH_TW>
     <ZH_WENYAN>媒自投器</ZH_WENYAN>
-    <EN_GE>Media</EN_GE>
+    <EN_US>Media</EN_US>
   </TextBlock>
 <TextBlock id ="6">
     <ZH_CN>系统</ZH_CN>
     <ZH_TW>系统</ZH_TW>
     <ZH_WENYAN>系统</ZH_WENYAN>
-    <EN_GE>System</EN_GE>
+    <EN_US>System</EN_US>
   </TextBlock>
 <TextBlock id ="7">
     <ZH_CN>设置</ZH_CN>
     <ZH_TW>設定</ZH_TW>
     <ZH_WENYAN>设定</ZH_WENYAN>
-    <EN_GE>Settings</EN_GE>
+    <EN_US>Settings</EN_US>
   </TextBlock>
 <TextBlock id ="8">
     <ZH_CN>计算器</ZH_CN>
     <ZH_TW>計算器</ZH_TW>
     <ZH_WENYAN>计其数器</ZH_WENYAN>
-    <EN_GE>Calculator</EN_GE>
+    <EN_US>Calculator</EN_US>
   </TextBlock>
 <TextBlock id ="9">
     <ZH_CN>终端</ZH_CN>
     <ZH_TW>終端</ZH_TW>
     <ZH_WENYAN>终端</ZH_WENYAN>
-    <EN_GE>Terminal</EN_GE>
+    <EN_US>Terminal</EN_US>
   </TextBlock>
 <TextBlock id ="10">
     <ZH_CN>照片</ZH_CN>
     <ZH_TW>照片</ZH_TW>
     <ZH_WENYAN>影像</ZH_WENYAN>
-    <EN_GE>Photos</EN_GE>
+    <EN_US>Photos</EN_US>
   </TextBlock>
 <TextBlock id ="11">
     <ZH_CN>通用</ZH_CN>
     <ZH_TW>通用</ZH_TW>
     <ZH_WENYAN>通用</ZH_WENYAN>
-    <EN_GE>General</EN_GE>
+    <EN_US>General</EN_US>
   </TextBlock>
 <TextBlock id ="12">
     <ZH_CN>个性化</ZH_CN>
     <ZH_TW>個人化</ZH_TW>
     <ZH_WENYAN>个性化</ZH_WENYAN>
-    <EN_GE>Personalization</EN_GE>
+    <EN_US>Personalization</EN_US>
   </TextBlock>
 <TextBlock id ="13">
     <ZH_CN>账户与安全</ZH_CN>
     <ZH_TW>賬戶與安全</ZH_TW>
     <ZH_WENYAN>账户与安全</ZH_WENYAN>
-    <EN_GE>Accounts and Security</EN_GE>
+    <EN_US>Accounts and Security</EN_US>
   </TextBlock>
 <TextBlock id ="14">
     <ZH_CN>帮助</ZH_CN>
     <ZH_TW>説明</ZH_TW>
     <ZH_WENYAN>助</ZH_WENYAN>
-    <EN_GE>Help</EN_GE>
+    <EN_US>Help</EN_US>
   </TextBlock>
 <TextBlock id ="15">
     <ZH_CN>语言</ZH_CN>
     <ZH_TW>語言</ZH_TW>
     <ZH_WENYAN>语言</ZH_WENYAN>
-    <EN_GE>Language</EN_GE>
+    <EN_US>Language</EN_US>
   </TextBlock>
 <TextBlock id ="16">
     <ZH_CN>设置 Taurus UI 的显示语言</ZH_CN>
     <ZH_TW>設定 Taurus UI 的顯示語言</ZH_TW>
     <ZH_WENYAN>设 Taurus UI 示言</ZH_WENYAN>
-    <EN_GE>Set the display language for Taurus UI</EN_GE>
+    <EN_US>Set the display language for Taurus UI</EN_US>
   </TextBlock>
 <TextBlock id ="17">
     <ZH_CN>显示与声音</ZH_CN>
     <ZH_TW>顯示與聲音</ZH_TW>
     <ZH_WENYAN>示与声</ZH_WENYAN>
-    <EN_GE>Display and sound</EN_GE>
+    <EN_US>Display and sound</EN_US>
   </TextBlock>
 <TextBlock id ="18">
     <ZH_CN>更改设备设置，修改设备名称</ZH_CN>
     <ZH_TW>更改設備設定，修改設備名稱</ZH_TW>
     <ZH_WENYAN>更设备设，易设备名</ZH_WENYAN>
-    <EN_GE>Change device settings or the device name</EN_GE>
+    <EN_US>Change device settings or the device name</EN_US>
   </TextBlock>
 <TextBlock id ="19">
     <ZH_CN>检查更新</ZH_CN>
     <ZH_TW>檢查更新</ZH_TW>
     <ZH_WENYAN>查新</ZH_WENYAN>
-    <EN_GE>Check for updates</EN_GE>
+    <EN_US>Check for updates</EN_US>
   </TextBlock>
 <TextBlock id ="20">
     <ZH_CN>获取新版本</ZH_CN>
     <ZH_TW>获取新版本</ZH_TW>
     <ZH_WENYAN>获新版本</ZH_WENYAN>
-    <EN_GE>Get the new version</EN_GE>
+    <EN_US>Get the new version</EN_US>
   </TextBlock>
 <TextBlock id ="21">
     <ZH_CN>关于</ZH_CN>
     <ZH_TW>關於</ZH_TW>
     <ZH_WENYAN>关于</ZH_WENYAN>
-    <EN_GE>About</EN_GE>
+    <EN_US>About</EN_US>
   </TextBlock>
 <TextBlock id ="22">
     <ZH_CN>关于 Taurus UI、系统信息</ZH_CN>
     <ZH_TW>關於 Taurus UI、系統資訊</ZH_TW>
     <ZH_WENYAN>关于 Taurus UI、系统信息</ZH_WENYAN>
-    <EN_GE>About Taurus UI, system information</EN_GE>
+    <EN_US>About Taurus UI, system information</EN_US>
   </TextBlock>
 <TextBlock id ="23">
     <ZH_CN>显示</ZH_CN>
     <ZH_TW>顯示</ZH_TW>
     <ZH_WENYAN>显示</ZH_WENYAN>
-    <EN_GE>Display</EN_GE>
+    <EN_US>Display</EN_US>
   </TextBlock>
 <TextBlock id ="24">
     <ZH_CN>当前分辨率</ZH_CN>
     <ZH_TW>當前解析度</ZH_TW>
     <ZH_WENYAN>今分辨率</ZH_WENYAN>
-    <EN_GE>Current resolution</EN_GE>
+    <EN_US>Current resolution</EN_US>
   </TextBlock>
 <TextBlock id ="25">
     <ZH_CN>调整分辨率</ZH_CN>
     <ZH_TW>調整解析度</ZH_TW>
     <ZH_WENYAN>调分辨率</ZH_WENYAN>
-    <EN_GE>Resolution settings</EN_GE>
+    <EN_US>Resolution settings</EN_US>
   </TextBlock>
 <TextBlock id ="26">
     <ZH_CN>标注显示器</ZH_CN>
     <ZH_TW>標註顯示器</ZH_TW>
     <ZH_WENYAN>标注显示器</ZH_WENYAN>
-    <EN_GE>Label the monitor</EN_GE>
+    <EN_US>Label the monitor</EN_US>
   </TextBlock>
 <TextBlock id ="27">
     <ZH_CN>声音</ZH_CN>
     <ZH_TW>聲音</ZH_TW>
     <ZH_WENYAN>声</ZH_WENYAN>
-    <EN_GE>Sound</EN_GE>
+    <EN_US>Sound</EN_US>
   </TextBlock>
 <TextBlock id ="28">
     <ZH_CN>更改声音设置</ZH_CN>
     <ZH_TW>更改聲音設定</ZH_TW>
     <ZH_WENYAN>更张其声</ZH_WENYAN>
-    <EN_GE>Change sound settings</EN_GE>
+    <EN_US>Change sound settings</EN_US>
   </TextBlock>
 <TextBlock id ="29">
     <ZH_CN>声音设置</ZH_CN>
     <ZH_TW>聲音設定</ZH_TW>
     <ZH_WENYAN>声设</ZH_WENYAN>
-    <EN_GE>Sound settings</EN_GE>
+    <EN_US>Sound settings</EN_US>
   </TextBlock>
 <TextBlock id ="30">
     <ZH_CN>测试声音</ZH_CN>
     <ZH_TW>測試聲音</ZH_TW>
     <ZH_WENYAN>试声</ZH_WENYAN>
-    <EN_GE>Test the sound</EN_GE>
+    <EN_US>Test the sound</EN_US>
   </TextBlock>
 <TextBlock id ="31">
     <ZH_CN>从服务器中检查、下载更新</ZH_CN>
     <ZH_TW>從服務器中檢查、下載更新</ZH_TW>
     <ZH_WENYAN>自服务器中查及取更新</ZH_WENYAN>
-    <EN_GE>Check and download updates from the server</EN_GE>
+    <EN_US>Check and download updates from the server</EN_US>
   </TextBlock>
 <TextBlock id ="32">
     <ZH_CN>系统更新</ZH_CN>
     <ZH_TW>系统更新</ZH_TW>
     <ZH_WENYAN>系统更新</ZH_WENYAN>
-    <EN_GE>System Update</EN_GE>
+    <EN_US>System Update</EN_US>
   </TextBlock>
 <TextBlock id ="33">
     <ZH_CN>无需更新</ZH_CN>
     <ZH_TW>您是最新的</ZH_TW>
     <ZH_WENYAN>子最新也</ZH_WENYAN>
-    <EN_GE>No updates</EN_GE>
+    <EN_US>No updates</EN_US>
   </TextBlock>
 <TextBlock id ="34">
     <ZH_CN>您已经是最新版本</ZH_CN>
     <ZH_TW>您已經是最新版本</ZH_TW>
     <ZH_WENYAN>君已最新版本</ZH_WENYAN>
-    <EN_GE>You are in the latest version</EN_GE>
+    <EN_US>You are in the latest version</EN_US>
   </TextBlock>
 <TextBlock id ="35">
     <ZH_CN>更新较慢</ZH_CN>
     <ZH_TW>更新較慢</ZH_TW>
     <ZH_WENYAN>更新较迟</ZH_WENYAN>
-    <EN_GE>Slow updates</EN_GE>
+    <EN_US>Slow updates</EN_US>
   </TextBlock>
 <TextBlock id ="36">
     <ZH_CN>服务器性能羸弱，请稍作等待。</ZH_CN>
     <ZH_TW>伺服器性能羸弱，請稍作等待。</ZH_TW>
     <ZH_WENYAN>服务器性羸弱,请少待之。</ZH_WENYAN>
-    <EN_GE>The Server performance is weak, please wait.</EN_GE>
+    <EN_US>The Server performance is weak, please wait.</EN_US>
   </TextBlock>
 <TextBlock id ="37">
     <ZH_CN>服务器性能羸弱，请稍作等待。</ZH_CN>
     <ZH_TW>伺服器性能羸弱，請稍作等待。</ZH_TW>
     <ZH_WENYAN>服务器性羸弱,请少待之。</ZH_WENYAN>
-    <EN_GE>The Server performance is weak, please wait.</EN_GE>
+    <EN_US>The Server performance is weak, please wait.</EN_US>
   </TextBlock>
 <TextBlock id ="38">
     <ZH_CN>无法获取更新？</ZH_CN>
     <ZH_TW>無法獲取更新？</ZH_TW>
     <ZH_WENYAN>无以取新?</ZH_WENYAN>
-    <EN_GE>Can not get updates?</EN_GE>
+    <EN_US>Can not get updates?</EN_US>
   </TextBlock>
 <TextBlock id ="39">
     <ZH_CN>请检查您的网络连接。</ZH_CN>
     <ZH_TW>请檢查您的網路連接。</ZH_TW>
     <ZH_WENYAN>检君网络连接。</ZH_WENYAN>
-    <EN_GE>Please check your network connection.</EN_GE>
+    <EN_US>Please check your network connection.</EN_US>
   </TextBlock>
 <TextBlock id ="40">
     <ZH_CN>最新版本已经准备就绪</ZH_CN>
     <ZH_TW>最新版本已經準備就緒</ZH_TW>
     <ZH_WENYAN>最新版本已具</ZH_WENYAN>
-    <EN_GE>The latest version is ready</EN_GE>
+    <EN_US>The latest version is ready</EN_US>
   </TextBlock>
 <TextBlock id ="41">
     <ZH_CN>安装最新的质量或安全更新，有助于提升您的用户体验</ZH_CN>
     <ZH_TW>安裝最新的品質或安全更新，有助於提升您的用戶體驗</ZH_TW>
     <ZH_WENYAN>最新之质安全更新,有助升用户之体</ZH_WENYAN>
-    <EN_GE>Install the latest quality or security updates to help improve your user experience</EN_GE>
+    <EN_US>Install the latest quality or security updates to help improve your user experience</EN_US>
   </TextBlock>
 <TextBlock id ="42">
     <ZH_CN>下载并安装</ZH_CN>
     <ZH_TW>下載並安裝</ZH_TW>
     <ZH_WENYAN>下载并装</ZH_WENYAN>
-    <EN_GE>Download and install</EN_GE>
+    <EN_US>Download and install</EN_US>
   </TextBlock>
 <TextBlock id ="43">
     <ZH_CN>请注意</ZH_CN>
     <ZH_TW>請注意</ZH_TW>
     <ZH_WENYAN>请垂意焉</ZH_WENYAN>
-    <EN_GE>Please note</EN_GE>
+    <EN_US>Please note</EN_US>
   </TextBlock>
 <TextBlock id ="44">
     <ZH_CN>安装更新会清除部分设置数据，请谨慎更新。下载过程中您将不能使用 Taurus UI。</ZH_CN>
     <ZH_TW>安裝更新會清除部分設定數據，請謹慎更新。 下載過程中您將不能使用 Taurus UI。</ZH_TW>
     <ZH_WENYAN>安装更新,清分置数,请谨更新。 下载内,将不可用 Taurus UI。</ZH_WENYAN>
-    <EN_GE>Installing updates will clear some of the settings data, so update with caution. You can't use Taurus UI during the download process.</EN_GE>
+    <EN_US>Installing updates will clear some of the settings data, so update with caution. You can't use Taurus UI during the download process.</EN_US>
   </TextBlock>
 <TextBlock id ="45">
     <ZH_CN>由以下团队和个人共同带来：</ZH_CN>
     <ZH_TW>由以下團隊和個人共同開發：</ZH_TW>
     <ZH_WENYAN>由以下团队与人同来：</ZH_WENYAN>
-    <EN_GE>Developed by the following teams and individuals:</EN_GE>
+    <EN_US>Developed by the following teams and individuals:</EN_US>
   </TextBlock>
 <TextBlock id ="46">
     <ZH_CN>Taurus UI 版本</ZH_CN>
     <ZH_TW>Taurus UI 版本</ZH_TW>
     <ZH_WENYAN>Taurus UI 之版本</ZH_WENYAN>
-    <EN_GE>Taurus UI Version</EN_GE>
+    <EN_US>Taurus UI Version</EN_US>
   </TextBlock>
 <TextBlock id ="47">
     <ZH_CN>实验性功能</ZH_CN>
     <ZH_TW>實驗性功能</ZH_TW>
     <ZH_WENYAN>实验性功能</ZH_WENYAN>
-    <EN_GE>Experimental Functions</EN_GE>
+    <EN_US>Experimental Functions</EN_US>
   </TextBlock>
 <TextBlock id ="48">
     <ZH_CN>发布时间</ZH_CN>
     <ZH_TW>發佈時間</ZH_TW>
     <ZH_WENYAN>发时日</ZH_WENYAN>
-    <EN_GE>Release date</EN_GE>
+    <EN_US>Release date</EN_US>
   </TextBlock>
 <TextBlock id ="49">
     <ZH_CN>发送反馈</ZH_CN>
     <ZH_TW>發送反饋</ZH_TW>
     <ZH_WENYAN>发反馈</ZH_WENYAN>
-    <EN_GE>Send feedback</EN_GE>
+    <EN_US>Send feedback</EN_US>
   </TextBlock>
 <TextBlock id ="50">
     <ZH_CN>PowerV 版本</ZH_CN>
     <ZH_TW>PowerV 版本</ZH_TW>
     <ZH_WENYAN>PowerV 版本</ZH_WENYAN>
-    <EN_GE>PowerV Version</EN_GE>
+    <EN_US>PowerV Version</EN_US>
   </TextBlock>
 <TextBlock id ="51">
     <ZH_CN>开发文档</ZH_CN>
     <ZH_TW>開發指南</ZH_TW>
     <ZH_WENYAN>开发文书</ZH_WENYAN>
-    <EN_GE>Development Doc</EN_GE>
+    <EN_US>Development Doc</EN_US>
   </TextBlock>
 <TextBlock id ="52">
     <ZH_CN>系统信息</ZH_CN>
     <ZH_TW>系統資訊</ZH_TW>
     <ZH_WENYAN>系统信息</ZH_WENYAN>
-    <EN_GE>System information</EN_GE>
+    <EN_US>System information</EN_US>
   </TextBlock>
 <TextBlock id ="53">
     <ZH_CN>详细信息</ZH_CN>
     <ZH_TW>詳細資訊</ZH_TW>
     <ZH_WENYAN>详细信息</ZH_WENYAN>
-    <EN_GE>Details</EN_GE>
+    <EN_US>Details</EN_US>
   </TextBlock>
 <TextBlock id ="54">
     <ZH_CN>这些功能仅用于实验，可能需要高版本 PowerPoint ，随时可能被取消。</ZH_CN>
     <ZH_TW>這些功能僅用於實驗，可能需要高版本 PowerPoint，隨時可能被取消。</ZH_TW>
     <ZH_WENYAN>此功止于实验，或须高版 PowerPoint ，随时可除。</ZH_WENYAN>
-    <EN_GE>These functions are for experimental purposes only and may require a later version of PowerPoint and may be canceled at any time.</EN_GE>
+    <EN_US>These functions are for experimental purposes only and may require a later version of PowerPoint and may be canceled at any time.</EN_US>
   </TextBlock>
 <TextBlock id ="55">
     <ZH_CN>相机</ZH_CN>
     <ZH_TW>相機</ZH_TW>
     <ZH_WENYAN>照机</ZH_WENYAN>
-    <EN_GE>Camera</EN_GE>
+    <EN_US>Camera</EN_US>
   </TextBlock>
 <TextBlock id ="56">
     <ZH_CN>基于 Cameo 构建</ZH_CN>
     <ZH_TW>基於 Cameo 構建</ZH_TW>
     <ZH_WENYAN>基于 Cameo 构</ZH_WENYAN>
-    <EN_GE>Built on Cameo</EN_GE>
+    <EN_US>Built on Cameo</EN_US>
   </TextBlock>
 <TextBlock id ="57">
     <ZH_CN>打开</ZH_CN>
     <ZH_TW>打開</ZH_TW>
     <ZH_WENYAN>开之</ZH_WENYAN>
-    <EN_GE>Open</EN_GE>
+    <EN_US>Open</EN_US>
   </TextBlock>
 <TextBlock id ="58">
     <ZH_CN>颜色</ZH_CN>
     <ZH_TW>顏色</ZH_TW>
     <ZH_WENYAN>颜色</ZH_WENYAN>
-    <EN_GE>Color</EN_GE>
+    <EN_US>Color</EN_US>
   </TextBlock>
 <TextBlock id ="59">
     <ZH_CN>选择要应用的主题</ZH_CN>
     <ZH_TW>選擇要應用的主題</ZH_TW>
     <ZH_WENYAN>择其所宜用者</ZH_WENYAN>
-    <EN_GE>Select the theme you want to apply</EN_GE>
+    <EN_US>Select the theme you want to apply</EN_US>
   </TextBlock>
 <TextBlock id ="60">
     <ZH_CN>设置 Taurus UI 的颜色样式</ZH_CN>
     <ZH_TW>設定 Taurus UI 的顏色樣式</ZH_TW>
     <ZH_WENYAN>定 Taurus UI 色式</ZH_WENYAN>
-    <EN_GE>Sets the color style for Taurus UI</EN_GE>
+    <EN_US>Sets the color style for Taurus UI</EN_US>
   </TextBlock>
 <TextBlock id ="61">
     <ZH_CN>壁纸</ZH_CN>
     <ZH_TW>壁紙</ZH_TW>
-    <ZH_WENYAN>墙纸</ZH_WENYAN>
-    <EN_GE>Wallpaper</EN_GE>
+    <ZH_WENYAN>壁纸</ZH_WENYAN>
+    <EN_US>Wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="62">
     <ZH_CN>设置 Taurus UI 的桌面与锁屏壁纸</ZH_CN>
     <ZH_TW>設定 Taurus UI 的桌面與鎖屏壁紙</ZH_TW>
-    <ZH_WENYAN>设 Taurus UI 桌面及锁屏墙纸</ZH_WENYAN>
-    <EN_GE>Set Taurus UI's desktop with lock screen wallpaper</EN_GE>
+    <ZH_WENYAN>设 Taurus UI 桌面及锁屏壁纸</ZH_WENYAN>
+    <EN_US>Set Taurus UI's desktop with lockscreen wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="63">
     <ZH_CN>桌面</ZH_CN>
     <ZH_TW>桌面</ZH_TW>
     <ZH_WENYAN>桌面</ZH_WENYAN>
-    <EN_GE>Desktop</EN_GE>
+    <EN_US>Desktop</EN_US>
   </TextBlock>
 <TextBlock id ="64">
     <ZH_CN>设置桌面文字颜色</ZH_CN>
     <ZH_TW>設定桌面文字顏色</ZH_TW>
     <ZH_WENYAN>置桌面文字色</ZH_WENYAN>
-    <EN_GE>Set the desktop text color</EN_GE>
+    <EN_US>Set the desktop text color</EN_US>
   </TextBlock>
 <TextBlock id ="65">
     <ZH_CN>锁屏</ZH_CN>
     <ZH_TW>鎖屏</ZH_TW>
     <ZH_WENYAN>锁屏</ZH_WENYAN>
-    <EN_GE>Lock</EN_GE>
+    <EN_US>Lock</EN_US>
   </TextBlock>
 <TextBlock id ="66">
     <ZH_CN>设置锁屏文字颜色、设置锁屏自定义签名</ZH_CN>
     <ZH_TW>設定鎖屏文字顏色、設定鎖屏自定義簽名</ZH_TW>
     <ZH_WENYAN>置锁屏文色、置锁屏自定义署名</ZH_WENYAN>
-    <EN_GE>Set the lock screen text color and set the lock screen custom signature</EN_GE>
+    <EN_US>Set the lockscreen text color and set the lockscreen custom signature</EN_US>
   </TextBlock>
 <TextBlock id ="67">
     <ZH_CN>更改系统主题色</ZH_CN>
     <ZH_TW>更改系統主題色</ZH_TW>
     <ZH_WENYAN>更系统主题色</ZH_WENYAN>
-    <EN_GE>Change the system main color</EN_GE>
+    <EN_US>Change the system main color</EN_US>
   </TextBlock>
 <TextBlock id ="68">
     <ZH_CN>将主题色应用在应用托盘上</ZH_CN>
     <ZH_TW>將主題色應用在應用托盤上</ZH_TW>
     <ZH_WENYAN>将主题色应用托盘</ZH_WENYAN>
-    <EN_GE>Apply the main color to the app bar</EN_GE>
+    <EN_US>Apply the main color to the app bar</EN_US>
   </TextBlock>
 <TextBlock id ="69">
     <ZH_CN>请注意</ZH_CN>
     <ZH_TW>請注意</ZH_TW>
     <ZH_WENYAN>请垂意焉</ZH_WENYAN>
-    <EN_GE>Please note</EN_GE>
+    <EN_US>Please note</EN_US>
   </TextBlock>
 <TextBlock id ="70">
     <ZH_CN>部分颜色可能不会立即被更改，例如文字，应用托盘上的时钟。请多试几次，以便所有的元素被更改。</ZH_CN>
     <ZH_TW>部分顏色可能不會立即被更改，例如文字，應用托盤上的時鐘。 請多試幾次，以便所有的元素被更改。</ZH_TW>
     <ZH_WENYAN>色或不即改,如文字,当用盘上时钟。 请多试数次,以尽更元素。</ZH_WENYAN>
-    <EN_GE>Some colors may not be changed immediately, such as text, applying the clock on the bar. Please try several times so that all elements are changed.</EN_GE>
+    <EN_US>Some colors may not be changed immediately, such as text, applying the clock on the bar. Please try several times so that all elements are changed.</EN_US>
   </TextBlock>
 <TextBlock id ="71">
     <ZH_CN>主题色</ZH_CN>
     <ZH_TW>主題色</ZH_TW>
     <ZH_WENYAN>大显色</ZH_WENYAN>
-    <EN_GE>Main color</EN_GE>
+    <EN_US>Main color</EN_US>
   </TextBlock>
 <TextBlock id ="72">
     <ZH_CN>使用 RGB 自定义主题色</ZH_CN>
     <ZH_TW>使用 RGB 自定義主題色</ZH_TW>
     <ZH_WENYAN>用 RGB 自定义主题色</ZH_WENYAN>
-    <EN_GE>Customize the main colors</EN_GE>
+    <EN_US>Customize the main colors</EN_US>
   </TextBlock>
 <TextBlock id ="73">
     <ZH_CN>需要 RGB 三个整数值</ZH_CN>
     <ZH_TW>需要 RGB 三個整數值</ZH_TW>
     <ZH_WENYAN>须 RGB 三整数直</ZH_WENYAN>
-    <EN_GE>Need three integer values of RGB</EN_GE>
+    <EN_US>Need three integer values of RGB</EN_US>
   </TextBlock>
 <TextBlock id ="74">
     <ZH_CN>桌面壁纸</ZH_CN>
     <ZH_TW>桌面壁紙</ZH_TW>
-    <ZH_WENYAN>桌面墙纸</ZH_WENYAN>
-    <EN_GE>Desktop wallpaper</EN_GE>
+    <ZH_WENYAN>桌面壁纸</ZH_WENYAN>
+    <EN_US>Desktop wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="75">
     <ZH_CN>选择一张作为桌面壁纸</ZH_CN>
     <ZH_TW>選擇一張作為桌面壁紙</ZH_TW>
     <ZH_WENYAN>選擇一張作為桌面墙紙</ZH_WENYAN>
-    <EN_GE>Choose one as your desktop wallpaper</EN_GE>
+    <EN_US>Choose one as your desktop wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="76">
     <ZH_CN>更多…</ZH_CN>
     <ZH_TW>更多…</ZH_TW>
     <ZH_WENYAN>更多…</ZH_WENYAN>
-    <EN_GE>More...</EN_GE>
+    <EN_US>More...</EN_US>
   </TextBlock>
 <TextBlock id ="77">
     <ZH_CN>浏览...</ZH_CN>
     <ZH_TW>瀏覽...</ZH_TW>
-    <ZH_WENYAN>流览...</ZH_WENYAN>
-    <EN_GE>Browse...</EN_GE>
+    <ZH_WENYAN>浏览...</ZH_WENYAN>
+    <EN_US>Browse...</EN_US>
   </TextBlock>
 <TextBlock id ="78">
     <ZH_CN>锁屏壁纸</ZH_CN>
     <ZH_TW>鎖屏壁紙</ZH_TW>
-    <ZH_WENYAN>锁屏墙纸</ZH_WENYAN>
-    <EN_GE>Lock screen wallpaper</EN_GE>
+    <ZH_WENYAN>锁屏壁纸</ZH_WENYAN>
+    <EN_US>Lockscreen wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="79">
     <ZH_CN>选择一张作为锁屏壁纸</ZH_CN>
     <ZH_TW>選擇一張作為鎖屏壁紙</ZH_TW>
-    <ZH_WENYAN>择一以为锁屏墙纸</ZH_WENYAN>
-    <EN_GE>Select one as the lock screen wallpaper</EN_GE>
+    <ZH_WENYAN>择一以为锁屏壁纸</ZH_WENYAN>
+    <EN_US>Select one as the lockscreen wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="80">
     <ZH_CN>保存</ZH_CN>
     <ZH_TW>保存</ZH_TW>
     <ZH_WENYAN>存</ZH_WENYAN>
-    <EN_GE>Save</EN_GE>
+    <EN_US>Save</EN_US>
   </TextBlock>
 <TextBlock id ="81">
     <ZH_CN>网络壁纸设置...</ZH_CN>
     <ZH_TW>網路壁紙設定...</ZH_TW>
-    <ZH_WENYAN>网络墙纸设置...</ZH_WENYAN>
-    <EN_GE>Web wallpaper settings...</EN_GE>
+    <ZH_WENYAN>网络壁纸设置...</ZH_WENYAN>
+    <EN_US>Web wallpaper settings...</EN_US>
   </TextBlock>
 <TextBlock id ="82">
     <ZH_CN>自定义壁纸源地址</ZH_CN>
     <ZH_TW>自定義壁紙源位址</ZH_TW>
     <ZH_WENYAN>自定义壁纸源地址</ZH_WENYAN>
-    <EN_GE>Custom wallpaper </EN_GE>
+    <EN_US>Custom wallpaper </EN_US>
   </TextBlock>
 <TextBlock id ="83">
     <ZH_CN>可使用自定义壁纸无参 API，从互联网上下载壁纸</ZH_CN>
     <ZH_TW>使用自定義壁紙無參 API，從互聯網上下載壁紙</ZH_TW>
     <ZH_WENYAN>可用自定义壁纸无参 API,从互联网上下载壁纸</ZH_WENYAN>
-    <EN_GE>You can use the Custom Wallpaper parameter-free API to download wallpapers from the Internet</EN_GE>
+    <EN_US>You can use the Custom Wallpaper parameter-free API to download wallpapers from the Internet</EN_US>
   </TextBlock>
 <TextBlock id ="84">
     <ZH_CN>设置壁纸使用模式</ZH_CN>
     <ZH_TW>設定壁紙使用模式</ZH_TW>
     <ZH_WENYAN>置壁纸用式</ZH_WENYAN>
-    <EN_GE>Change the wallpaper usage mode</EN_GE>
+    <EN_US>Change the wallpaper usage mode</EN_US>
   </TextBlock>
 <TextBlock id ="85">
     <ZH_CN>作为锁屏或者桌面壁纸</ZH_CN>
     <ZH_TW>作為鎖屏或者桌面壁紙</ZH_TW>
     <ZH_WENYAN>为锁屏或桌面壁纸</ZH_WENYAN>
-    <EN_GE>As a lock screen or desktop wallpaper</EN_GE>
+    <EN_US>As a lockscreen or desktop wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="86">
     <ZH_CN>网络壁纸设置</ZH_CN>
     <ZH_TW>網路壁紙設定</ZH_TW>
     <ZH_WENYAN>网络壁纸置</ZH_WENYAN>
-    <EN_GE>Web wallpaper settings</EN_GE>
+    <EN_US>Web wallpaper settings</EN_US>
   </TextBlock>
 <TextBlock id ="87">
     <ZH_CN>设置模式…</ZH_CN>
     <ZH_TW>設定模式...</ZH_TW>
     <ZH_WENYAN>置模式...</ZH_WENYAN>
-    <EN_GE>Set Mode...</EN_GE>
+    <EN_US>Set Mode...</EN_US>
   </TextBlock>
 <TextBlock id ="88">
     <ZH_CN>默认(不获取)</ZH_CN>
     <ZH_TW>預設(不取得)</ZH_TW>
     <ZH_WENYAN>默认(不取)</ZH_WENYAN>
-    <EN_GE>Default (Not get)</EN_GE>
+    <EN_US>Default (Not get)</EN_US>
   </TextBlock>
 <TextBlock id ="89">
     <ZH_CN>默认(不获取)</ZH_CN>
     <ZH_TW>預設(不取得)</ZH_TW>
     <ZH_WENYAN>默认(不取)</ZH_WENYAN>
-    <EN_GE>Default (Not get)</EN_GE>
+    <EN_US>Default (Not get)</EN_US>
   </TextBlock>
 <TextBlock id ="90">
     <ZH_CN>同时</ZH_CN>
     <ZH_TW>同时</ZH_TW>
     <ZH_WENYAN>同时</ZH_WENYAN>
-    <EN_GE>Both</EN_GE>
+    <EN_US>Both</EN_US>
   </TextBlock>
 <TextBlock id ="91">
     <ZH_CN>若遇到无法看清文字的情况，请进行调整</ZH_CN>
     <ZH_TW>若遇到無法看清文字的情況，請進行調整</ZH_TW>
     <ZH_WENYAN>若遇不得见文字者,请调之</ZH_WENYAN>
-    <EN_GE>If you can't read the text clearly, make adjust</EN_GE>
+    <EN_US>If you can't read the text clearly, make adjust</EN_US>
   </TextBlock>
 <TextBlock id ="92">
     <ZH_CN>设置颜色...</ZH_CN>
     <ZH_TW>設定顏色...</ZH_TW>
     <ZH_WENYAN>设色...</ZH_WENYAN>
-    <EN_GE>Set color...</EN_GE>
+    <EN_US>Set color...</EN_US>
   </TextBlock>
 <TextBlock id ="93">
     <ZH_CN>白(默认)</ZH_CN>
     <ZH_TW>白(預設)</ZH_TW>
     <ZH_WENYAN>白(默认)</ZH_WENYAN>
-    <EN_GE>White(default)</EN_GE>
+    <EN_US>White(default)</EN_US>
   </TextBlock>
 <TextBlock id ="94">
     <ZH_CN>黑</ZH_CN>
     <ZH_TW>黑</ZH_TW>
     <ZH_WENYAN>黑</ZH_WENYAN>
-    <EN_GE>Black</EN_GE>
+    <EN_US>Black</EN_US>
   </TextBlock>
 <TextBlock id ="95">
     <ZH_CN>设置锁屏文字颜色</ZH_CN>
     <ZH_TW>設定鎖屏文字顏色</ZH_TW>
     <ZH_WENYAN>设锁屏文字之色</ZH_WENYAN>
-    <EN_GE>Sets the lock screen text color</EN_GE>
+    <EN_US>Sets the lockscreen text color</EN_US>
   </TextBlock>
 <TextBlock id ="96">
     <ZH_CN>设置锁屏自定义签名</ZH_CN>
     <ZH_TW>設定鎖屏自定義簽名</ZH_TW>
     <ZH_WENYAN>置锁屏自定义署名</ZH_WENYAN>
-    <EN_GE>Set up a lock screen custom signature</EN_GE>
+    <EN_US>Set up a lockscreen custom signature</EN_US>
   </TextBlock>
 <TextBlock id ="97">
     <ZH_CN>在锁屏上显示一行文本</ZH_CN>
     <ZH_TW>在鎖屏上顯示一行文本</ZH_TW>
     <ZH_WENYAN>于锁屏上示一行文本</ZH_WENYAN>
-    <EN_GE>Displays a line of text on the lock screen</EN_GE>
+    <EN_US>Displays a line of text on the lockscreen</EN_US>
   </TextBlock>
 <TextBlock id ="98">
     <ZH_CN>设备管理员</ZH_CN>
     <ZH_TW>設備管理員</ZH_TW>
     <ZH_WENYAN>设备管理员</ZH_WENYAN>
-    <EN_GE>Administrator</EN_GE>
+    <EN_US>Administrator</EN_US>
   </TextBlock>
 <TextBlock id ="99">
-    <ZH_CN>密码错误</ZH_CN>
-    <ZH_TW>密碼錯誤</ZH_TW>
-    <ZH_WENYAN>密码误</ZH_WENYAN>
-    <EN_GE>The password is incorrect</EN_GE>
+    <ZH_CN>密码错误！请重试</ZH_CN>
+    <ZH_TW>密碼錯誤！請重試</ZH_TW>
+    <ZH_WENYAN>密码误！祈再试之</ZH_WENYAN>
+    <EN_US>The password is incorrect! Please try again.</EN_US>
   </TextBlock>
 <TextBlock id ="100">
     <ZH_CN>关机</ZH_CN>
     <ZH_TW>關機</ZH_TW>
     <ZH_WENYAN>关机</ZH_WENYAN>
-    <EN_GE>Shutdown</EN_GE>
+    <EN_US>Shutdown</EN_US>
   </TextBlock>
 <TextBlock id ="101">
     <ZH_CN>通过安全问题登录</ZH_CN>
     <ZH_TW>通過安全問題登錄</ZH_TW>
-    <ZH_WENYAN>因安而录之</ZH_WENYAN>
-    <EN_GE>Log in through security questions</EN_GE>
+    <ZH_WENYAN>登录于安问</ZH_WENYAN>
+    <EN_US>Log in through security questions</EN_US>
   </TextBlock>
 <TextBlock id ="102">
     <ZH_CN>信息</ZH_CN>
     <ZH_TW>檔案</ZH_TW>
     <ZH_WENYAN>案</ZH_WENYAN>
-    <EN_GE>Profile</EN_GE>
+    <EN_US>Profile</EN_US>
   </TextBlock>
 <TextBlock id ="103">
     <ZH_CN>个人资料与照片、管理信息使用渠道</ZH_CN>
     <ZH_TW>個人資料與照片、管理資訊使用管道</ZH_TW>
     <ZH_WENYAN>个人资料与照片、管信用渠</ZH_WENYAN>
-    <EN_GE>Profile and Photos, manage information usage channels</EN_GE>
+    <EN_US>Profile and Photos, manage information usage channels</EN_US>
   </TextBlock>
 <TextBlock id ="104">
     <ZH_CN>安全选项</ZH_CN>
     <ZH_TW>安全選項</ZH_TW>
     <ZH_WENYAN>安全选项</ZH_WENYAN>
-    <EN_GE>Safety options</EN_GE>
+    <EN_US>Safety options</EN_US>
   </TextBlock>
 <TextBlock id ="105">
     <ZH_CN>PIN、安全问题</ZH_CN>
     <ZH_TW>PIN、安全問題</ZH_TW>
-    <ZH_WENYAN>PIN、安</ZH_WENYAN>
-    <EN_GE>PIN, security questions</EN_GE>
+    <ZH_WENYAN>PIN、安问</ZH_WENYAN>
+    <EN_US>PIN, security questions</EN_US>
   </TextBlock>
 <TextBlock id ="106">
     <ZH_CN>隐私和安全性</ZH_CN>
     <ZH_TW>隱私和安全性</ZH_TW>
     <ZH_WENYAN>私与安全性</ZH_WENYAN>
-    <EN_GE>Privacy and security</EN_GE>
+    <EN_US>Privacy and security</EN_US>
   </TextBlock>
 <TextBlock id ="107">
     <ZH_CN>调整隐私与安全性选项</ZH_CN>
     <ZH_TW>調整隱私與安全性選項</ZH_TW>
     <ZH_WENYAN>调阴私与安全性选项</ZH_WENYAN>
-    <EN_GE>Adjust privacy and security options</EN_GE>
+    <EN_US>Adjust privacy and security options</EN_US>
   </TextBlock>
 <TextBlock id ="108">
     <ZH_CN>Taurus UI 备份</ZH_CN>
     <ZH_TW>Taurus UI 備份</ZH_TW>
     <ZH_WENYAN>Taurus UI 備份</ZH_WENYAN>
-    <EN_GE>Taurus UI backup</EN_GE>
+    <EN_US>Taurus UI backup</EN_US>
   </TextBlock>
 <TextBlock id ="109">
     <ZH_CN>备份系统，以便跨设备将其还原</ZH_CN>
     <ZH_TW>備份系統，以便跨設備將其還原</ZH_TW>
     <ZH_WENYAN>备份系统,以备还之</ZH_WENYAN>
-    <EN_GE>Back up your system so you can restore it across devices</EN_GE>
+    <EN_US>Back up your system so you can restore it across devices</EN_US>
   </TextBlock>
 <TextBlock id ="110">
     <ZH_CN>基本信息</ZH_CN>
     <ZH_TW>基本資訊</ZH_TW>
     <ZH_WENYAN>信息略尽</ZH_WENYAN>
-    <EN_GE>Basic information</EN_GE>
+    <EN_US>Basic information</EN_US>
   </TextBlock>
 <TextBlock id ="111">
     <ZH_CN>轻点用户头像以更改账户图片</ZH_CN>
     <ZH_TW>輕點用戶頭像以更改賬戶圖片</ZH_TW>
     <ZH_WENYAN>轻点用户头像以更改账户图片</ZH_WENYAN>
-    <EN_GE>Tap the account picture to change the account picture</EN_GE>
+    <EN_US>Tap the account picture to change the account picture</EN_US>
   </TextBlock>
 <TextBlock id ="112">
     <ZH_CN>用户名</ZH_CN>
     <ZH_TW>使用者名</ZH_TW>
     <ZH_WENYAN>使用者名</ZH_WENYAN>
-    <EN_GE>Username</EN_GE>
+    <EN_US>Username</EN_US>
   </TextBlock>
 <TextBlock id ="113">
     <ZH_CN>电子邮件地址</ZH_CN>
     <ZH_TW>電子郵件位址</ZH_TW>
     <ZH_WENYAN>电子邮件地址</ZH_WENYAN>
-    <EN_GE>Email</EN_GE>
+    <EN_US>Email</EN_US>
   </TextBlock>
 <TextBlock id ="114">
     <ZH_CN>能够储存个人信息的应用</ZH_CN>
     <ZH_TW>能夠儲存個人資訊的應用</ZH_TW>
     <ZH_WENYAN>能储个人信息之用</ZH_WENYAN>
-    <EN_GE>Apps that can store personal information</EN_GE>
+    <EN_US>Apps that can store personal information</EN_US>
   </TextBlock>
 <TextBlock id ="115">
     <ZH_CN>轻点前往编辑个人信息</ZH_CN>
     <ZH_TW>輕點前往編輯個人資訊</ZH_TW>
     <ZH_WENYAN>轻点往辑个人信息</ZH_WENYAN>
-    <EN_GE>Tap to edit your personal information</EN_GE>
+    <EN_US>Tap to edit your personal information</EN_US>
   </TextBlock>
 <TextBlock id ="116">
     <ZH_CN>系统应用</ZH_CN>
     <ZH_TW>系統應用</ZH_TW>
     <ZH_WENYAN>统而用之</ZH_WENYAN>
-    <EN_GE>System application</EN_GE>
+    <EN_US>System application</EN_US>
   </TextBlock>
 <TextBlock id ="117">
     <ZH_CN>设置 PIN 可保护设备安全</ZH_CN>
     <ZH_TW>設定 PIN 可保護設備安全</ZH_TW>
     <ZH_WENYAN>置 PIN 可保备</ZH_WENYAN>
-    <EN_GE>Setting a PIN to secure your device</EN_GE>
+    <EN_US>Setting a PIN to secure your device</EN_US>
   </TextBlock>
 <TextBlock id ="118">
     <ZH_CN>安全问题</ZH_CN>
     <ZH_TW>安全問題</ZH_TW>
     <ZH_WENYAN>安全题问</ZH_WENYAN>
-    <EN_GE>Security question</EN_GE>
+    <EN_US>Security question</EN_US>
   </TextBlock>
 <TextBlock id ="119">
     <ZH_CN>设置一个安全问题，便于恢复密码</ZH_CN>
     <ZH_TW>設定一個安全問題，便於恢復密碼</ZH_TW>
     <ZH_WENYAN>设一安全题问,便于复密码</ZH_WENYAN>
-    <EN_GE>Set up a security question to make it easy to recover your password</EN_GE>
+    <EN_US>Set up a security question to make it easy to recover your password</EN_US>
   </TextBlock>
 <TextBlock id ="120">
     <ZH_CN>设置</ZH_CN>
     <ZH_TW>設定</ZH_TW>
     <ZH_WENYAN>置</ZH_WENYAN>
-    <EN_GE>Configure</EN_GE>
+    <EN_US>Configure</EN_US>
   </TextBlock>
 <TextBlock id ="121">
     <ZH_CN>您需要提供 PIN 才能更改此设置</ZH_CN>
     <ZH_TW>您需要提供 PIN 才能更改此設定</ZH_TW>
     <ZH_WENYAN>君须供 PIN 乃改此置</ZH_WENYAN>
-    <EN_GE>You need to provide a PIN to change settings</EN_GE>
+    <EN_US>You need to provide a PIN to change settings</EN_US>
   </TextBlock>
 <TextBlock id ="122">
     <ZH_CN>验证 PIN</ZH_CN>
     <ZH_TW>驗證 PIN</ZH_TW>
     <ZH_WENYAN>验 PIN</ZH_WENYAN>
-    <EN_GE>Verify the PIN</EN_GE>
+    <EN_US>Verify the PIN</EN_US>
   </TextBlock>
 <TextBlock id ="123">
     <ZH_CN>修改 PIN</ZH_CN>
     <ZH_TW>修改 PIN</ZH_TW>
     <ZH_WENYAN>改 PIN</ZH_WENYAN>
-    <EN_GE>Modify the PIN</EN_GE>
+    <EN_US>Modify the PIN</EN_US>
   </TextBlock>
 <TextBlock id ="124">
     <ZH_CN>请在下面填写新的 PIN </ZH_CN>
     <ZH_TW>請在下面填寫新的 PIN </ZH_TW>
     <ZH_WENYAN>请填写新 PIN于下 </ZH_WENYAN>
-    <EN_GE>Please fill in your new PIN below </EN_GE>
+    <EN_US>Please fill in your new PIN below </EN_US>
   </TextBlock>
 <TextBlock id ="125">
     <ZH_CN>问题</ZH_CN>
     <ZH_TW>問題</ZH_TW>
     <ZH_WENYAN>题</ZH_WENYAN>
-    <EN_GE>Question</EN_GE>
+    <EN_US>Question</EN_US>
   </TextBlock>
 <TextBlock id ="126">
     <ZH_CN>设置一个简单的问题，有助于恢复密码</ZH_CN>
     <ZH_TW>設定一個簡單的問題，有助於恢復密碼</ZH_TW>
-    <ZH_WENYAN>设一简,助复密码</ZH_WENYAN>
-    <EN_GE>Set up a simple question that helps to recover the password</EN_GE>
+    <ZH_WENYAN>设一简问,助复密码</ZH_WENYAN>
+    <EN_US>Set up a simple question that helps to recover the password</EN_US>
   </TextBlock>
 <TextBlock id ="127">
     <ZH_CN>常用问题</ZH_CN>
     <ZH_TW>常用問題</ZH_TW>
     <ZH_WENYAN>常用问题</ZH_WENYAN>
-    <EN_GE>Frequently used questions</EN_GE>
+    <EN_US>Frequently used questions</EN_US>
   </TextBlock>
 <TextBlock id ="128">
     <ZH_CN>我初中时的班主任叫什么？</ZH_CN>
     <ZH_TW>我初中時的班主任叫什麼？</ZH_TW>
     <ZH_WENYAN>我初中班主任叫甚么?</ZH_WENYAN>
-    <EN_GE>What was the name of my homeroom teacher in junior high school?</EN_GE>
+    <EN_US>What was the name of my homeroom teacher in junior high school?</EN_US>
   </TextBlock>
 <TextBlock id ="129">
     <ZH_CN>我的父亲出生于哪一天？</ZH_CN>
     <ZH_TW>我的父親出生於哪一天？</ZH_TW>
     <ZH_WENYAN>吾父生何日?</ZH_WENYAN>
-    <EN_GE>What day was my father born?</EN_GE>
+    <EN_US>What day was my father born?</EN_US>
   </TextBlock>
 <TextBlock id ="130">
     <ZH_CN>我的母亲叫什么？</ZH_CN>
     <ZH_TW>我的母親叫什麼？</ZH_TW>
     <ZH_WENYAN>吾母何名?</ZH_WENYAN>
-    <EN_GE>What is my mother's name?</EN_GE>
+    <EN_US>What is my mother's name?</EN_US>
   </TextBlock>
 <TextBlock id ="131">
     <ZH_CN>答案</ZH_CN>
     <ZH_TW>答案</ZH_TW>
     <ZH_WENYAN>对案</ZH_WENYAN>
-    <EN_GE>Answer</EN_GE>
+    <EN_US>Answer</EN_US>
   </TextBlock>
 <TextBlock id ="132">
     <ZH_CN>设置一个简单的答案，有助于恢复密码</ZH_CN>
     <ZH_TW>設定一個簡單的答案，有助於恢復密碼</ZH_TW>
     <ZH_WENYAN>设简对,助复密码</ZH_WENYAN>
-    <EN_GE>Set up a simple answer that will help you recover your password</EN_GE>
+    <EN_US>Set up a simple answer that will help you recover your password</EN_US>
   </TextBlock>
 <TextBlock id ="133">
     <ZH_CN>登录</ZH_CN>
     <ZH_TW>登录</ZH_TW>
     <ZH_WENYAN>登</ZH_WENYAN>
-    <EN_GE>Login</EN_GE>
+    <EN_US>Login</EN_US>
   </TextBlock>
 <TextBlock id ="134">
     <ZH_CN>验证失败</ZH_CN>
     <ZH_TW>驗證失敗</ZH_TW>
     <ZH_WENYAN>验败</ZH_WENYAN>
-    <EN_GE>Validation failed</EN_GE>
+    <EN_US>Validation failed</EN_US>
   </TextBlock>
 <TextBlock id ="135">
-    <ZH_CN>答案不匹配</ZH_CN>
-    <ZH_TW>答案不匹配</ZH_TW>
-    <ZH_WENYAN>对案不偶</ZH_WENYAN>
-    <EN_GE>Wrong answer</EN_GE>
+    <ZH_CN>答案不匹配！请重试</ZH_CN>
+    <ZH_TW>答案不匹配！請重試</ZH_TW>
+    <ZH_WENYAN>对案不偶！祈再试之</ZH_WENYAN>
+    <EN_US>The answer is wrong! Please try again.</EN_US>
   </TextBlock>
 <TextBlock id ="136">
     <ZH_CN>加入用户体验计划</ZH_CN>
     <ZH_TW>加入用戶體驗計劃</ZH_TW>
     <ZH_WENYAN>入用户验计</ZH_WENYAN>
-    <EN_GE>Join the User Experience Program</EN_GE>
+    <EN_US>Join the User Experience Program</EN_US>
   </TextBlock>
 <TextBlock id ="137">
     <ZH_CN>大家的 Taurus UI ，社区的 Taurus UI </ZH_CN>
     <ZH_TW>大家的 Taurus UI ，社區的 Taurus UI </ZH_TW>
     <ZH_WENYAN>众Taurus UI ,社区之Taurus UI </ZH_WENYAN>
-    <EN_GE>Everyone's Taurus UI, the community's Taurus UI</EN_GE>
+    <EN_US>Everyone's Taurus UI, the community's Taurus UI</EN_US>
   </TextBlock>
 <TextBlock id ="138">
     <ZH_CN>石间</ZH_CN>
     <ZH_TW>石間</ZH_TW>
     <ZH_WENYAN>石间</ZH_WENYAN>
-    <EN_GE>Between the rocks</EN_GE>
+    <EN_US>Between the rocks</EN_US>
   </TextBlock>
 <TextBlock id ="139">
     <ZH_CN>几何</ZH_CN>
     <ZH_TW>幾何</ZH_TW>
     <ZH_WENYAN>何则</ZH_WENYAN>
-    <EN_GE>Geometry</EN_GE>
+    <EN_US>Geometry</EN_US>
   </TextBlock>
 <TextBlock id ="140">
     <ZH_CN>自然风景</ZH_CN>
     <ZH_TW>自然風景</ZH_TW>
     <ZH_WENYAN>自然风景</ZH_WENYAN>
-    <EN_GE>Natural scenery</EN_GE>
+    <EN_US>Natural scenery</EN_US>
   </TextBlock>
 <TextBlock id ="141">
     <ZH_CN>Bing 每日一图</ZH_CN>
     <ZH_TW>Bing 每日一圖</ZH_TW>
     <ZH_WENYAN>Bing 日一图</ZH_WENYAN>
-    <EN_GE>Bing wallpaper</EN_GE>
+    <EN_US>Bing wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="142">
     <ZH_CN>二次元随机壁纸</ZH_CN>
     <ZH_TW>二次元隨機壁紙</ZH_TW>
     <ZH_WENYAN>二次元随机壁纸</ZH_WENYAN>
-    <EN_GE>Two-dimensional random wallpaper</EN_GE>
+    <EN_US>Two-dimensional random wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="143">
     <ZH_CN>每日 4K 风景壁纸</ZH_CN>
     <ZH_TW>每日 4K 風景壁紙</ZH_TW>
     <ZH_WENYAN>日 4K 风景壁纸</ZH_WENYAN>
-    <EN_GE>Daily 4K landscape wallpaper</EN_GE>
+    <EN_US>Daily 4K landscape wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="144">
     <ZH_CN>常用地址</ZH_CN>
     <ZH_TW>經常使用的連結</ZH_TW>
     <ZH_WENYAN>常用地址</ZH_WENYAN>
-    <EN_GE>Frequently used urls</EN_GE>
+    <EN_US>Frequently used urls</EN_US>
   </TextBlock>
 <TextBlock id ="145">
     <ZH_CN>主题与颜色</ZH_CN>
     <ZH_TW>主題與顔色</ZH_TW>
     <ZH_WENYAN>主题颜色</ZH_WENYAN>
-    <EN_GE>Themes and colors</EN_GE>
+    <EN_US>Themes and colors</EN_US>
   </TextBlock>
 <TextBlock id ="146">
     <ZH_CN>主题</ZH_CN>
     <ZH_TW>主題</ZH_TW>
     <ZH_WENYAN>主题</ZH_WENYAN>
-    <EN_GE>Theme</EN_GE>
+    <EN_US>Theme</EN_US>
   </TextBlock>
 <TextBlock id ="147">
     <ZH_CN>主题</ZH_CN>
     <ZH_TW>主題</ZH_TW>
     <ZH_WENYAN>主题</ZH_WENYAN>
-    <EN_GE>Theme</EN_GE>
+    <EN_US>Theme</EN_US>
   </TextBlock>
 <TextBlock id ="148">
     <ZH_CN>PowerPoint 版本</ZH_CN>
     <ZH_TW>PowerPoint 版本</ZH_TW>
     <ZH_WENYAN>PowerPoint 版本</ZH_WENYAN>
-    <EN_GE>PowerPoint Version</EN_GE>
+    <EN_US>PowerPoint Version</EN_US>
   </TextBlock>
 <TextBlock id ="149">
     <ZH_CN>显示器 1 分辨率</ZH_CN>
     <ZH_TW>显示器 1 解像度</ZH_TW>
     <ZH_WENYAN>一以示见器分辨率</ZH_WENYAN>
-    <EN_GE>Display 1 resolution</EN_GE>
+    <EN_US>Display 1 resolution</EN_US>
   </TextBlock>
 <TextBlock id ="150">
     <ZH_CN>物理机 NT 内核版本</ZH_CN>
     <ZH_TW>物理机 NT 内核版本</ZH_TW>
     <ZH_WENYAN>物理机新科目核心版本</ZH_WENYAN>
-    <EN_GE>Physical machine NT kernel version</EN_GE>
+    <EN_US>Physical machine NT kernel version</EN_US>
   </TextBlock>
 <TextBlock id ="151">
     <ZH_CN>关于</ZH_CN>
     <ZH_TW>關於</ZH_TW>
     <ZH_WENYAN>关于</ZH_WENYAN>
-    <EN_GE>About</EN_GE>
+    <EN_US>About</EN_US>
   </TextBlock>
 <TextBlock id ="152">
     <ZH_CN>修改 Taurus UI 的显示语言</ZH_CN>
     <ZH_TW>修改 Taurus UI 的显示语言</ZH_TW>
     <ZH_WENYAN>改露章语</ZH_WENYAN>
-    <EN_GE>Change the display language of Taurus UI</EN_GE>
+    <EN_US>Change the display language of Taurus UI</EN_US>
   </TextBlock>
 <TextBlock id ="153">
     <ZH_CN>更改 Taurus UI 的壁纸与颜色</ZH_CN>
     <ZH_TW>更改 Taurus UI 的壁紙和颜色</ZH_TW>
     <ZH_WENYAN>更墙与色</ZH_WENYAN>
-    <EN_GE>Change the wallpaper and color of Taurus UI</EN_GE>
+    <EN_US>Change the wallpaper and color of Taurus UI</EN_US>
   </TextBlock>
 <TextBlock id ="154">
     <ZH_CN>更换 PIN 与安全问题</ZH_CN>
     <ZH_TW>更换 PIN 与安全问题</ZH_TW>
     <ZH_WENYAN>更易闭钥与诸全问</ZH_WENYAN>
-    <EN_GE>Change PIN and security questions</EN_GE>
+    <EN_US>Change PIN and security questions</EN_US>
   </TextBlock>
 <TextBlock id ="155">
     <ZH_CN>建议</ZH_CN>
     <ZH_TW>建议</ZH_TW>
     <ZH_WENYAN>陈词</ZH_WENYAN>
-    <EN_GE>Suggestion</EN_GE>
+    <EN_US>Suggestion</EN_US>
   </TextBlock>
 <TextBlock id ="156">
     <ZH_CN>主页</ZH_CN>
     <ZH_TW>主頁</ZH_TW>
     <ZH_WENYAN>主页</ZH_WENYAN>
-    <EN_GE>Home</EN_GE>
+    <EN_US>Home</EN_US>
   </TextBlock>
 <TextBlock id ="157">
     <ZH_CN>音效与动画设计</ZH_CN>
     <ZH_TW>音效與動畫設計</ZH_TW>
     <ZH_WENYAN>音与动之设</ZH_WENYAN>
-    <EN_GE>Sound and Animation Design</EN_GE>
+    <EN_US>Sound and Animation Design</EN_US>
   </TextBlock>
 <TextBlock id ="158">
     <ZH_CN>壁纸提供</ZH_CN>
     <ZH_TW>壁纸提供</ZH_TW>
-    <ZH_WENYAN>墙纸供</ZH_WENYAN>
-    <EN_GE>Wallpaper supply</EN_GE>
+    <ZH_WENYAN>壁纸供</ZH_WENYAN>
+    <EN_US>Wallpaper supply</EN_US>
   </TextBlock>
 <TextBlock id ="159">
     <ZH_CN>记事本</ZH_CN>
     <ZH_TW>記事本</ZH_TW>
     <ZH_WENYAN>记事簿</ZH_WENYAN>
-    <EN_GE>Notepad</EN_GE>
+    <EN_US>Notepad</EN_US>
   </TextBlock>
 <TextBlock id ="160">
     <ZH_CN>应用商店</ZH_CN>
     <ZH_TW>應用商店</ZH_TW>
     <ZH_WENYAN>应用市</ZH_WENYAN>
-    <EN_GE>Store</EN_GE>
+    <EN_US>App Market</EN_US>
   </TextBlock>
 <TextBlock id ="161">
     <ZH_CN>浏览器</ZH_CN>
     <ZH_TW>瀏覽器</ZH_TW>
     <ZH_WENYAN>网阅器</ZH_WENYAN>
-    <EN_GE>Web Browser</EN_GE>
+    <EN_US>Web Browser</EN_US>
   </TextBlock>
 <TextBlock id ="162">
     <ZH_CN>壁纸</ZH_CN>
     <ZH_TW>壁紙</ZH_TW>
-    <ZH_WENYAN>墙纸</ZH_WENYAN>
-    <EN_GE>Wallpapers</EN_GE>
+    <ZH_WENYAN>壁纸</ZH_WENYAN>
+    <EN_US>Wallpapers</EN_US>
   </TextBlock>
 <TextBlock id ="163">
     <ZH_CN>光</ZH_CN>
     <ZH_TW>光</ZH_TW>
     <ZH_WENYAN>光</ZH_WENYAN>
-    <EN_GE>Light</EN_GE>
+    <EN_US>Light</EN_US>
   </TextBlock>
 <TextBlock id ="164">
     <ZH_CN>通知</ZH_CN>
     <ZH_TW>通知</ZH_TW>
     <ZH_WENYAN>告示</ZH_WENYAN>
-    <EN_GE>Notice</EN_GE>
+    <EN_US>Notice</EN_US>
   </TextBlock>
 <TextBlock id ="165">
     <ZH_CN>欢迎使用 Taurus UI Camelot!</ZH_CN>
     <ZH_TW>歡迎使用 Taurus UI Camelot!</ZH_TW>
     <ZH_WENYAN>迎用 Taurus UI Camelot!</ZH_WENYAN>
-    <EN_GE>Welcome to Taurus UI Camelot!</EN_GE>
+    <EN_US>Welcome to Taurus UI Camelot!</EN_US>
   </TextBlock>
 <TextBlock id ="166">
-    <ZH_CN>轻点此通知以访问 “使用技巧” App，探索 Taurus UI 的用法。</ZH_CN>
-    <ZH_TW>輕點此通知以訪問 “使用技巧” App，探索 Taurus UI 的用法。</ZH_TW>
-    <ZH_WENYAN>击此告示以访“用巧”，探 Taurus UI 之用法。</ZH_WENYAN>
-    <EN_GE>Tap this notification to access the 'Tips' app, discovering the usage of Taurus UI.</EN_GE>
+    <ZH_CN>轻点此通知以访问用户手册，探索 Taurus UI 的用法。</ZH_CN>
+    <ZH_TW>輕點此通知以訪問用戶手冊，探索 Taurus UI 的用法。</ZH_TW>
+    <ZH_WENYAN>击此告示以访户册，探 Taurus UI 之用法。</ZH_WENYAN>
+    <EN_US>Tap this notification to access the User Manual, discovering the usage of Taurus UI.</EN_US>
   </TextBlock>
 <TextBlock id ="167">
     <ZH_CN>测试应用程序 “相机” 已启用</ZH_CN>
     <ZH_TW>測試應用程序“相機”已啟用</ZH_TW>
     <ZH_WENYAN>试“相机”已启用之。</ZH_WENYAN>
-    <EN_GE>Test app 'Camera' is enabled</EN_GE>
+    <EN_US>Test app "Camera" is enabled</EN_US>
   </TextBlock>
 <TextBlock id ="168">
     <ZH_CN>此应用程序仅供测试使用，若要禁用，请联系您的设备管理员或组织。</ZH_CN>
     <ZH_TW>此應用程序僅供測試使用，若要禁用，請聯系您的設備管理員或組織。</ZH_TW>
     <ZH_WENYAN>仅试，若禁，联理路或作。</ZH_WENYAN>
-    <EN_GE>This app is only for test. To disable it, please talk to your admin or organize.</EN_GE>
+    <EN_US>This app is only for test. To disable it, please talk to your admin or organize.</EN_US>
   </TextBlock>
 <TextBlock id ="169">
     <ZH_CN>智能建议</ZH_CN>
     <ZH_TW>智慧建議</ZH_TW>
     <ZH_WENYAN>议</ZH_WENYAN>
-    <EN_GE>Smart Advice</EN_GE>
+    <EN_US>Smart Advice</EN_US>
   </TextBlock>
 <TextBlock id ="170">
     <ZH_CN>前往“设置”>“语言”</ZH_CN>
     <ZH_TW>前往 “設定”>“語言”</ZH_TW>
     <ZH_WENYAN>往“置”>"语”。</ZH_WENYAN>
-    <EN_GE>Go to Settings > Language</EN_GE>
+    <EN_US>Go to Settings > Language</EN_US>
   </TextBlock>
 <TextBlock id ="171">
     <ZH_CN>免打扰</ZH_CN>
     <ZH_TW>免打擾</ZH_TW>
     <ZH_WENYAN>免扰</ZH_WENYAN>
-    <EN_GE>Do Not Disturb</EN_GE>
+    <EN_US>Do Not Disturb</EN_US>
   </TextBlock>
 <TextBlock id ="172">
     <ZH_CN>快捷操作</ZH_CN>
     <ZH_TW>快捷操作</ZH_TW>
     <ZH_WENYAN>快捷操作</ZH_WENYAN>
-    <EN_GE>Quick Actions</EN_GE>
+    <EN_US>Quick Actions</EN_US>
   </TextBlock>
 <TextBlock id ="173">
     <ZH_CN>锁定</ZH_CN>
     <ZH_TW>鎖定</ZH_TW>
     <ZH_WENYAN>锁之</ZH_WENYAN>
-    <EN_GE>Lock</EN_GE>
+    <EN_US>Lock</EN_US>
   </TextBlock>
 <TextBlock id ="174">
     <ZH_CN>亮色模式</ZH_CN>
     <ZH_TW>亮色模式</ZH_TW>
     <ZH_WENYAN>亮</ZH_WENYAN>
-    <EN_GE>Bright M...</EN_GE>
+    <EN_US>Bright M...</EN_US>
   </TextBlock>
 <TextBlock id ="175">
     <ZH_CN>深色模式</ZH_CN>
     <ZH_TW>深色模式</ZH_TW>
     <ZH_WENYAN>深</ZH_WENYAN>
-    <EN_GE>Dark Mo...</EN_GE>
+    <EN_US>Dark Mo...</EN_US>
   </TextBlock>
 <TextBlock id ="176">
     <ZH_CN>电源选项</ZH_CN>
     <ZH_TW>電源选项</ZH_TW>
     <ZH_WENYAN>电源选项</ZH_WENYAN>
-    <EN_GE>Power Options</EN_GE>
+    <EN_US>Power Options</EN_US>
   </TextBlock>
 <TextBlock id ="177">
     <ZH_CN>这些功能仅用于实验，可能需要高版本 PowerPoint ，随时可能被取消。</ZH_CN>
     <ZH_TW>這些功能僅用於實驗，可能需要高版本 PowerPoint，隨時可能被取消。</ZH_TW>
     <ZH_WENYAN>此功止于实验,或须高版 PowerPoint ,随时可除。</ZH_WENYAN>
-    <EN_GE>These functions are only for experimental purposes and may require a higher version of PowerPoint.</EN_GE>
+    <EN_US>These functions are only for experimental purposes and may require a higher version of PowerPoint.</EN_US>
   </TextBlock>
 <TextBlock id ="178">
     <ZH_CN>需要最低 PowerPoint 版本</ZH_CN>
     <ZH_TW>需要最低 PowerPoint 版本</ZH_TW>
     <ZH_WENYAN>须最卑 PowerPoint 版本</ZH_WENYAN>
-    <EN_GE>A minimum PowerPoint version is required</EN_GE>
+    <EN_US>A minimum PowerPoint version is required</EN_US>
   </TextBlock>
 <TextBlock id ="179">
     <ZH_CN>当前版本</ZH_CN>
     <ZH_TW>當前版本</ZH_TW>
     <ZH_WENYAN>今版本</ZH_WENYAN>
-    <EN_GE>Current version</EN_GE>
+    <EN_US>Current version</EN_US>
   </TextBlock>
 <TextBlock id ="180">
     <ZH_CN>是时候安装更新了</ZH_CN>
     <ZH_TW>是時候安裝更新了</ZH_TW>
     <ZH_WENYAN>是时安新也</ZH_WENYAN>
-    <EN_GE>It's time to update your system</EN_GE>
+    <EN_US>It's time to update your system</EN_US>
   </TextBlock>
 <TextBlock id ="181">
     <ZH_CN>在安装更新前</ZH_CN>
     <ZH_TW>在安装更新前</ZH_TW>
     <ZH_WENYAN>在安装更新前</ZH_WENYAN>
-    <EN_GE>Before updating</EN_GE>
+    <EN_US>Before updating</EN_US>
   </TextBlock>
 <TextBlock id ="182">
     <ZH_CN>请保存您的文件，以免贻误您的工作。请点击“安装更新”按钮并在接下来打开的“文件资源管理器”窗口中双击“Update.bat”来更新。</ZH_CN>
     <ZH_TW>請保存您的檔，以免貽誤您的工作。 請點擊「安裝更新」按鈕並在接下來打開的「文件資源管理器」視窗中按兩下「Update.bat」來更新。</ZH_TW>
     <ZH_WENYAN>请存足下之文,以误执事。 请点击"安装更新"按钮并接下"文件资源管理器"双击"Update.bat"以新之。</ZH_WENYAN>
-    <EN_GE>Please save your files so that your work is not delayed. Please click the "Install Update" button and double-click "Update .bat" in the "File Explorer" window that opens next to update.</EN_GE>
+    <EN_US>Please save your files so that your work is not delayed. Please click the "Install Update" button and double-click "Update .bat" in the "File Explorer" window that opens next to update.</EN_US>
   </TextBlock>
 <TextBlock id ="183">
     <ZH_CN>安装更新</ZH_CN>
     <ZH_TW>安裝</ZH_TW>
     <ZH_WENYAN>安装更新</ZH_WENYAN>
-    <EN_GE>Install update</EN_GE>
+    <EN_US>Install update</EN_US>
   </TextBlock>
 <TextBlock id ="184">
     <ZH_CN>长度</ZH_CN>
     <ZH_TW>長度</ZH_TW>
     <ZH_WENYAN>长</ZH_WENYAN>
-    <EN_GE>LENTH</EN_GE>
+    <EN_US>LENTH</EN_US>
   </TextBlock>
 <TextBlock id ="185">
     <ZH_CN>面积</ZH_CN>
     <ZH_TW>面積</ZH_TW>
     <ZH_WENYAN>广袤</ZH_WENYAN>
-    <EN_GE>AREA</EN_GE>
+    <EN_US>AREA</EN_US>
   </TextBlock>
 <TextBlock id ="186">
     <ZH_CN>体积</ZH_CN>
     <ZH_TW>體積</ZH_TW>
     <ZH_WENYAN>体积</ZH_WENYAN>
-    <EN_GE>VOLUME</EN_GE>
+    <EN_US>VOLUME</EN_US>
   </TextBlock>
 <TextBlock id ="187">
     <ZH_CN>数据</ZH_CN>
     <ZH_TW>數據</ZH_TW>
     <ZH_WENYAN>数之据</ZH_WENYAN>
-    <EN_GE>DATA</EN_GE>
+    <EN_US>DATA</EN_US>
   </TextBlock>
 <TextBlock id ="188">
     <ZH_CN>支持 nm、um、mm、cm、dm、km、inch、mile、foot、ly 的互换。</ZH_CN>
     <ZH_TW>支援 nm、um、mm、cm、dm、km、inch、mile、foot、ly 的互換。</ZH_TW>
     <ZH_WENYAN>持 nm、um、mm、cm、dm、km、inch、mile、foot、ly 之互换。</ZH_WENYAN>
-    <EN_GE>Support conversion of nm, um, mm, cm, dm, km, inch, mile, foot, and ly.</EN_GE>
+    <EN_US>Support conversion of nm, um, mm, cm, dm, km, inch, mile, foot, and ly.</EN_US>
   </TextBlock>
 <TextBlock id ="189">
     <ZH_CN>支持 mm2、cm2、dm2、m2、ha、km2 的互换。</ZH_CN>
     <ZH_TW>支援 mm2、cm2、dm2、m2、ha、km2  的互換。</ZH_TW>
     <ZH_WENYAN>持 mm2、cm2、dm2、m2、ha、km2 之互换。</ZH_WENYAN>
-    <EN_GE>Support conversion of mm2, cm2, dm2, m2, ha and km2.</EN_GE>
+    <EN_US>Support conversion of mm2, cm2, dm2, m2, ha and km2.</EN_US>
   </TextBlock>
 <TextBlock id ="190">
     <ZH_CN>支持 ml、L、m3 的互换。</ZH_CN>
     <ZH_TW>支援 ml、L、m3 的互換。</ZH_TW>
     <ZH_WENYAN>持 ml、L、m3 之互换。</ZH_WENYAN>
-    <EN_GE>Support conversion of ml,L and m3.</EN_GE>
+    <EN_US>Support conversion of ml,L and m3.</EN_US>
   </TextBlock>
 <TextBlock id ="191">
     <ZH_CN>支持 B、KB、MB、GB、TB、PB 的互换。</ZH_CN>
     <ZH_TW>支援 B、KB、MB、GB、TB、PB 的互換。</ZH_TW>
     <ZH_WENYAN>持 B、KB、MB、GB、TB、PB 之互换。</ZH_WENYAN>
-    <EN_GE>Support conversion of B,KB,MB,GB,TB and PB.</EN_GE>
+    <EN_US>Support conversion of B,KB,MB,GB,TB and PB.</EN_US>
   </TextBlock>
 <TextBlock id ="192">
     <ZH_CN>计算</ZH_CN>
     <ZH_TW>計算</ZH_TW>
     <ZH_WENYAN>计之</ZH_WENYAN>
-    <EN_GE>Calculation</EN_GE>
+    <EN_US>Calculation</EN_US>
   </TextBlock>
 <TextBlock id ="193">
     <ZH_CN>换算</ZH_CN>
     <ZH_TW>換算</ZH_TW>
     <ZH_WENYAN>更算</ZH_WENYAN>
-    <EN_GE>Conversion</EN_GE>
+    <EN_US>Conversion</EN_US>
   </TextBlock>
 <TextBlock id ="194">
     <ZH_CN>当前您正在使用 Beta Preview 版本，仅可用于体验测试，不得私自修改并发行。</ZH_CN>
     <ZH_TW>當前您正在使用 Beta Preview 版本，僅可用於體驗測試，不得私自修改併發行。</ZH_TW>
     <ZH_WENYAN>今君方用 Beta Preview 版本,仅可试以体验,不得私改而行。</ZH_WENYAN>
-    <EN_GE>You are currently using the Beta Preview version, which can only be used for experience testing, and may not be modified and released privately.</EN_GE>
+    <EN_US>You are currently using the Beta Preview version, which can only be used for experience testing, and may not be modified and released privately.</EN_US>
   </TextBlock>
 <TextBlock id ="195">
     <ZH_CN>此版本遵循 CC-BY-NC-ND 开源</ZH_CN>
     <ZH_TW>此版本遵循 CC-BY-NC-ND 開源</ZH_TW>
     <ZH_WENYAN>其本循 CC-BY-NC-ND 开源</ZH_WENYAN>
-    <EN_GE>Follows CC-BY-NC-ND open source</EN_GE>
+    <EN_US>Follows CC-BY-NC-ND open source</EN_US>
   </TextBlock>
 <TextBlock id ="196">
     <ZH_CN>了解更多</ZH_CN>
     <ZH_TW>瞭解更多</ZH_TW>
     <ZH_WENYAN>知之益多</ZH_WENYAN>
-    <EN_GE>Learn More</EN_GE>
+    <EN_US>Learn More</EN_US>
   </TextBlock>
 <TextBlock id ="197">
     <ZH_CN>署名-非商业性使用-禁止演绎</ZH_CN>
     <ZH_TW>署名-非商業性使用-禁止演繹</ZH_TW>
     <ZH_WENYAN>署名-非商业性用-禁演</ZH_WENYAN>
-    <EN_GE>Attribution - Non-Commercial Use - No Derivative Works</EN_GE>
+    <EN_US>Attribution - Non-Commercial Use - No Derivative Works</EN_US>
   </TextBlock>
 <TextBlock id ="198">
     <ZH_CN>安全管家</ZH_CN>
     <ZH_TW>安全管家</ZH_TW>
     <ZH_WENYAN>管家</ZH_WENYAN>
-    <EN_GE>Security</EN_GE>
+    <EN_US>Security</EN_US>
   </TextBlock>
 <TextBlock id ="199">
     <ZH_CN>无法打开此应用程序</ZH_CN>
     <ZH_TW>無法打開此應用程式</ZH_TW>
     <ZH_WENYAN>无以开应用程序</ZH_WENYAN>
-    <EN_GE>This application cannot be opened</EN_GE>
+    <EN_US>This application cannot be opened</EN_US>
   </TextBlock>
 <TextBlock id ="200">
     <ZH_CN>此应用程序可能并未正确安装</ZH_CN>
     <ZH_TW>此應用程式可能並未正確安裝</ZH_TW>
     <ZH_WENYAN>此应用程序或未之安也</ZH_WENYAN>
-    <EN_GE>This application may not have been installed correctly</EN_GE>
+    <EN_US>This application may not have been installed correctly</EN_US>
   </TextBlock>
 <TextBlock id ="201">
     <ZH_CN>详细信息</ZH_CN>
     <ZH_TW>詳細資訊</ZH_TW>
     <ZH_WENYAN>详细信息</ZH_WENYAN>
-    <EN_GE>Details</EN_GE>
+    <EN_US>Details</EN_US>
   </TextBlock>
 <TextBlock id ="202">
     <ZH_CN>确定</ZH_CN>
     <ZH_TW>確定</ZH_TW>
     <ZH_WENYAN>嗻</ZH_WENYAN>
-    <EN_GE>OK</EN_GE>
+    <EN_US>OK</EN_US>
   </TextBlock>
 <TextBlock id ="203">
     <ZH_CN>我们所有的更新文件均为从 Github.com 获取。若您无法获取更新，请使用代理工具或稍作等待。</ZH_CN>
     <ZH_TW>我們所有的更新檔均為從 Github.com 獲取。若您無法獲取更新，請使用代理工具或稍作等待。</ZH_TW>
     <ZH_WENYAN>凡新文皆取于 Github.com。若君无所取新,请用摄具稍待之。</ZH_WENYAN>
-    <EN_GE>All of our update files are obtained from Github.com. If you are unable to get the update, please use the proxy tool or wait for a while.</EN_GE>
+    <EN_US>All of our update files are obtained from Github.com. If you are unable to get the update, please use the proxy tool or wait for a while.</EN_US>
   </TextBlock>
 <TextBlock id ="204">
     <ZH_CN>软件更新仍在进行测试，有些时候您可能无法从云端获取更新内容。</ZH_CN>
     <ZH_TW>軟體更新仍在進行測試，有些時候您可能無法從雲端獲取更新內容。</ZH_TW>
     <ZH_WENYAN>软件更新仍试,君疑不得新。</ZH_WENYAN>
-    <EN_GE>Software updates are still being tested, and there may be times when you may not be able to get updates from the cloud.</EN_GE>
+    <EN_US>Software updates are still being tested, and there may be times when you may not be able to get updates from the cloud.</EN_US>
   </TextBlock>
 <TextBlock id ="205">
     <ZH_CN>通用</ZH_CN>
     <ZH_TW>通用</ZH_TW>
     <ZH_WENYAN>通用</ZH_WENYAN>
-    <EN_GE>General</EN_GE>
+    <EN_US>General</EN_US>
   </TextBlock>
 <TextBlock id ="206">
     <ZH_CN>关于 Taurus UI</ZH_CN>
     <ZH_TW>關於 Taurus UI</ZH_TW>
     <ZH_WENYAN>关于 Taurus UI</ZH_WENYAN>
-    <EN_GE>About Taurus UI</EN_GE>
+    <EN_US>About Taurus UI</EN_US>
   </TextBlock>
 <TextBlock id ="207">
     <ZH_CN>我的账户</ZH_CN>
     <ZH_TW>我的賬戶</ZH_TW>
     <ZH_WENYAN>吾户</ZH_WENYAN>
-    <EN_GE>My Account</EN_GE>
+    <EN_US>My Account</EN_US>
   </TextBlock>
 <TextBlock id ="208">
     <ZH_CN>设备名称</ZH_CN>
     <ZH_TW>設備名稱</ZH_TW>
     <ZH_WENYAN>设备名</ZH_WENYAN>
-    <EN_GE>Device name</EN_GE>
+    <EN_US>Device name</EN_US>
   </TextBlock>
 <TextBlock id ="209">
     <ZH_CN>重命名</ZH_CN>
     <ZH_TW>重命名</ZH_TW>
     <ZH_WENYAN>重名之</ZH_WENYAN>
-    <EN_GE>Rename</EN_GE>
+    <EN_US>Rename</EN_US>
   </TextBlock>
 <TextBlock id ="210">
     <ZH_CN>软件</ZH_CN>
     <ZH_TW>軟體</ZH_TW>
     <ZH_WENYAN>软件</ZH_WENYAN>
-    <EN_GE>Software</EN_GE>
+    <EN_US>Software</EN_US>
   </TextBlock>
 <TextBlock id ="211">
     <ZH_CN>个性化</ZH_CN>
     <ZH_TW>個人化</ZH_TW>
     <ZH_WENYAN>个性化</ZH_WENYAN>
-    <EN_GE>Personalization</EN_GE>
+    <EN_US>Personalization</EN_US>
   </TextBlock>
 <TextBlock id ="212">
     <ZH_CN>账户与安全</ZH_CN>
     <ZH_TW>賬戶與安全</ZH_TW>
     <ZH_WENYAN>账户与安全</ZH_WENYAN>
-    <EN_GE>Account and Safety</EN_GE>
+    <EN_US>Account and Safety</EN_US>
   </TextBlock>
 <TextBlock id ="213">
     <ZH_CN>打开记事本</ZH_CN>
     <ZH_TW>打開記事本</ZH_TW>
     <ZH_WENYAN>开记事簿</ZH_WENYAN>
-    <EN_GE>Open Notepad App</EN_GE>
+    <EN_US>Open Notepad App</EN_US>
   </TextBlock>
 <TextBlock id ="214">
     <ZH_CN>转到系统设置</ZH_CN>
     <ZH_TW>轉到系統設定</ZH_TW>
     <ZH_WENYAN>移于系统设置</ZH_WENYAN>
-    <EN_GE>Switch to Settings</EN_GE>
+    <EN_US>Switch to Settings</EN_US>
   </TextBlock>
 <TextBlock id ="215">
     <ZH_CN>记录乍现灵光</ZH_CN>
     <ZH_TW>記錄乍現靈光</ZH_TW>
     <ZH_WENYAN>录乍现之灵光</ZH_WENYAN>
-    <EN_GE>Record the sudden inspiration</EN_GE>
+    <EN_US>Record the sudden inspiration</EN_US>
   </TextBlock>
 <TextBlock id ="216">
     <ZH_CN>更换主题色</ZH_CN>
     <ZH_TW>更換主題色</ZH_TW>
     <ZH_WENYAN>更易主題色</ZH_WENYAN>
-    <EN_GE>Change the theme color</EN_GE>
+    <EN_US>Change the theme color</EN_US>
   </TextBlock>
 <TextBlock id ="217">
     <ZH_CN>打开记事本，记录自己的所思所想。</ZH_CN>
     <ZH_TW>打開記事本，記錄自己的所思所想。</ZH_TW>
     <ZH_WENYAN>开记事簿，录尔所思。</ZH_WENYAN>
-    <EN_GE>Open your notepad and record your thoughts.</EN_GE>
+    <EN_US>Open your notepad and record your thoughts.</EN_US>
   </TextBlock>
 <TextBlock id ="218">
     <ZH_CN>进入设置，更换自己喜欢的主题色。</ZH_CN>
     <ZH_TW>進入設定，更換自己喜歡的主題色。</ZH_TW>
     <ZH_WENYAN>入设置，易己色。</ZH_WENYAN>
-    <EN_GE>Go to Settings and change your favorite theme color.</EN_GE>
+    <EN_US>Go to Settings and change your favorite theme color.</EN_US>
   </TextBlock>
 <TextBlock id ="219">
     <ZH_CN>锁定</ZH_CN>
     <ZH_TW>鎖定</ZH_TW>
     <ZH_WENYAN>锁定</ZH_WENYAN>
-    <EN_GE>Lock</EN_GE>
+    <EN_US>Lock</EN_US>
   </TextBlock>
 <TextBlock id ="220">
     <ZH_CN>浅色模式</ZH_CN>
     <ZH_TW>淺色模式</ZH_TW>
     <ZH_WENYAN>浅色模式</ZH_WENYAN>
-    <EN_GE>Light</EN_GE>
+    <EN_US>Light</EN_US>
   </TextBlock>
 <TextBlock id ="221">
     <ZH_CN>深色模式</ZH_CN>
     <ZH_TW>深色模式</ZH_TW>
     <ZH_WENYAN>深色模式</ZH_WENYAN>
-    <EN_GE>Dark</EN_GE>
+    <EN_US>Dark</EN_US>
   </TextBlock>
 <TextBlock id ="222">
     <ZH_CN>Tuling 版本</ZH_CN>
     <ZH_TW>Tuling 版本</ZH_TW>
     <ZH_WENYAN>Tuling 版本</ZH_WENYAN>
-    <EN_GE>Tuling Version</EN_GE>
+    <EN_US>Tuling Version</EN_US>
   </TextBlock>
 <TextBlock id ="223">
     <ZH_CN>检查 Taurus UI 的更新版本</ZH_CN>
     <ZH_TW>檢查 Taurus UI 的更新版本</ZH_TW>
     <ZH_WENYAN>查 Taurus UI 之更新版本</ZH_WENYAN>
-    <EN_GE>Check for later updates of Taurus UI</EN_GE>
+    <EN_US>Check for later updates of Taurus UI</EN_US>
   </TextBlock>
 <TextBlock id ="224">
     <ZH_CN>该产品基于 Tuling 5 Despina 制作。</ZH_CN>
     <ZH_TW>該產品基於 Tuling 5 Despina 製作。</ZH_TW>
     <ZH_WENYAN>此物乃 Tuling 5 Despina 而造。</ZH_WENYAN>
-    <EN_GE>This product is made of Tuling 5 Despina.</EN_GE>
+    <EN_US>This product is made of Tuling 5 Despina.</EN_US>
   </TextBlock>
 <TextBlock id ="225">
     <ZH_CN>版本</ZH_CN>
     <ZH_TW>版本</ZH_TW>
     <ZH_WENYAN>版本</ZH_WENYAN>
-    <EN_GE>Version</EN_GE>
+    <EN_US>Version</EN_US>
   </TextBlock>
 <TextBlock id ="226">
     <ZH_CN>主制作</ZH_CN>
     <ZH_TW>主製作</ZH_TW>
     <ZH_WENYAN>主制作</ZH_WENYAN>
-    <EN_GE>The Main Producer</EN_GE>
+    <EN_US>The Main Producer</EN_US>
   </TextBlock>
 <TextBlock id ="227">
     <ZH_CN>发布日期</ZH_CN>
     <ZH_TW>發佈日期</ZH_TW>
     <ZH_WENYAN>发布日期</ZH_WENYAN>
-    <EN_GE>Release date</EN_GE>
+    <EN_US>Release date</EN_US>
   </TextBlock>
 <TextBlock id ="228">
     <ZH_CN>发布日期</ZH_CN>
     <ZH_TW>發佈日期</ZH_TW>
     <ZH_WENYAN>发布日期</ZH_WENYAN>
-    <EN_GE>Release date</EN_GE>
+    <EN_US>Release date</EN_US>
   </TextBlock>
 <TextBlock id ="229">
     <ZH_CN>字体</ZH_CN>
     <ZH_TW>字體</ZH_TW>
     <ZH_WENYAN>字体</ZH_WENYAN>
-    <EN_GE>Font</EN_GE>
+    <EN_US>Font</EN_US>
   </TextBlock>
 <TextBlock id ="230">
     <ZH_CN>图标库</ZH_CN>
     <ZH_TW>圖標庫</ZH_TW>
     <ZH_WENYAN>图标库</ZH_WENYAN>
-    <EN_GE>Icon Pack</EN_GE>
+    <EN_US>Icon Pack</EN_US>
   </TextBlock>
 <TextBlock id ="231">
     <ZH_CN>许可条款</ZH_CN>
     <ZH_TW>許可條款</ZH_TW>
     <ZH_WENYAN>许可条款</ZH_WENYAN>
-    <EN_GE>License Terms</EN_GE>
+    <EN_US>License Terms</EN_US>
   </TextBlock>
 <TextBlock id ="232">
     <ZH_CN>Beta Preview 版本说明</ZH_CN>
     <ZH_TW>Beta Preview 版本説明</ZH_TW>
     <ZH_WENYAN>Beta Preview 版本说明</ZH_WENYAN>
-    <EN_GE>Beta Preview Release Notes</EN_GE>
+    <EN_US>Beta Preview Release Notes</EN_US>
   </TextBlock>
 <TextBlock id ="233">
     <ZH_CN>更换主题样式、修改主题色</ZH_CN>
     <ZH_TW>更換主題樣式、修改主題色</ZH_TW>
     <ZH_WENYAN>更主题之风、易主题之色</ZH_WENYAN>
-    <EN_GE>Change the style or color of the theme</EN_GE>
+    <EN_US>Change the style or color of the theme</EN_US>
   </TextBlock>
 <TextBlock id ="234">
     <ZH_CN>从内置壁纸、网络或者本地等地方，更换桌面和锁屏壁纸</ZH_CN>
     <ZH_TW>從内置壁紙、網絡或者本地等地方，更換桌面和鎖屏壁紙</ZH_TW>
-    <ZH_WENYAN>易桌面及锁屏之墙纸于内仓、网络及本地等处，</ZH_WENYAN>
-    <EN_GE>Change the desktop and lockscreen's wallpaper from built-in wallpaper, network or locality</EN_GE>
+    <ZH_WENYAN>易桌面及锁屏之壁纸于内仓、网络及本地等处，</ZH_WENYAN>
+    <EN_US>Change the desktop and lockscreen's wallpaper from built-in wallpaper, network or locality</EN_US>
   </TextBlock>
 <TextBlock id ="235">
     <ZH_CN>查看、修改您的帐户信息</ZH_CN>
     <ZH_TW>查看、修改您的帳戶信息</ZH_TW>
     <ZH_WENYAN>阅或改帐户信息</ZH_WENYAN>
-    <EN_GE>View or change your account information</EN_GE>
+    <EN_US>View or change your account information</EN_US>
   </TextBlock>
 <TextBlock id ="236">
     <ZH_CN>修改您的 PIN 或者安全问题</ZH_CN>
     <ZH_TW>修改您的 PIN 或者安全問題</ZH_TW>
     <ZH_WENYAN>更 PIN 或安全题问</ZH_WENYAN>
-    <EN_GE>Change your PIN or security question</EN_GE>
+    <EN_US>Change your PIN or security question</EN_US>
   </TextBlock>
 <TextBlock id ="237">
     <ZH_CN>鸣谢</ZH_CN>
     <ZH_TW>鳴謝</ZH_TW>
     <ZH_WENYAN>甚谢</ZH_WENYAN>
-    <EN_GE>Special Thanks</EN_GE>
+    <EN_US>Special Thanks</EN_US>
   </TextBlock>
 <TextBlock id ="238">
     <ZH_CN>该软件不支持对自定义壁纸进行背景模糊处理。</ZH_CN>
     <ZH_TW>該軟體不支持自定義壁紙進行背景模糊處理。</ZH_TW>
-    <ZH_WENYAN>此物无术以瞑自定墙纸。</ZH_WENYAN>
-    <EN_GE>This software cannot blur custom wallpapers.</EN_GE>
+    <ZH_WENYAN>此物无术以瞑自定壁纸。</ZH_WENYAN>
+    <EN_US>This software cannot blur custom wallpapers.</EN_US>
   </TextBlock>
 <TextBlock id ="239">
     <ZH_CN>桌面和锁屏设置...</ZH_CN>
     <ZH_TW>桌面和鎖屏設定...</ZH_TW>
     <ZH_WENYAN>桌锁设定...</ZH_WENYAN>
-    <EN_GE>Desktop and lockscreen settings...</EN_GE>
+    <EN_US>Desktop and lockscreen settings...</EN_US>
   </TextBlock>
 <TextBlock id ="240">
     <ZH_CN>更新内容</ZH_CN>
     <ZH_TW>更新内容</ZH_TW>
     <ZH_WENYAN>更新内容</ZH_WENYAN>
-    <EN_GE>Update Contents</EN_GE>
+    <EN_US>Update Contents</EN_US>
   </TextBlock>
 <TextBlock id ="241">
     <ZH_CN>源代码和 UI 开发</ZH_CN>
     <ZH_TW>源代碼和 UI 開發</ZH_TW>
-    <ZH_WENYAN>发源代码及 UI</ZH_WENYAN>
-    <EN_GE>The developent of original code and UI</EN_GE>
+    <ZH_WENYAN>编源代码及 UI</ZH_WENYAN>
+    <EN_US>The developent of original code and UI</EN_US>
   </TextBlock>
 <TextBlock id ="242">
     <ZH_CN>BUG 修复和补充开发</ZH_CN>
     <ZH_TW>BUG 修復和補充開發</ZH_TW>
     <ZH_WENYAN>修补系统</ZH_WENYAN>
-    <EN_GE>BUG fixes and supplementary development</EN_GE>
+    <EN_US>BUG fixes and supplementary development</EN_US>
   </TextBlock>
 <TextBlock id ="243">
-    <ZH_CN>相关开发文件提供</ZH_CN>
-    <ZH_TW>相關開發檔提供</ZH_TW>
-    <ZH_WENYAN>给相涉开发文件</ZH_WENYAN>
-    <EN_GE>The provision of relevant developent files</EN_GE>
+    <ZH_CN>相关文件提供</ZH_CN>
+    <ZH_TW>相關文檔提供</ZH_TW>
+    <ZH_WENYAN>给相涉文件</ZH_WENYAN>
+    <EN_US>The provision of relevant files</EN_US>
   </TextBlock>
 <TextBlock id ="244">
     <ZH_CN>图标库提供</ZH_CN>
     <ZH_TW>圖標庫提供</ZH_TW>
     <ZH_WENYAN>给图标库</ZH_WENYAN>
-    <EN_GE>The provision of icon pack</EN_GE>
+    <EN_US>The provision of icon pack</EN_US>
   </TextBlock>
 <TextBlock id ="245">
     <ZH_CN>图标库提供</ZH_CN>
     <ZH_TW>圖標庫提供</ZH_TW>
     <ZH_WENYAN>给图标库</ZH_WENYAN>
-    <EN_GE>The provision of icon pack</EN_GE>
+    <EN_US>The provision of icon pack</EN_US>
   </TextBlock>
 <TextBlock id ="246">
     <ZH_CN>网络壁纸</ZH_CN>
     <ZH_TW>網路壁紙</ZH_TW>
-    <ZH_WENYAN>网络墙纸</ZH_WENYAN>
-    <EN_GE>Web wallpaper</EN_GE>
+    <ZH_WENYAN>网络壁纸</ZH_WENYAN>
+    <EN_US>Web wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="247">
     <ZH_CN>从网络上获取壁纸</ZH_CN>
     <ZH_TW>從網路上獲取壁紙</ZH_TW>
-    <ZH_WENYAN>取墙纸于网络</ZH_WENYAN>
-    <EN_GE>Get wallpapers from the Internet</EN_GE>
+    <ZH_WENYAN>取壁纸于网络</ZH_WENYAN>
+    <EN_US>Get wallpapers from the Internet</EN_US>
   </TextBlock>
 <TextBlock id ="248">
     <ZH_CN>个人电话</ZH_CN>
     <ZH_TW>個人電話</ZH_TW>
     <ZH_WENYAN>个人电话</ZH_WENYAN>
-    <EN_GE>Phone number</EN_GE>
+    <EN_US>Phone number</EN_US>
   </TextBlock>
 <TextBlock id ="249">
     <ZH_CN>组织</ZH_CN>
     <ZH_TW>組織</ZH_TW>
     <ZH_WENYAN>组织</ZH_WENYAN>
-    <EN_GE>Organization</EN_GE>
+    <EN_US>Organization</EN_US>
   </TextBlock>
 <TextBlock id ="250">
     <ZH_CN>更改您的账户密码</ZH_CN>
     <ZH_TW>更改您的賬戶密碼</ZH_TW>
     <ZH_WENYAN>更易君户密码</ZH_WENYAN>
-    <EN_GE>Change your password</EN_GE>
+    <EN_US>Change your password</EN_US>
   </TextBlock>
 <TextBlock id ="251">
     <ZH_CN>点击下方按钮即可更改</ZH_CN>
     <ZH_TW>點擊下方按鈕即可更改</ZH_TW>
     <ZH_WENYAN>击下之按钮遂可更易</ZH_WENYAN>
-    <EN_GE>Click the button below to make changes</EN_GE>
+    <EN_US>Click the button below to make changes</EN_US>
   </TextBlock>
 <TextBlock id ="252">
     <ZH_CN>更改</ZH_CN>
     <ZH_TW>更改</ZH_TW>
     <ZH_WENYAN>更易</ZH_WENYAN>
-    <EN_GE>Change</EN_GE>
+    <EN_US>Change</EN_US>
   </TextBlock>
 <TextBlock id ="253">
     <ZH_CN>中文</ZH_CN>
     <ZH_TW>中文</ZH_TW>
     <ZH_WENYAN>中文</ZH_WENYAN>
-    <EN_GE>Chinese</EN_GE>
+    <EN_US>Chinese</EN_US>
   </TextBlock>
 <TextBlock id ="254">
     <ZH_CN>简体中文</ZH_CN>
     <ZH_TW>简体中文</ZH_TW>
     <ZH_WENYAN>简体中文</ZH_WENYAN>
-    <EN_GE>Simplified Chinese</EN_GE>
+    <EN_US>Simplified Chinese</EN_US>
   </TextBlock>
 <TextBlock id ="255">
     <ZH_CN>繁體中文</ZH_CN>
     <ZH_TW>繁體中文</ZH_TW>
     <ZH_WENYAN>繁體中文</ZH_WENYAN>
-    <EN_GE>Traditional Chinese</EN_GE>
+    <EN_US>Traditional Chinese</EN_US>
   </TextBlock>
 <TextBlock id ="256">
     <ZH_CN>文言文</ZH_CN>
     <ZH_TW>文言文</ZH_TW>
     <ZH_WENYAN>文言文</ZH_WENYAN>
-    <EN_GE>Classical Chinese</EN_GE>
+    <EN_US>Classical Chinese</EN_US>
   </TextBlock>
 <TextBlock id ="257">
     <ZH_CN>英语</ZH_CN>
     <ZH_TW>英語</ZH_TW>
     <ZH_WENYAN>英语</ZH_WENYAN>
-    <EN_GE>English</EN_GE>
+    <EN_US>English</EN_US>
   </TextBlock>
 <TextBlock id ="258">
     <ZH_CN>英语 (美利坚)</ZH_CN>
     <ZH_TW>英語 (美利坚)</ZH_TW>
     <ZH_WENYAN>英语 (美利坚)</ZH_WENYAN>
-    <EN_GE>English (US)</EN_GE>
+    <EN_US>English (US)</EN_US>
   </TextBlock>
 <TextBlock id ="259">
     <ZH_CN>重新加载</ZH_CN>
     <ZH_TW>重新加載</ZH_TW>
     <ZH_WENYAN>重新加载</ZH_WENYAN>
-    <EN_GE>Reload</EN_GE>
+    <EN_US>Reload</EN_US>
   </TextBlock>
 <TextBlock id ="260">
     <ZH_CN>恢复模式</ZH_CN>
     <ZH_TW>恢復模式</ZH_TW>
     <ZH_WENYAN>恢复模式</ZH_WENYAN>
-    <EN_GE>Recovery Mode</EN_GE>
+    <EN_US>Recovery Mode</EN_US>
   </TextBlock>
 <TextBlock id ="261">
     <ZH_CN>进入恢复模式，进行备份等操作</ZH_CN>
     <ZH_TW>進入恢復模式，進行備份等操作</ZH_TW>
     <ZH_WENYAN>入恢复模式，行备份等事</ZH_WENYAN>
-    <EN_GE>Enter the recovery mode and backup your software or perform other operations</EN_GE>
+    <EN_US>Enter the recovery mode and back up your software or perform other operations</EN_US>
   </TextBlock>
 <TextBlock id ="262">
     <ZH_CN>进入</ZH_CN>
     <ZH_TW>進入</ZH_TW>
     <ZH_WENYAN>入</ZH_WENYAN>
-    <EN_GE>Enter</EN_GE>
+    <EN_US>Enter</EN_US>
   </TextBlock>
 <TextBlock id ="263">
     <ZH_CN>继续截取</ZH_CN>
     <ZH_TW>繼續截取</ZH_TW>
     <ZH_WENYAN>继续截取</ZH_WENYAN>
-    <EN_GE>Continue</EN_GE>
+    <EN_US>Continue</EN_US>
   </TextBlock>
 <TextBlock id ="264">
     <ZH_CN>打开目录</ZH_CN>
     <ZH_TW>打開目錄</ZH_TW>
     <ZH_WENYAN>打开目录</ZH_WENYAN>
-    <EN_GE>Open the folder</EN_GE>
+    <EN_US>Open the folder</EN_US>
   </TextBlock>
 <TextBlock id ="265">
     <ZH_CN>正在加载 Taurus Virtual BIOS</ZH_CN>
     <ZH_TW>正在加載 Taurus Virtual BIOS</ZH_TW>
     <ZH_WENYAN>正在加载 Taurus Virtual BIOS</ZH_WENYAN>
-    <EN_GE>Loading Taurus Virtual BIOS</EN_GE>
+    <EN_US>Loading Taurus Virtual BIOS</EN_US>
   </TextBlock>
 <TextBlock id ="266">
     <ZH_CN>选择一个选项</ZH_CN>
     <ZH_TW>選擇一個選項</ZH_TW>
     <ZH_WENYAN>择一选项</ZH_WENYAN>
-    <EN_GE>Choose an option</EN_GE>
+    <EN_US>Choose an option</EN_US>
   </TextBlock>
 <TextBlock id ="267">
     <ZH_CN>启动 Virtual Disk</ZH_CN>
     <ZH_TW>啓動 Virtual Disk</ZH_TW>
     <ZH_WENYAN>启动 Virtual Disk</ZH_WENYAN>
-    <EN_GE>Start Virtual Disk up</EN_GE>
+    <EN_US>Start Virtual Disk up</EN_US>
   </TextBlock>
 <TextBlock id ="268">
     <ZH_CN>从 USB 设备启动</ZH_CN>
     <ZH_TW>從 USB 設備啓動</ZH_TW>
     <ZH_WENYAN>启动于 USB 设备</ZH_WENYAN>
-    <EN_GE>Start up from USB devices</EN_GE>
+    <EN_US>Start up from USB devices</EN_US>
   </TextBlock>
 <TextBlock id ="269">
     <ZH_CN>BIOS 设置</ZH_CN>
     <ZH_TW>BIOS 設定</ZH_TW>
     <ZH_WENYAN>BIOS 设置</ZH_WENYAN>
-    <EN_GE>BIOS Settings</EN_GE>
+    <EN_US>BIOS Settings</EN_US>
   </TextBlock>
 <TextBlock id ="270">
     <ZH_CN>电源选项</ZH_CN>
     <ZH_TW>電源選項</ZH_TW>
     <ZH_WENYAN>电源选项</ZH_WENYAN>
-    <EN_GE>Power options</EN_GE>
+    <EN_US>Power options</EN_US>
   </TextBlock>
 <TextBlock id ="271">
     <ZH_CN>下列是可用于启动的 USB 设备</ZH_CN>
     <ZH_TW>下列是可用於啓動的 USB 設備</ZH_TW>
     <ZH_WENYAN>如下乃可用于启动之 USB 设备也</ZH_WENYAN>
-    <EN_GE>The following are USB devices which can be started up from</EN_GE>
+    <EN_US>The following are USB devices which can be started up from</EN_US>
   </TextBlock>
 <TextBlock id ="272">
     <ZH_CN>没有可用的设备</ZH_CN>
     <ZH_TW>沒有可用的設備</ZH_TW>
     <ZH_WENYAN>无可用设备</ZH_WENYAN>
-    <EN_GE>No available devices</EN_GE>
+    <EN_US>No available devices</EN_US>
   </TextBlock>
 <TextBlock id ="273">
     <ZH_CN>返回</ZH_CN>
     <ZH_TW>返回</ZH_TW>
     <ZH_WENYAN>返回</ZH_WENYAN>
-    <EN_GE>Return</EN_GE>
+    <EN_US>Return</EN_US>
   </TextBlock>
 <TextBlock id ="274">
     <ZH_CN>警告：盲目开启或关闭以下选项可能会导致软件崩溃</ZH_CN>
     <ZH_TW>警告：盲目開啓或關閉以下選項可能會導致軟件崩潰</ZH_TW>
     <ZH_WENYAN>诫：妄自开关以下选项或崩此软件</ZH_WENYAN>
-    <EN_GE>WARNING: Turn on or off the options below blindly might cause software crash the software to crash</EN_GE>
+    <EN_US>WARNING: Turn on or off the options below blindly might cause software crash the software to crash</EN_US>
   </TextBlock>
 <TextBlock id ="275">
     <ZH_CN>强制开启硬件加速</ZH_CN>
     <ZH_TW>强制開啓硬件加速</ZH_TW>
     <ZH_WENYAN>强速硬件</ZH_WENYAN>
-    <EN_GE>Force the hardware acceleration on</EN_GE>
+    <EN_US>Force the hardware acceleration on</EN_US>
   </TextBlock>
 <TextBlock id ="276">
     <ZH_CN>X86 模式</ZH_CN>
     <ZH_TW>X86 模式</ZH_TW>
     <ZH_WENYAN>X86 模式</ZH_WENYAN>
-    <EN_GE>X86 Mode</EN_GE>
+    <EN_US>X86 Mode</EN_US>
   </TextBlock>
 <TextBlock id ="277">
     <ZH_CN>禁用虚拟主板</ZH_CN>
     <ZH_TW>禁用虛擬主板</ZH_TW>
     <ZH_WENYAN>禁虚拟主板</ZH_WENYAN>
-    <EN_GE>Disable the virtual motherboard</EN_GE>
+    <EN_US>Disable the virtual motherboard</EN_US>
   </TextBlock>
 <TextBlock id ="278">
     <ZH_CN>启用虚拟化（不可用）</ZH_CN>
     <ZH_TW>啓用虛擬化（不可用）</ZH_TW>
     <ZH_WENYAN>启用虚拟化（不可用）</ZH_WENYAN>
-    <EN_GE>Start virtualization (Disabled)</EN_GE>
+    <EN_US>Start virtualization (Disabled)</EN_US>
   </TextBlock>
 <TextBlock id ="279">
     <ZH_CN>在 Virtual Disk 中有多个系统</ZH_CN>
     <ZH_TW>在 Virtual Disk 中有多個系統</ZH_TW>
     <ZH_WENYAN>系统有数布于 Virtual Disk 中</ZH_WENYAN>
-    <EN_GE>There are several Operating Systems in the Virtual Disk</EN_GE>
+    <EN_US>There are several Operating Systems in the Virtual Disk</EN_US>
   </TextBlock>
 <TextBlock id ="280">
     <ZH_CN>选择要在 Virtual Disk 中启动的系统</ZH_CN>
     <ZH_TW>選擇要在 Virtual Disk 中啓動的系統</ZH_TW>
     <ZH_WENYAN>择一 Virtual Disk 中系统以启</ZH_WENYAN>
-    <EN_GE>Choose an operating system from the Virtual Disk to boot up</EN_GE>
+    <EN_US>Choose an operating system from the Virtual Disk to boot up</EN_US>
   </TextBlock>
 <TextBlock id ="281">
     <ZH_CN>Taurus UI 恢复模式</ZH_CN>
     <ZH_TW>Taurus UI 恢復模式</ZH_TW>
     <ZH_WENYAN>Taurus UI 恢复模式</ZH_WENYAN>
-    <EN_GE>Taurus UI Recovery Mode</EN_GE>
+    <EN_US>Taurus UI Recovery Mode</EN_US>
   </TextBlock>
 <TextBlock id ="282">
     <ZH_CN>进入 BIOS</ZH_CN>
     <ZH_TW>進入 BIOS</ZH_TW>
     <ZH_WENYAN>入 BIOS</ZH_WENYAN>
-    <EN_GE>Enter BIOS</EN_GE>
+    <EN_US>Enter BIOS</EN_US>
   </TextBlock>
 <TextBlock id ="283">
     <ZH_CN>重启</ZH_CN>
     <ZH_TW>重啓</ZH_TW>
     <ZH_WENYAN>重启</ZH_WENYAN>
-    <EN_GE>Restart</EN_GE>
+    <EN_US>Restart</EN_US>
   </TextBlock>
 <TextBlock id ="284">
     <ZH_CN>相册</ZH_CN>
     <ZH_TW>相冊</ZH_TW>
     <ZH_WENYAN>相册</ZH_WENYAN>
-    <EN_GE>Albums</EN_GE>
+    <EN_US>Albums</EN_US>
   </TextBlock>
 <TextBlock id ="285">
     <ZH_CN>集锦</ZH_CN>
     <ZH_TW>集錦</ZH_TW>
     <ZH_WENYAN>集锦</ZH_WENYAN>
-    <EN_GE>Collection</EN_GE>
+    <EN_US>Collection</EN_US>
   </TextBlock>
 <TextBlock id ="286">
     <ZH_CN>所有照片</ZH_CN>
     <ZH_TW>所有照片</ZH_TW>
     <ZH_WENYAN>咸像</ZH_WENYAN>
-    <EN_GE>All Photos</EN_GE>
+    <EN_US>All Photos</EN_US>
   </TextBlock>
 <TextBlock id ="287">
     <ZH_CN>回收站</ZH_CN>
     <ZH_TW>廢紙簍</ZH_TW>
     <ZH_WENYAN>灰桶</ZH_WENYAN>
-    <EN_GE>Recycle bin</EN_GE>
+    <EN_US>Recycle bin</EN_US>
   </TextBlock>
 <TextBlock id ="288">
     <ZH_CN>关于照片</ZH_CN>
     <ZH_TW>關於照片</ZH_TW>
     <ZH_WENYAN>关于影像</ZH_WENYAN>
-    <EN_GE>About Photos</EN_GE>
+    <EN_US>About Photos</EN_US>
   </TextBlock>
 <TextBlock id ="289">
     <ZH_CN>最近添加</ZH_CN>
     <ZH_TW>最近添加</ZH_TW>
     <ZH_WENYAN>近加</ZH_WENYAN>
-    <EN_GE>Recently added</EN_GE>
+    <EN_US>Recently added</EN_US>
   </TextBlock>
 <TextBlock id ="290">
     <ZH_CN>地点</ZH_CN>
     <ZH_TW>地点</ZH_TW>
     <ZH_WENYAN>地</ZH_WENYAN>
-    <EN_GE>Places</EN_GE>
+    <EN_US>Places</EN_US>
   </TextBlock>
 <TextBlock id ="291">
     <ZH_CN>人物</ZH_CN>
     <ZH_TW>人物</ZH_TW>
     <ZH_WENYAN>人物</ZH_WENYAN>
-    <EN_GE>People and other things</EN_GE>
+    <EN_US>People and other things</EN_US>
   </TextBlock>
 <TextBlock id ="292">
     <ZH_CN>进入集锦</ZH_CN>
     <ZH_TW>進入集錦</ZH_TW>
     <ZH_WENYAN>入集锦</ZH_WENYAN>
-    <EN_GE>Enter Collection</EN_GE>
+    <EN_US>Enter Collection</EN_US>
   </TextBlock>
 <TextBlock id ="293">
     <ZH_CN>重返极乐净土</ZH_CN>
     <ZH_TW>重返極樂淨土</ZH_TW>
     <ZH_WENYAN>复归乐土</ZH_WENYAN>
-    <EN_GE>Return to Eden</EN_GE>
+    <EN_US>Return to Eden</EN_US>
   </TextBlock>
 <TextBlock id ="294">
     <ZH_CN>查看所有照片</ZH_CN>
     <ZH_TW>查看所有照片</ZH_TW>
     <ZH_WENYAN>览咸像</ZH_WENYAN>
-    <EN_GE>View all your Photos</EN_GE>
+    <EN_US>View all your Photos</EN_US>
   </TextBlock>
 <TextBlock id ="295">
     <ZH_CN>回顾过往记录</ZH_CN>
     <ZH_TW>回顧過往記錄</ZH_TW>
     <ZH_WENYAN>顾往录</ZH_WENYAN>
-    <EN_GE>Review your past</EN_GE>
+    <EN_US>Review your past</EN_US>
   </TextBlock>
 <TextBlock id ="296">
     <ZH_CN>AI 古不列颠</ZH_CN>
     <ZH_TW>AI 古不列顛</ZH_TW>
     <ZH_WENYAN>AI 古不列颠</ZH_WENYAN>
-    <EN_GE>AI Ancient Britain</EN_GE>
+    <EN_US>AI Ancient Britain</EN_US>
   </TextBlock>
 <TextBlock id ="297">
     <ZH_CN>广东省阳江市闸坡镇</ZH_CN>
     <ZH_TW>廣東省陽江市閘坡鎮</ZH_TW>
     <ZH_WENYAN>广东省阳江市闸坡镇</ZH_WENYAN>
-    <EN_GE>Zhapo Town, Yangjiang City, Guangaodng Province</EN_GE>
+    <EN_US>Zhapo Town, Yangjiang City, Guangaodng Province</EN_US>
   </TextBlock>
 <TextBlock id ="298">
     <ZH_CN>未知地点</ZH_CN>
     <ZH_TW>未知地點</ZH_TW>
     <ZH_WENYAN>未知地点</ZH_WENYAN>
-    <EN_GE>Unknown Places</EN_GE>
+    <EN_US>Unknown Places</EN_US>
   </TextBlock>
 <TextBlock id ="299">
     <ZH_CN>已添加的相册</ZH_CN>
     <ZH_TW>已添加的相冊</ZH_TW>
     <ZH_WENYAN>册已加</ZH_WENYAN>
-    <EN_GE>Added albums</EN_GE>
+    <EN_US>Added albums</EN_US>
   </TextBlock>
 <TextBlock id ="300">
     <ZH_CN>此处空空如也~~~</ZH_CN>
     <ZH_TW>此處空空如也~~~</ZH_TW>
     <ZH_WENYAN>空无一物~~~</ZH_WENYAN>
-    <EN_GE>Empty...</EN_GE>
+    <EN_US>Empty...</EN_US>
   </TextBlock>
 <TextBlock id ="301">
     <ZH_CN>输入指令...</ZH_CN>
     <ZH_TW>輸入指令...</ZH_TW>
     <ZH_WENYAN>下令...</ZH_WENYAN>
-    <EN_GE>Enter the command...</EN_GE>
+    <EN_US>Enter the command...</EN_US>
   </TextBlock>
 <TextBlock id ="302">
     <ZH_CN>浏览页</ZH_CN>
     <ZH_TW>瀏覽頁</ZH_TW>
     <ZH_WENYAN>浏览页</ZH_WENYAN>
-    <EN_GE>The browsing page</EN_GE>
+    <EN_US>The browsing page</EN_US>
   </TextBlock>
 <TextBlock id ="303">
     <ZH_CN>此产品由 Lipus Studio 进行二次修改。</ZH_CN>
     <ZH_TW>此產品由 Lipus Studio 進行二次修改。</ZH_TW>
     <ZH_WENYAN>此产品由 Lipus Studio 二改。</ZH_WENYAN>
-    <EN_GE>This product is modified by Lipus Studio.</EN_GE>
+    <EN_US>This product is modified by Lipus Studio.</EN_US>
   </TextBlock>
 <TextBlock id ="304">
     <ZH_CN>版本: 11.0.9932</ZH_CN>
     <ZH_TW>版本: 11.0.9932</ZH_TW>
     <ZH_WENYAN>版本: 11.0.9932</ZH_WENYAN>
-    <EN_GE>Version: 11.0.9932</EN_GE>
+    <EN_US>Version: 11.0.9932</EN_US>
   </TextBlock>
 <TextBlock id ="305">
     <ZH_CN>2013 – 2024 © Microsoft Corporation. 保留所有权利。</ZH_CN>
     <ZH_TW>2013 – 2024 © Microsoft Corporation. 保留所有權利。</ZH_TW>
     <ZH_WENYAN>2013 – 2024 © Microsoft Corporation. 保留所有权利。</ZH_WENYAN>
-    <EN_GE>2013 – 2024 © Microsoft Corporation. All rights reserved.</EN_GE>
+    <EN_US>2013 – 2024 © Microsoft Corporation. All rights reserved.</EN_US>
   </TextBlock>
 <TextBlock id ="306">
     <ZH_CN>文档</ZH_CN>
     <ZH_TW>檔案</ZH_TW>
     <ZH_WENYAN>文书</ZH_WENYAN>
-    <EN_GE>Document</EN_GE>
+    <EN_US>Document</EN_US>
   </TextBlock>
 <TextBlock id ="307">
     <ZH_CN>视频</ZH_CN>
     <ZH_TW>視頻</ZH_TW>
     <ZH_WENYAN>视频</ZH_WENYAN>
-    <EN_GE>Video</EN_GE>
+    <EN_US>Video</EN_US>
   </TextBlock>
 <TextBlock id ="308">
     <ZH_CN>音乐</ZH_CN>
     <ZH_TW>音樂</ZH_TW>
     <ZH_WENYAN>音乐</ZH_WENYAN>
-    <EN_GE>Music</EN_GE>
+    <EN_US>Music</EN_US>
   </TextBlock>
 <TextBlock id ="309">
     <ZH_CN>图片</ZH_CN>
     <ZH_TW>圖片</ZH_TW>
     <ZH_WENYAN>图片</ZH_WENYAN>
-    <EN_GE>Picture</EN_GE>
+    <EN_US>Picture</EN_US>
   </TextBlock>
 <TextBlock id ="310">
     <ZH_CN>下载</ZH_CN>
     <ZH_TW>下載</ZH_TW>
     <ZH_WENYAN>下载</ZH_WENYAN>
-    <EN_GE>Download</EN_GE>
+    <EN_US>Download</EN_US>
   </TextBlock>
 <TextBlock id ="311">
     <ZH_CN>虚拟磁盘</ZH_CN>
     <ZH_TW>虛擬磁盤</ZH_TW>
     <ZH_WENYAN>虚拟磁盘</ZH_WENYAN>
-    <EN_GE>Virtual Disk</EN_GE>
+    <EN_US>Virtual Disk</EN_US>
   </TextBlock>
 <TextBlock id ="312">
     <ZH_CN>本地磁盘</ZH_CN>
     <ZH_TW>本地磁盤</ZH_TW>
     <ZH_WENYAN>本地磁盘</ZH_WENYAN>
-    <EN_GE>Local Disk</EN_GE>
+    <EN_US>Local Disk</EN_US>
   </TextBlock>
 <TextBlock id ="313">
     <ZH_CN>关于文件</ZH_CN>
     <ZH_TW>關於檔案庫</ZH_TW>
     <ZH_WENYAN>关于文书库</ZH_WENYAN>
-    <EN_GE>About Files</EN_GE>
+    <EN_US>About Files</EN_US>
   </TextBlock>
 <TextBlock id ="314">
     <ZH_CN>纵览</ZH_CN>
     <ZH_TW>總覽</ZH_TW>
     <ZH_WENYAN>纵览</ZH_WENYAN>
-    <EN_GE>Overview</EN_GE>
+    <EN_US>Overview</EN_US>
   </TextBlock>
 <TextBlock id ="315">
     <ZH_CN>共 128 MB，可用 40.1 MB</ZH_CN>
     <ZH_TW>共 128 MB，可用 40.1 MB</ZH_TW>
     <ZH_WENYAN>共 128 MB，可用 40.1 MB</ZH_WENYAN>
-    <EN_GE>128 MB in total, 40.1 MB available</EN_GE>
+    <EN_US>128 MB in total, 40.1 MB available</EN_US>
   </TextBlock>
 <TextBlock id ="316">
     <ZH_CN>磁盘</ZH_CN>
     <ZH_TW>磁盤</ZH_TW>
     <ZH_WENYAN>磁盘</ZH_WENYAN>
-    <EN_GE>Disk</EN_GE>
+    <EN_US>Disk</EN_US>
   </TextBlock>
 <TextBlock id ="317">
     <ZH_CN>信息未知</ZH_CN>
     <ZH_TW>信息未知</ZH_TW>
     <ZH_WENYAN>信息未知</ZH_WENYAN>
-    <EN_GE>information unknown</EN_GE>
+    <EN_US>information unknown</EN_US>
   </TextBlock>
 <TextBlock id ="318">
     <ZH_CN>总空间：128 MB</ZH_CN>
     <ZH_TW>总空间：128 MB</ZH_TW>
     <ZH_WENYAN>总空间：128 MB</ZH_WENYAN>
-    <EN_GE>Total: 128 MB</EN_GE>
+    <EN_US>Total: 128 MB</EN_US>
   </TextBlock>
 <TextBlock id ="319">
     <ZH_CN>可用：40.1 MB</ZH_CN>
     <ZH_TW>可用：40.1 MB</ZH_TW>
     <ZH_WENYAN>可用：40.1 MB</ZH_WENYAN>
-    <EN_GE>Available: 40.1 MB</EN_GE>
+    <EN_US>Available: 40.1 MB</EN_US>
   </TextBlock>
 <TextBlock id ="320">
     <ZH_CN>类别</ZH_CN>
     <ZH_TW>類別</ZH_TW>
     <ZH_WENYAN>类别</ZH_WENYAN>
-    <EN_GE>Category</EN_GE>
+    <EN_US>Category</EN_US>
   </TextBlock>
 <TextBlock id ="321">
     <ZH_CN>存储占用信息</ZH_CN>
     <ZH_TW>存儲占用信息</ZH_TW>
     <ZH_WENYAN>存储占用信息</ZH_WENYAN>
-    <EN_GE>Store occupancy infomation</EN_GE>
+    <EN_US>Store occupancy infomation</EN_US>
   </TextBlock>
 <TextBlock id ="322">
     <ZH_CN>可用 40.1 MB，共 128 MB</ZH_CN>
     <ZH_TW>可用 40.1 MB，共 128 MB</ZH_TW>
     <ZH_WENYAN>可用 40.1 MB，共 128 MB</ZH_WENYAN>
-    <EN_GE>40.1 MB available, 128 MB in total</EN_GE>
+    <EN_US>40.1 MB available, 128 MB in total</EN_US>
   </TextBlock>
 <TextBlock id ="323">
     <ZH_CN>已用 50 MB，共 2 个文件夹</ZH_CN>
     <ZH_TW>已用 50 MB，共 2 個資料夾</ZH_TW>
     <ZH_WENYAN>已用 50 MB，文件夹共二</ZH_WENYAN>
-    <EN_GE>50 MB used, 2 folders in total</EN_GE>
+    <EN_US>50 MB used, 2 folders in total</EN_US>
   </TextBlock>
 <TextBlock id ="324">
     <ZH_CN>已用 27.9 MB，共 5 个文件夹</ZH_CN>
     <ZH_TW>已用 27.9 MB，共 5 個資料夾</ZH_TW>
     <ZH_WENYAN>已用 27.9 MB，文件夹共五</ZH_WENYAN>
-    <EN_GE>27.9 MB used, 5 folders in total</EN_GE>
+    <EN_US>27.9 MB used, 5 folders in total</EN_US>
   </TextBlock>
 <TextBlock id ="325">
     <ZH_CN>信息</ZH_CN>
     <ZH_TW>信息</ZH_TW>
     <ZH_WENYAN>信息</ZH_WENYAN>
-    <EN_GE>Info</EN_GE>
+    <EN_US>Info</EN_US>
   </TextBlock>
 <TextBlock id ="326">
     <ZH_CN>已用 77.9 MB，共 2 个项目</ZH_CN>
     <ZH_TW>已用 77.9 MB，共 2 個項目</ZH_TW>
     <ZH_WENYAN>已用 77.9 MB，项目共二</ZH_WENYAN>
-    <EN_GE>77.9 MB used, 2 items in total</EN_GE>
+    <EN_US>77.9 MB used, 2 items in total</EN_US>
   </TextBlock>
 <TextBlock id ="327">
     <ZH_CN>只读，您不可进行任何修改</ZH_CN>
     <ZH_TW>只讀，您不可進行任何修改</ZH_TW>
     <ZH_WENYAN>只读，君不可改</ZH_WENYAN>
-    <EN_GE>Read only, you cannot make any changes</EN_GE>
+    <EN_US>Read only, you cannot make any changes</EN_US>
   </TextBlock>
 <TextBlock id ="328">
     <ZH_CN>已用 27.9 MB，共 2 个文件夹</ZH_CN>
     <ZH_TW>已用 27.9 MB，共 2 個資料夾</ZH_TW>
     <ZH_WENYAN>已用 27.9 MB，文件夹共二</ZH_WENYAN>
-    <EN_GE>27.9 MB used, 2 folders in total</EN_GE>
+    <EN_US>27.9 MB used, 2 folders in total</EN_US>
   </TextBlock>
 <TextBlock id ="329">
     <ZH_CN>系统文件夹</ZH_CN>
     <ZH_TW>系统資料夾</ZH_TW>
     <ZH_WENYAN>系统文件夹</ZH_WENYAN>
-    <EN_GE>System folder</EN_GE>
+    <EN_US>System folder</EN_US>
   </TextBlock>
 <TextBlock id ="330">
     <ZH_CN>已用 0 MB，共 0 个文件夹</ZH_CN>
     <ZH_TW>已用 0 MB，共 0 個資料夾</ZH_TW>
     <ZH_WENYAN>已用 0 MB，无文件夹</ZH_WENYAN>
-    <EN_GE>0 MB used, 0 folders in total</EN_GE>
+    <EN_US>0 MB used, 0 folders in total</EN_US>
   </TextBlock>
 <TextBlock id ="331">
     <ZH_CN>文件夹</ZH_CN>
     <ZH_TW>資料夾</ZH_TW>
     <ZH_WENYAN>文件夹</ZH_WENYAN>
-    <EN_GE>Folder</EN_GE>
+    <EN_US>Folder</EN_US>
   </TextBlock>
 <TextBlock id ="332">
     <ZH_CN>已用 0 MB，共 0 个项目</ZH_CN>
     <ZH_TW>已用 0 MB，共 0 個項目</ZH_TW>
     <ZH_WENYAN>已用 0 MB，无项目</ZH_WENYAN>
-    <EN_GE>0 MB used, 0 items in total</EN_GE>
+    <EN_US>0 MB used, 0 items in total</EN_US>
   </TextBlock>
 <TextBlock id ="333">
     <ZH_CN>已用 4.28 MB，共 3 个项目</ZH_CN>
     <ZH_TW>已用 4.28 MB，共 3 個項目</ZH_TW>
     <ZH_WENYAN>已用 4.28 MB，项目有三</ZH_WENYAN>
-    <EN_GE>4.28 MB used, 3 items in total</EN_GE>
+    <EN_US>4.28 MB used, 3 items in total</EN_US>
   </TextBlock>
 <TextBlock id ="334">
     <ZH_CN>已用 23.6 MB，共 6 个项目</ZH_CN>
     <ZH_TW>已用 23.6 MB，共 6 個項目</ZH_TW>
     <ZH_WENYAN>已用 23.6 MB，项目有六</ZH_WENYAN>
-    <EN_GE>23.6 MB used, 6 items in total</EN_GE>
+    <EN_US>23.6 MB used, 6 items in total</EN_US>
   </TextBlock>
 <TextBlock id ="335">
     <ZH_CN>已用 27.9 MB，共 2 个项目</ZH_CN>
     <ZH_TW>已用 27.9 MB，共 2 個項目</ZH_TW>
     <ZH_WENYAN>已用 27.9 MB，项目有二</ZH_WENYAN>
-    <EN_GE>27.9 MB used, 2 items in total</EN_GE>
+    <EN_US>27.9 MB used, 2 items in total</EN_US>
   </TextBlock>
 <TextBlock id ="336">
     <ZH_CN>这里还没有东西哦...</ZH_CN>
     <ZH_TW>這裏還沒有東西哦...</ZH_TW>
     <ZH_WENYAN>此处尚无物...</ZH_WENYAN>
-    <EN_GE>There's nothing here...</EN_GE>
+    <EN_US>There's nothing here...</EN_US>
   </TextBlock>
 <TextBlock id ="337">
     <ZH_CN>技术支持 © Microsoft Corporation. 保留所有权利。</ZH_CN>
     <ZH_TW>技術支持 © Microsoft Corporation. 保留所有權利。</ZH_TW>
     <ZH_WENYAN>技术支持 © Microsoft Corporation. 保留所有权利。</ZH_WENYAN>
-    <EN_GE>Technical Support © Microsoft Corporation. All rights reserved.</EN_GE>
+    <EN_US>Technical Support © Microsoft Corporation. All rights reserved.</EN_US>
   </TextBlock>
 <TextBlock id ="338">
     <ZH_CN>文档 1</ZH_CN>
     <ZH_TW>檔案 1</ZH_TW>
     <ZH_WENYAN>文书 1</ZH_WENYAN>
-    <EN_GE>Doc 1</EN_GE>
+    <EN_US>Doc 1</EN_US>
   </TextBlock>
 <TextBlock id ="339">
     <ZH_CN>文档 2</ZH_CN>
     <ZH_TW>檔案 2</ZH_TW>
     <ZH_WENYAN>文书 2</ZH_WENYAN>
-    <EN_GE>Doc 2</EN_GE>
+    <EN_US>Doc 2</EN_US>
   </TextBlock>
 <TextBlock id ="340">
     <ZH_CN>文档 3</ZH_CN>
     <ZH_TW>檔案 3</ZH_TW>
     <ZH_WENYAN>文书 3</ZH_WENYAN>
-    <EN_GE>Doc 3</EN_GE>
+    <EN_US>Doc 3</EN_US>
   </TextBlock>
 <TextBlock id ="341">
     <ZH_CN>标题</ZH_CN>
     <ZH_TW>標題</ZH_TW>
     <ZH_WENYAN>题</ZH_WENYAN>
-    <EN_GE>Title</EN_GE>
+    <EN_US>Title</EN_US>
   </TextBlock>
 <TextBlock id ="342">
     <ZH_CN>所有文档</ZH_CN>
     <ZH_TW>所有檔案</ZH_TW>
     <ZH_WENYAN>咸文</ZH_WENYAN>
-    <EN_GE>All documents</EN_GE>
+    <EN_US>All documents</EN_US>
   </TextBlock>
 <TextBlock id ="343">
     <ZH_CN>所有文档</ZH_CN>
     <ZH_TW>所有檔案</ZH_TW>
     <ZH_WENYAN>咸文</ZH_WENYAN>
-    <EN_GE>All documents</EN_GE>
+    <EN_US>All documents</EN_US>
   </TextBlock>
 <TextBlock id ="344">
     <ZH_CN>本地文档</ZH_CN>
     <ZH_TW>本地檔案</ZH_TW>
     <ZH_WENYAN>本地文书</ZH_WENYAN>
-    <EN_GE>Local documents</EN_GE>
+    <EN_US>Local documents</EN_US>
   </TextBlock>
 <TextBlock id ="345">
     <ZH_CN>大字报</ZH_CN>
     <ZH_TW>大字報</ZH_TW>
     <ZH_WENYAN>大字报</ZH_WENYAN>
-    <EN_GE>Big-character poster</EN_GE>
+    <EN_US>Big-character poster</EN_US>
   </TextBlock>
 <TextBlock id ="346">
     <ZH_CN>关于记事本</ZH_CN>
     <ZH_TW>關於記事本</ZH_TW>
     <ZH_WENYAN>关于记事本</ZH_WENYAN>
-    <EN_GE>About Notepad</EN_GE>
+    <EN_US>About Notepad</EN_US>
   </TextBlock>
 <TextBlock id ="347">
     <ZH_CN>预览</ZH_CN>
     <ZH_TW>預覽</ZH_TW>
     <ZH_WENYAN>预览</ZH_WENYAN>
-    <EN_GE>Preview</EN_GE>
+    <EN_US>Preview</EN_US>
   </TextBlock>
 <TextBlock id ="348">
     <ZH_CN>字体样式</ZH_CN>
     <ZH_TW>字體樣式</ZH_TW>
     <ZH_WENYAN>字样</ZH_WENYAN>
-    <EN_GE>Font style</EN_GE>
+    <EN_US>Font style</EN_US>
   </TextBlock>
 <TextBlock id ="349">
     <ZH_CN>设置大字报字体（必须已经安装）、字号（必须是数字）</ZH_CN>
     <ZH_TW>設定大字報字體（必須已經安裝）、字號（必須是數字）</ZH_TW>
     <ZH_WENYAN>设大字报之字体（须装）及字号（须为数字）</ZH_WENYAN>
-    <EN_GE>Set the font (must be installed) and size (must be number) of the big-character poster</EN_GE>
+    <EN_US>Set the font (must be installed) and size (must be number) of the big-character poster</EN_US>
   </TextBlock>
 <TextBlock id ="350">
     <ZH_CN>格式</ZH_CN>
     <ZH_TW>格式</ZH_TW>
     <ZH_WENYAN>格式</ZH_WENYAN>
-    <EN_GE>Format</EN_GE>
+    <EN_US>Format</EN_US>
   </TextBlock>
 <TextBlock id ="351">
     <ZH_CN>格式</ZH_CN>
     <ZH_TW>格式</ZH_TW>
     <ZH_WENYAN>格式</ZH_WENYAN>
-    <EN_GE>Format</EN_GE>
+    <EN_US>Format</EN_US>
   </TextBlock>
 <TextBlock id ="352">
     <ZH_CN>为大字报的背景和字体设置颜色模式</ZH_CN>
     <ZH_TW>為大字報的背景和字體設定顔色模式</ZH_TW>
     <ZH_WENYAN>为大字报之景字设色样</ZH_WENYAN>
-    <EN_GE>Set the color mode for the background and font of the big-character poster</EN_GE>
+    <EN_US>Set the color mode for the background and font of the big-character poster</EN_US>
   </TextBlock>
 <TextBlock id ="353">
     <ZH_CN>注：点击大字报浏览页任意处可以返回</ZH_CN>
     <ZH_TW>注：點擊大字報瀏覽頁任意地方可以返回</ZH_TW>
     <ZH_WENYAN>注：击大字报浏览页任意处可返</ZH_WENYAN>
-    <EN_GE>Click anywhere on the browsing page of the big-character poster can return here</EN_GE>
+    <EN_US>Click anywhere on the browsing page of the big-character poster can return here</EN_US>
   </TextBlock>
 <TextBlock id ="354">
     <ZH_CN>红底黄字</ZH_CN>
     <ZH_TW>紅底黃字</ZH_TW>
     <ZH_WENYAN>红底黄字</ZH_WENYAN>
-    <EN_GE>Red background, yellow texts</EN_GE>
+    <EN_US>Red background, yellow texts</EN_US>
   </TextBlock>
 <TextBlock id ="355">
     <ZH_CN>红底白字</ZH_CN>
     <ZH_TW>紅底白字</ZH_TW>
     <ZH_WENYAN>红底白字</ZH_WENYAN>
-    <EN_GE>Red background, white texts</EN_GE>
+    <EN_US>Red background, white texts</EN_US>
   </TextBlock>
 <TextBlock id ="356">
     <ZH_CN>黑底白字</ZH_CN>
     <ZH_TW>黑底白字</ZH_TW>
     <ZH_WENYAN>黑底白字</ZH_WENYAN>
-    <EN_GE>Black background, white texts</EN_GE>
+    <EN_US>Black background, white texts</EN_US>
   </TextBlock>
 <TextBlock id ="357">
     <ZH_CN>白底红字</ZH_CN>
     <ZH_TW>白底紅字</ZH_TW>
     <ZH_WENYAN>白底红字</ZH_WENYAN>
-    <EN_GE>White background, red texts</EN_GE>
+    <EN_US>White background, red texts</EN_US>
   </TextBlock>
 <TextBlock id ="358">
     <ZH_CN>白底黑字</ZH_CN>
     <ZH_TW>白底黑字</ZH_TW>
     <ZH_WENYAN>白底黑字</ZH_WENYAN>
-    <EN_GE>White background, black texts</EN_GE>
+    <EN_US>White background, black texts</EN_US>
   </TextBlock>
 <TextBlock id ="359">
     <ZH_CN>此产品由 © 极美游戏工作室 和 Cladonia 制作。</ZH_CN>
     <ZH_TW>此產品由 © 極美游戲工作室 和 Cladonia 製作。</ZH_TW>
     <ZH_WENYAN>此产品由 © 极美游戏工作室 同 Cladonia 共制。</ZH_WENYAN>
-    <EN_GE>This product is made by © Fantastic Game Studio and Cladonia.</EN_GE>
+    <EN_US>This product is made by © Fantastic Game Studio and Cladonia.</EN_US>
   </TextBlock>
 <TextBlock id ="360">
     <ZH_CN>打开...</ZH_CN>
     <ZH_TW>打開...</ZH_TW>
     <ZH_WENYAN>开...</ZH_WENYAN>
-    <EN_GE>Open...</EN_GE>
+    <EN_US>Open...</EN_US>
   </TextBlock>
 <TextBlock id ="361">
     <ZH_CN>问: 如何更改文档名称？ 答: 单击文档的名字栏，输入文字即可。</ZH_CN>
     <ZH_TW>問: 如何更改檔案名稱？ 答: 單擊檔案的名字欄，輸入文字即可。</ZH_TW>
     <ZH_WENYAN>问：何以更文书之名？ 答：击文书之名栏，输字便是。</ZH_WENYAN>
-    <EN_GE>Q: How to change the file name?    A: By clicking the textbox and enter texts.</EN_GE>
+    <EN_US>Q: How to change the file name?    A: By clicking the textbox and enter texts.</EN_US>
   </TextBlock>
 <TextBlock id ="362">
     <ZH_CN>问: 为何无法使用编辑栏？ 答: 第一次使用需要点击“重新加载”。</ZH_CN>
     <ZH_TW>問: 爲何無法使用編輯欄？ 答: 第一次使用需要點擊“重新加載”。</ZH_TW>
     <ZH_WENYAN>问：为何无能用编栏？ 答：首用需击“重载”。</ZH_WENYAN>
-    <EN_GE>Q: Why can I use the edit bar?    A: You need to click the "Reload" button.</EN_GE>
+    <EN_US>Q: Why can I use the edit bar?    A: You need to click the "Reload" button.</EN_US>
   </TextBlock>
 <TextBlock id ="363">
     <ZH_CN>若要应用文档格式，请点击“全部应用”。</ZH_CN>
     <ZH_TW>如果要應用檔案格式，請點擊“全部應用”。</ZH_TW>
     <ZH_WENYAN>问：若应文书格式，请击“具用”。</ZH_WENYAN>
-    <EN_GE>If you want to apply a format to your document, please click the "Apply all" button.</EN_GE>
+    <EN_US>If you want to apply a format to your document, please click the "Apply all" button.</EN_US>
   </TextBlock>
 <TextBlock id ="364">
     <ZH_CN>注意：可能有部分内容未翻译或者翻译错误！</ZH_CN>
     <ZH_TW>注意：可能有部分內容未翻譯或者翻譯錯誤！</ZH_TW>
     <ZH_WENYAN>注：或有书文未译错译！</ZH_WENYAN>
-    <EN_GE>ATTENTION: Some contents may not be translated correctly! </EN_GE>
+    <EN_US>ATTENTION: Some contents may not be translated correctly! </EN_US>
   </TextBlock>
 <TextBlock id ="365">
     <ZH_CN>标题</ZH_CN>
     <ZH_TW>標題</ZH_TW>
     <ZH_WENYAN>题</ZH_WENYAN>
-    <EN_GE>Title</EN_GE>
+    <EN_US>Title</EN_US>
   </TextBlock>
 <TextBlock id ="366">
     <ZH_CN>正文</ZH_CN>
     <ZH_TW>正文</ZH_TW>
     <ZH_WENYAN>文</ZH_WENYAN>
-    <EN_GE>Text</EN_GE>
+    <EN_US>Text</EN_US>
   </TextBlock>
 <TextBlock id ="367">
     <ZH_CN>9 张</ZH_CN>
     <ZH_TW>9 张</ZH_TW>
     <ZH_WENYAN>9 张</ZH_WENYAN>
-    <EN_GE>9 Pictures</EN_GE>
+    <EN_US>9 Pictures</EN_US>
   </TextBlock>
 <TextBlock id ="368">
     <ZH_CN>2 套</ZH_CN>
     <ZH_TW>2 套</ZH_TW>
     <ZH_WENYAN>2 套</ZH_WENYAN>
-    <EN_GE>2 Albums</EN_GE>
+    <EN_US>2 Albums</EN_US>
   </TextBlock>
 <TextBlock id ="369">
     <ZH_CN>无权访问！</ZH_CN>
     <ZH_TW>無權訪問！</ZH_TW>
     <ZH_WENYAN>无权访问！</ZH_WENYAN>
-    <EN_GE>No permission!</EN_GE>
+    <EN_US>No permission!</EN_US>
   </TextBlock>
 <TextBlock id ="370">
     <ZH_CN>字体</ZH_CN>
     <ZH_TW>字体</ZH_TW>
     <ZH_WENYAN>字体</ZH_WENYAN>
-    <EN_GE>Font</EN_GE>
+    <EN_US>Font</EN_US>
   </TextBlock>
 <TextBlock id ="371">
     <ZH_CN>字号</ZH_CN>
     <ZH_TW>字号</ZH_TW>
     <ZH_WENYAN>字号</ZH_WENYAN>
-    <EN_GE>Size</EN_GE>
+    <EN_US>Size</EN_US>
   </TextBlock>
 <TextBlock id ="372">
     <ZH_CN>桌面和锁屏设置</ZH_CN>
     <ZH_TW>桌面和鎖屏設定</ZH_TW>
     <ZH_WENYAN>桌锁设定</ZH_WENYAN>
-    <EN_GE>Desktop and lockscreen settings</EN_GE>
+    <EN_US>Desktop and lockscreen settings</EN_US>
   </TextBlock>
 <TextBlock id ="373">
     <ZH_CN>无法加载浏览器</ZH_CN>
     <ZH_TW>無法載入瀏覽器</ZH_TW>
     <ZH_WENYAN>浏览器难以载也</ZH_WENYAN>
-    <EN_GE>Could not load the browser.</EN_GE>
+    <EN_US>Could not load the browser.</EN_US>
   </TextBlock>
 <TextBlock id ="374">
     <ZH_CN>请检查是否已安装注册表补丁</ZH_CN>
     <ZH_TW>請檢查是否已安裝註冊表補丁</ZH_TW>
     <ZH_WENYAN>请检补丁之安装与否</ZH_WENYAN>
-    <EN_GE>Please check whether the registry patch is installed.</EN_GE>
+    <EN_US>Please check whether the registry patch is installed.</EN_US>
   </TextBlock>
 <TextBlock id ="375">
     <ZH_CN>如果已安装，请尝试退出重进</ZH_CN>
     <ZH_TW>如果已安裝，請嘗試退出重進</ZH_TW>
     <ZH_WENYAN>已装则试退而再入</ZH_WENYAN>
-    <EN_GE>If it is installed，please try to exit the browser and re-enter it.</EN_GE>
+    <EN_US>If it is installed，please try to exit the browser and re-enter it.</EN_US>
   </TextBlock>
 <TextBlock id ="376">
     <ZH_CN>错误代码：LOADING_FAILED</ZH_CN>
     <ZH_TW>錯誤代碼：LOADING_FAILED</ZH_TW>
     <ZH_WENYAN>错误代码：LOADING_FAILED</ZH_WENYAN>
-    <EN_GE>Error Code：LOADING_FAILED</EN_GE>
+    <EN_US>Error Code：LOADING_FAILED</EN_US>
   </TextBlock>
 <TextBlock id ="377">
     <ZH_CN>退出</ZH_CN>
     <ZH_TW>退出</ZH_TW>
     <ZH_WENYAN>退出</ZH_WENYAN>
-    <EN_GE>Exit</EN_GE>
+    <EN_US>Exit</EN_US>
   </TextBlock>
 <TextBlock id ="378">
     <ZH_CN>更多操作</ZH_CN>
     <ZH_TW>更多操作</ZH_TW>
     <ZH_WENYAN>更多操作</ZH_WENYAN>
-    <EN_GE>More actions</EN_GE>
+    <EN_US>More actions</EN_US>
   </TextBlock>
 <TextBlock id ="379">
     <ZH_CN>我想从官网下载更新</ZH_CN>
     <ZH_TW>我想從官網下載更新</ZH_TW>
     <ZH_WENYAN>吾愿取更新于官网</ZH_WENYAN>
-    <EN_GE>I want to download updates from the official website.</EN_GE>
+    <EN_US>I want to download updates from the official website.</EN_US>
   </TextBlock>
 <TextBlock id ="380">
     <ZH_CN>Taurus UI Camelot 在运行时遇到问题，需要重新启动</ZH_CN>
     <ZH_TW>Taurus UI Camelot 在運行時遇到問題，需要重新啟動</ZH_TW>
     <ZH_WENYAN>Taurus UI Camelot 忽逢疑难之症于行时，需重启以复原</ZH_WENYAN>
-    <EN_GE>Taurus UI Camelot went wrong!</EN_GE>
+    <EN_US>Taurus UI Camelot went wrong!</EN_US>
   </TextBlock>
 <TextBlock id ="381">
     <ZH_CN>您可以从“错误信息”中找到问题所在</ZH_CN>
     <ZH_TW>您可以從“錯誤資訊”中找到問題所在</ZH_TW>
     <ZH_WENYAN>君可查疑之根于“错误信息”中</ZH_WENYAN>
-    <EN_GE>You can check out the operational error from "ERROR INFO"</EN_GE>
+    <EN_US>You can check out the operational error from "ERROR INFO"</EN_US>
   </TextBlock>
 <TextBlock id ="382">
     <ZH_CN>错误代码：ILLEGAL_INSTRUCTIONS</ZH_CN>
     <ZH_TW>錯誤代碼：ILLEGAL_INSTRUCTIONS</ZH_TW>
     <ZH_WENYAN>错误代码：ILLEGAL_INSTRUCTIONS</ZH_WENYAN>
-    <EN_GE>ERROR CODE: ILLEGAL_INSTRUCTIONS</EN_GE>
+    <EN_US>ERROR CODE: ILLEGAL_INSTRUCTIONS</EN_US>
   </TextBlock>
 <TextBlock id ="383">
     <ZH_CN>错误信息：执行了非法指令</ZH_CN>
     <ZH_TW>錯誤資訊：執行了非法指令</ZH_TW>
     <ZH_WENYAN>错误信息：行非法指令也</ZH_WENYAN>
-    <EN_GE>ERROR INFO: Executed illegal instructions</EN_GE>
+    <EN_US>ERROR INFO: Executed illegal instructions</EN_US>
   </TextBlock>
 <TextBlock id ="384">
     <ZH_CN>进入恢复模式</ZH_CN>
     <ZH_TW>進入恢復模式</ZH_TW>
     <ZH_WENYAN>入恢复模式</ZH_WENYAN>
-    <EN_GE>Enter Recovery Mode</EN_GE>
+    <EN_US>Enter Recovery Mode</EN_US>
   </TextBlock>
 <TextBlock id ="385">
     <ZH_CN>重新启动 Taurus UI</ZH_CN>
     <ZH_TW>重新啟動 Taurus UI</ZH_TW>
     <ZH_WENYAN>重启 Taurus UI</ZH_WENYAN>
-    <EN_GE>Restart Taurus UI</EN_GE>
+    <EN_US>Restart Taurus UI</EN_US>
   </TextBlock>
 <TextBlock id ="386">
     <ZH_CN>关闭 PowerPoint</ZH_CN>
     <ZH_TW>關閉 PowerPoint</ZH_TW>
     <ZH_WENYAN>关 PowerPoint</ZH_WENYAN>
-    <EN_GE>Close PowerPoint</EN_GE>
+    <EN_US>Close PowerPoint</EN_US>
   </TextBlock>
 <TextBlock id ="387">
     <ZH_CN>使用 Tab 键来选择，Enter 键来执行选项</ZH_CN>
     <ZH_TW>使用 Tab 鍵來選擇，Enter 鍵來執行選項</ZH_TW>
     <ZH_WENYAN>击 Tab 键以择，Enter 键以施行</ZH_WENYAN>
-    <EN_GE>Use Tab to select, Enter to enter the option.</EN_GE>
+    <EN_US>Use Tab to select, Enter to enter the option.</EN_US>
   </TextBlock>
 <TextBlock id ="388">
     <ZH_CN>“相机” 应用需要以下权限来正常运行</ZH_CN>
     <ZH_TW>“相機” 應用需要以下權限來正常運行</ZH_TW>
     <ZH_WENYAN>“照机” 需如下权限以常转</ZH_WENYAN>
-    <EN_GE>The Camera app requires the following permissions to function properly.</EN_GE>
+    <EN_US>The Camera app requires the following permissions to function properly.</EN_US>
   </TextBlock>
 <TextBlock id ="389">
     <ZH_CN>详细信息</ZH_CN>
     <ZH_TW>詳細信息</ZH_TW>
     <ZH_WENYAN>详</ZH_WENYAN>
-    <EN_GE>Details</EN_GE>
+    <EN_US>Details</EN_US>
   </TextBlock>
 <TextBlock id ="390">
     <ZH_CN>• 访问摄像头</ZH_CN>
     <ZH_TW>• 訪問相機</ZH_TW>
     <ZH_WENYAN>• 访照机</ZH_WENYAN>
-    <EN_GE>• Access the camera</EN_GE>
+    <EN_US>• Access the camera</EN_US>
   </TextBlock>
 <TextBlock id ="391">
     <ZH_CN>注意：某些应用可能会调取您的摄像头，来窃取您的隐私信息，请对这类应用保持警惕。</ZH_CN>
     <ZH_TW>注意：某些應用程式可能會調用您的相機，來竊取您的隱私信息，請對這類應用保持警惕。</ZH_TW>
     <ZH_WENYAN>注：或有应用调尔之照机以窃尔隐私，且慎之以防其肆。</ZH_WENYAN>
-    <EN_GE>ATTENTION: Some apps may invoke your camera to steal your privacy, so please pay attention to these apps.</EN_GE>
+    <EN_US>ATTENTION: Some apps may invoke your camera to steal your privacy, so please pay attention to these apps.</EN_US>
   </TextBlock>
 <TextBlock id ="392">
     <ZH_CN>允许</ZH_CN>
     <ZH_TW>允許</ZH_TW>
     <ZH_WENYAN>许</ZH_WENYAN>
-    <EN_GE>Allow</EN_GE>
+    <EN_US>Allow</EN_US>
   </TextBlock>
 <TextBlock id ="393">
     <ZH_CN>拒绝</ZH_CN>
     <ZH_TW>拒絕</ZH_TW>
     <ZH_WENYAN>拒</ZH_WENYAN>
-    <EN_GE>Refuse</EN_GE>
+    <EN_US>Refuse</EN_US>
   </TextBlock>
 <TextBlock id ="394">
     <ZH_CN>单击切换按钮可以切换白天/黑夜模式</ZH_CN>
     <ZH_TW>單擊切換按鈕可以切換白天/黑夜模式</ZH_TW>
     <ZH_WENYAN>击切钮可切昼/夜之态</ZH_WENYAN>
-    <EN_GE>Click the toggle button to switch the interface from daylight or night mode to another mode</EN_GE>
+    <EN_US>Click the toggle button to switch the interface from daylight or night mode to another mode</EN_US>
   </TextBlock>
 <TextBlock id ="395">
     <ZH_CN>单击按钮外任何区域以返回</ZH_CN>
     <ZH_TW>單擊按鈕外任何區域以返回</ZH_TW>
     <ZH_WENYAN>击钮外任意一处以返归</ZH_WENYAN>
-    <EN_GE>Click anywhere outside the button to return</EN_GE>
+    <EN_US>Click anywhere outside the button to return</EN_US>
   </TextBlock>
 <TextBlock id ="396">
     <ZH_CN>所有应用</ZH_CN>
     <ZH_TW>所有應用</ZH_TW>
     <ZH_WENYAN>具应用</ZH_WENYAN>
-    <EN_GE>All apps</EN_GE>
+    <EN_US>All apps</EN_US>
   </TextBlock>
 <TextBlock id ="397">
     <ZH_CN>关于应用商店</ZH_CN>
     <ZH_TW>關於應用商店</ZH_TW>
     <ZH_WENYAN>关于应用市</ZH_WENYAN>
-    <EN_GE>About App Market</EN_GE>
+    <EN_US>About App Market</EN_US>
   </TextBlock>
 <TextBlock id ="398">
     <ZH_CN>推荐应用</ZH_CN>
     <ZH_TW>推薦應用</ZH_TW>
     <ZH_WENYAN>良品</ZH_WENYAN>
-    <EN_GE>Recommended apps</EN_GE>
+    <EN_US>Recommended apps</EN_US>
   </TextBlock>
 <TextBlock id ="399">
     <ZH_CN>分类</ZH_CN>
     <ZH_TW>分類</ZH_TW>
     <ZH_WENYAN>分类</ZH_WENYAN>
-    <EN_GE>Category</EN_GE>
+    <EN_US>Category</EN_US>
   </TextBlock>
 <TextBlock id ="400">
     <ZH_CN>生产力</ZH_CN>
     <ZH_TW>生產力</ZH_TW>
     <ZH_WENYAN>生产力</ZH_WENYAN>
-    <EN_GE>Productivity</EN_GE>
+    <EN_US>Productivity</EN_US>
   </TextBlock>
 <TextBlock id ="401">
     <ZH_CN>学习</ZH_CN>
     <ZH_TW>學習</ZH_TW>
     <ZH_WENYAN>学习</ZH_WENYAN>
-    <EN_GE>Learning</EN_GE>
+    <EN_US>Learning</EN_US>
   </TextBlock>
 <TextBlock id ="402">
     <ZH_CN>生活</ZH_CN>
     <ZH_TW>生活</ZH_TW>
     <ZH_WENYAN>生活</ZH_WENYAN>
-    <EN_GE>Life</EN_GE>
+    <EN_US>Life</EN_US>
   </TextBlock>
 <TextBlock id ="403">
     <ZH_CN>娱乐</ZH_CN>
     <ZH_TW>娛樂</ZH_TW>
     <ZH_WENYAN>娱乐</ZH_WENYAN>
-    <EN_GE>Entertainment</EN_GE>
+    <EN_US>Entertainment</EN_US>
   </TextBlock>
 <TextBlock id ="404">
     <ZH_CN>查看所有应用</ZH_CN>
     <ZH_TW>查看所有應用</ZH_TW>
     <ZH_WENYAN>览具应用</ZH_WENYAN>
-    <EN_GE>View all apps</EN_GE>
+    <EN_US>View all apps</EN_US>
   </TextBlock>
 <TextBlock id ="405">
     <ZH_CN>内核信息</ZH_CN>
     <ZH_TW>内核信息</ZH_TW>
     <ZH_WENYAN>内核信息</ZH_WENYAN>
-    <EN_GE>App Core Info</EN_GE>
+    <EN_US>App Core Info</EN_US>
   </TextBlock>
 <TextBlock id ="406">
     <ZH_CN>腾讯文档</ZH_CN>
     <ZH_TW>騰訊文檔</ZH_TW>
     <ZH_WENYAN>腾讯文档</ZH_WENYAN>
-    <EN_GE>Tencent Docs</EN_GE>
+    <EN_US>Tencent Docs</EN_US>
   </TextBlock>
 <TextBlock id ="407">
     <ZH_CN>金山文档</ZH_CN>
     <ZH_TW>金山文檔</ZH_TW>
     <ZH_WENYAN>金山文档</ZH_WENYAN>
-    <EN_GE>KDocs</EN_GE>
+    <EN_US>KDocs</EN_US>
   </TextBlock>
 <TextBlock id ="408">
     <ZH_CN>石墨文档</ZH_CN>
     <ZH_TW>石墨文檔</ZH_TW>
     <ZH_WENYAN>石墨文档</ZH_WENYAN>
-    <EN_GE>Shimo</EN_GE>
+    <EN_US>Shimo</EN_US>
   </TextBlock>
 <TextBlock id ="409">
     <ZH_CN>奶牛快传</ZH_CN>
     <ZH_TW>奶牛快傳</ZH_TW>
     <ZH_WENYAN>奶牛快传</ZH_WENYAN>
-    <EN_GE>Cowtransfer</EN_GE>
+    <EN_US>Cowtransfer</EN_US>
   </TextBlock>
 <TextBlock id ="410">
     <ZH_CN>必应翻译</ZH_CN>
     <ZH_TW>必應翻譯</ZH_TW>
     <ZH_WENYAN>必应翻译</ZH_WENYAN>
-    <EN_GE>Bing Translator</EN_GE>
+    <EN_US>Bing Translator</EN_US>
   </TextBlock>
 <TextBlock id ="411">
     <ZH_CN>洋葱学园</ZH_CN>
     <ZH_TW>洋葱學園</ZH_TW>
     <ZH_WENYAN>洋葱学园</ZH_WENYAN>
-    <EN_GE>Onion Academy</EN_GE>
+    <EN_US>Onion Academy</EN_US>
   </TextBlock>
 <TextBlock id ="412">
     <ZH_CN>新华网</ZH_CN>
     <ZH_TW>新華網</ZH_TW>
     <ZH_WENYAN>新华网</ZH_WENYAN>
-    <EN_GE>XINHUANET</EN_GE>
+    <EN_US>XINHUANET</EN_US>
   </TextBlock>
 <TextBlock id ="413">
     <ZH_CN>腾讯天气</ZH_CN>
     <ZH_TW>騰訊天氣</ZH_TW>
     <ZH_WENYAN>腾讯天气</ZH_WENYAN>
-    <EN_GE>Tencent Weather</EN_GE>
+    <EN_US>Tencent Weather</EN_US>
   </TextBlock>
 <TextBlock id ="414">
     <ZH_CN>淘宝</ZH_CN>
     <ZH_TW>淘寶</ZH_TW>
     <ZH_WENYAN>淘宝</ZH_WENYAN>
-    <EN_GE>Taobao</EN_GE>
+    <EN_US>Taobao</EN_US>
   </TextBlock>
 <TextBlock id ="415">
     <ZH_CN>阿里巴巴</ZH_CN>
     <ZH_TW>阿里巴巴</ZH_TW>
     <ZH_WENYAN>阿里巴巴</ZH_WENYAN>
-    <EN_GE>Alibaba</EN_GE>
+    <EN_US>Alibaba</EN_US>
   </TextBlock>
 <TextBlock id ="416">
     <ZH_CN>微信</ZH_CN>
     <ZH_TW>微信</ZH_TW>
     <ZH_WENYAN>微信</ZH_WENYAN>
-    <EN_GE>WeChat</EN_GE>
+    <EN_US>WeChat</EN_US>
   </TextBlock>
 <TextBlock id ="417">
     <ZH_CN>高德地图</ZH_CN>
     <ZH_TW>高德地圖</ZH_TW>
     <ZH_WENYAN>高德地图</ZH_WENYAN>
-    <EN_GE>Amap</EN_GE>
+    <EN_US>Amap</EN_US>
   </TextBlock>
 <TextBlock id ="418">
     <ZH_CN>高德软件</ZH_CN>
     <ZH_TW>高德軟體</ZH_TW>
     <ZH_WENYAN>高德软件</ZH_WENYAN>
-    <EN_GE>AutoNavi</EN_GE>
+    <EN_US>AutoNavi</EN_US>
   </TextBlock>
 <TextBlock id ="419">
     <ZH_CN>哔哩哔哩</ZH_CN>
     <ZH_TW>嗶哩嗶哩</ZH_TW>
     <ZH_WENYAN>哔哩哔哩</ZH_WENYAN>
-    <EN_GE>bilibili</EN_GE>
+    <EN_US>bilibili</EN_US>
   </TextBlock>
 <TextBlock id ="420">
     <ZH_CN>IT之家</ZH_CN>
     <ZH_TW>IT之家</ZH_TW>
     <ZH_WENYAN>IT之家</ZH_WENYAN>
-    <EN_GE>ithome</EN_GE>
+    <EN_US>ithome</EN_US>
   </TextBlock>
 <TextBlock id ="421">
     <ZH_CN>软媒</ZH_CN>
     <ZH_TW>軟媒</ZH_TW>
     <ZH_WENYAN>软媒</ZH_WENYAN>
-    <EN_GE>RuanMei</EN_GE>
+    <EN_US>RuanMei</EN_US>
   </TextBlock>
 <TextBlock id ="422">
     <ZH_CN>澎湃新闻</ZH_CN>
     <ZH_TW>澎湃新聞</ZH_TW>
     <ZH_WENYAN>澎湃新闻</ZH_WENYAN>
-    <EN_GE>The Paper</EN_GE>
+    <EN_US>The Paper</EN_US>
   </TextBlock>
 <TextBlock id ="423">
     <ZH_CN>上海报业集团</ZH_CN>
     <ZH_TW>上海報業集團</ZH_TW>
     <ZH_WENYAN>上海报业集团</ZH_WENYAN>
-    <EN_GE>SUMG</EN_GE>
+    <EN_US>SUMG</EN_US>
   </TextBlock>
 <TextBlock id ="424">
     <ZH_CN>学习强国</ZH_CN>
     <ZH_TW>學習强國</ZH_TW>
     <ZH_WENYAN>学习强国</ZH_WENYAN>
-    <EN_GE>Xuéxí Qiángguó</EN_GE>
+    <EN_US>Xuéxí Qiángguó</EN_US>
   </TextBlock>
 <TextBlock id ="425">
     <ZH_CN>中共中央宣传部</ZH_CN>
     <ZH_TW>中共中央宣傳部</ZH_TW>
     <ZH_WENYAN>中共中央宣传部</ZH_WENYAN>
-    <EN_GE>Publicity Department of CPC</EN_GE>
+    <EN_US>Publicity Department of CPC</EN_US>
   </TextBlock>
 <TextBlock id ="426">
     <ZH_CN>应用内付费，已安装</ZH_CN>
     <ZH_TW>應用内付費，已安裝</ZH_TW>
     <ZH_WENYAN>付于应用，已装也</ZH_WENYAN>
-    <EN_GE>Intalled, pay in the app</EN_GE>
+    <EN_US>Intalled, pay in the app</EN_US>
   </TextBlock>
 <TextBlock id ="427">
     <ZH_CN>免费，已安装</ZH_CN>
     <ZH_TW>免費，已安裝</ZH_TW>
     <ZH_WENYAN>免费，已装也</ZH_WENYAN>
-    <EN_GE>Intalled, free</EN_GE>
+    <EN_US>Intalled, free</EN_US>
   </TextBlock>
 <TextBlock id ="428">
     <ZH_CN>来自网络</ZH_CN>
     <ZH_TW>來自網路</ZH_TW>
     <ZH_WENYAN>自网络来</ZH_WENYAN>
-    <EN_GE>from the Internet</EN_GE>
+    <EN_US>from the Internet</EN_US>
   </TextBlock>
 <TextBlock id ="429">
     <ZH_CN>戌犬朱狼</ZH_CN>
     <ZH_TW>戌犬朱狼</ZH_TW>
     <ZH_WENYAN>戌犬朱狼</ZH_WENYAN>
-    <EN_GE>Lipus Leo Leung</EN_GE>
+    <EN_US>Lipus Leo Leung</EN_US>
   </TextBlock>
 <TextBlock id ="430">
     <ZH_CN>“实验性功能” 需要以下权限来正常运行</ZH_CN>
     <ZH_TW>“實驗性功能” 需要以下權限來正常運行</ZH_TW>
     <ZH_WENYAN>“实验性功能” 需如下权限以常转</ZH_WENYAN>
-    <EN_GE>Experimental Functions require the following permissions to function properly.</EN_GE>
+    <EN_US>Experimental Functions require the following permissions to function properly.</EN_US>
   </TextBlock>
 <TextBlock id ="431">
     <ZH_CN>• 更改系统设置</ZH_CN>
     <ZH_TW>• 更改系統設定</ZH_TW>
     <ZH_WENYAN>• 更系统设定</ZH_WENYAN>
-    <EN_GE>• Change system settings</EN_GE>
+    <EN_US>• Change system settings</EN_US>
   </TextBlock>
 <TextBlock id ="432">
     <ZH_CN>• 使用设备最高权限</ZH_CN>
     <ZH_TW>• 使用設備最高權限</ZH_TW>
     <ZH_WENYAN>• 用设备之极权</ZH_WENYAN>
-    <EN_GE>• Use the highest permission of this device</EN_GE>
+    <EN_US>• Use the highest permission of this device</EN_US>
   </TextBlock>
 <TextBlock id ="433">
     <ZH_CN>• 强制关闭任何应用，包括系统界面</ZH_CN>
     <ZH_TW>• 强制關閉任何應用，包括系統界面</ZH_TW>
     <ZH_WENYAN>• 强闭具应用，含系统界面</ZH_WENYAN>
-    <EN_GE>• Force to close any apps, including the system UI</EN_GE>
+    <EN_US>• Force to close any apps, including the system UI</EN_US>
   </TextBlock>
 <TextBlock id ="434">
     <ZH_CN>某些实验性功能会导致系统崩溃，请三思而后行！</ZH_CN>
     <ZH_TW>某些實驗性功能會導致系統崩潰，請三思而後行！</ZH_TW>
     <ZH_WENYAN>或有实验性功能致系统崩溃之险也，望君三思而后行！</ZH_WENYAN>
-    <EN_GE>Some experimental functions may cause the system to crush. Please think twice before you take actions!</EN_GE>
+    <EN_US>Some experimental functions may cause the system to crush. Please think twice before you take actions!</EN_US>
   </TextBlock>
 <TextBlock id ="435">
     <ZH_CN>• 读取更多个人信息</ZH_CN>
     <ZH_TW>• 讀取更多個人信息</ZH_TW>
     <ZH_WENYAN>• 获愈多个人之详资</ZH_WENYAN>
-    <EN_GE>• Read more personal information</EN_GE>
+    <EN_US>• Read more personal information</EN_US>
   </TextBlock>
 <TextBlock id ="436">
     <ZH_CN>注意：请三思而后行！</ZH_CN>
     <ZH_TW>注意：請三思而後行！</ZH_TW>
     <ZH_WENYAN>注：请三思而后行！</ZH_WENYAN>
-    <EN_GE>ATTENTION: Please think twice before you take actions!</EN_GE>
+    <EN_US>ATTENTION: Please think twice before you take actions!</EN_US>
   </TextBlock>
 <TextBlock id ="437">
     <ZH_CN>备份系统</ZH_CN>
     <ZH_TW>備份系統</ZH_TW>
     <ZH_WENYAN>备份系统</ZH_WENYAN>
-    <EN_GE>Back up your system</EN_GE>
+    <EN_US>Back up your system</EN_US>
   </TextBlock>
 <TextBlock id ="438">
     <ZH_CN>建议先备份系统，方便在系统崩溃时将其还原</ZH_CN>
     <ZH_TW>建議先備份系統，方便在系統崩潰時將其還原</ZH_TW>
     <ZH_WENYAN>劝君先备份系统，以便崩毁之时得以复还</ZH_WENYAN>
-    <EN_GE>back up your system, and restore it when it is crashed</EN_GE>
+    <EN_US>Back up your system, and restore it when it is crashed</EN_US>
   </TextBlock>
 <TextBlock id ="439">
     <ZH_CN>备份</ZH_CN>
     <ZH_TW>備份</ZH_TW>
     <ZH_WENYAN>备份</ZH_WENYAN>
-    <EN_GE>Back up</EN_GE>
+    <EN_US>Backup</EN_US>
   </TextBlock>
 <TextBlock id ="440">
     <ZH_CN>无壁纸主题</ZH_CN>
     <ZH_TW>無壁紙主題</ZH_TW>
-    <ZH_WENYAN>无墙纸主题</ZH_WENYAN>
-    <EN_GE>Themes (without wallpapers)</EN_GE>
+    <ZH_WENYAN>无壁纸主题</ZH_WENYAN>
+    <EN_US>Themes (without wallpapers)</EN_US>
   </TextBlock>
 <TextBlock id ="441">
     <ZH_CN>取消系统壁纸背景 (不可撤销)</ZH_CN>
     <ZH_TW>取消系統壁紙背景 (不可撤銷)</ZH_TW>
-    <ZH_WENYAN>消系统墙纸背景 (无法撤销)</ZH_WENYAN>
-    <EN_GE>Cancel system wallpaper backgrounds (Irreversible)</EN_GE>
+    <ZH_WENYAN>消系统壁纸背景 (无法撤销)</ZH_WENYAN>
+    <EN_US>Cancel system wallpaper backgrounds (Irreversible)</EN_US>
   </TextBlock>
 <TextBlock id ="442">
     <ZH_CN>执行</ZH_CN>
     <ZH_TW>執行</ZH_TW>
     <ZH_WENYAN>行</ZH_WENYAN>
-    <EN_GE>Execute</EN_GE>
+    <EN_US>Execute</EN_US>
   </TextBlock>
 <TextBlock id ="443">
     <ZH_CN>让系统崩溃</ZH_CN>
     <ZH_TW>讓系統崩潰</ZH_TW>
     <ZH_WENYAN>崩毁系统</ZH_WENYAN>
-    <EN_GE>Crash the system</EN_GE>
+    <EN_US>Crash the system</EN_US>
   </TextBlock>
 <TextBlock id ="444">
     <ZH_CN>发送指令使系统崩溃</ZH_CN>
     <ZH_TW>發送指令使系統崩潰</ZH_TW>
     <ZH_WENYAN>下令以崩毁系统</ZH_WENYAN>
-    <EN_GE>Send instructions to crash the system</EN_GE>
+    <EN_US>Send instructions to crash the system</EN_US>
   </TextBlock>
 <TextBlock id ="445">
     <ZH_CN>让 PowerPoint 崩溃</ZH_CN>
     <ZH_TW>讓 PowerPoint 崩潰</ZH_TW>
     <ZH_WENYAN>崩毁 PowerPoint</ZH_WENYAN>
-    <EN_GE>Crash PowerPoint</EN_GE>
+    <EN_US>Crash PowerPoint</EN_US>
   </TextBlock>
 <TextBlock id ="446">
     <ZH_CN>真心劝你别搞搞震哇~</ZH_CN>
     <ZH_TW>真心勸你別搞事情~</ZH_TW>
     <ZH_WENYAN>此言诚劝君勿滋事端也~</ZH_WENYAN>
-    <EN_GE>Don't Zuo Si, OK?</EN_GE>
+    <EN_US>Don't Zuo Si, OK?</EN_US>
   </TextBlock>
 <TextBlock id ="447">
     <ZH_CN>昼夜切换按钮</ZH_CN>
     <ZH_TW>晝夜切換按鈕</ZH_TW>
     <ZH_WENYAN>昼夜切钮</ZH_WENYAN>
-    <EN_GE>Day and night switch button</EN_GE>
+    <EN_US>Day and night switch button</EN_US>
   </TextBlock>
 <TextBlock id ="448">
     <ZH_CN>听说这可是逼疯程序员的按钮哦~</ZH_CN>
     <ZH_TW>聽説這可是逼瘋程序員的按鈕哦~</ZH_TW>
     <ZH_WENYAN>闻此或为程序员之疯魔之源也~</ZH_WENYAN>
-    <EN_GE>It is said that this is a button that makes a programmer mad...</EN_GE>
+    <EN_US>It is said that this is a button that makes a programmer mad...</EN_US>
   </TextBlock>
 <TextBlock id ="449">
     <ZH_CN>强制更改系统字体</ZH_CN>
     <ZH_TW>强制更改系統字體</ZH_TW>
     <ZH_WENYAN>强易系统字体</ZH_WENYAN>
-    <EN_GE>Change the system font</EN_GE>
+    <EN_US>Change the system font</EN_US>
   </TextBlock>
 <TextBlock id ="450">
     <ZH_CN>强制更改系统默认字体为微软雅黑 (不可撤销)</ZH_CN>
     <ZH_TW>强制更改系統默認字體為微軟雅黑 (不可撤銷)</ZH_TW>
     <ZH_WENYAN>强易系统默认字体为微软雅黑 (无法撤销)</ZH_WENYAN>
-    <EN_GE>Change the default font of the system into Segoe UI unconditionally (Irreversible)</EN_GE>
+    <EN_US>Change the default font of the system into Segoe UI unconditionally (Irreversible)</EN_US>
   </TextBlock>
 <TextBlock id ="451">
     <ZH_CN>强制使用白色/黑色字体</ZH_CN>
     <ZH_TW>强制使用白色/黑色字體</ZH_TW>
     <ZH_WENYAN>强用白/黑字体</ZH_WENYAN>
-    <EN_GE>Force to use white or black fonts unconditionally</EN_GE>
+    <EN_US>Force to use white or black fonts unconditionally</EN_US>
   </TextBlock>
 <TextBlock id ="452">
     <ZH_CN>同样不可撤销的操作</ZH_CN>
     <ZH_TW>同樣不可撤銷的操作</ZH_TW>
     <ZH_WENYAN>此作为亦不可撤销也</ZH_WENYAN>
-    <EN_GE>An irreversible operation...</EN_GE>
+    <EN_US>An irreversible operation...</EN_US>
   </TextBlock>
 <TextBlock id ="453">
     <ZH_CN>白色</ZH_CN>
     <ZH_TW>白色</ZH_TW>
     <ZH_WENYAN>白色</ZH_WENYAN>
-    <EN_GE>White</EN_GE>
+    <EN_US>White</EN_US>
   </TextBlock>
 <TextBlock id ="454">
     <ZH_CN>黑色</ZH_CN>
     <ZH_TW>黑色</ZH_TW>
     <ZH_WENYAN>黑色</ZH_WENYAN>
-    <EN_GE>Black</EN_GE>
+    <EN_US>Black</EN_US>
   </TextBlock>
 <TextBlock id ="455">
     <ZH_CN>更改幻灯片切换时间</ZH_CN>
     <ZH_TW>更改幻燈片切換時間</ZH_TW>
     <ZH_WENYAN>更幻灯片切换之时</ZH_WENYAN>
-    <EN_GE>Change the time for switching slides</EN_GE>
+    <EN_US>Change the time for switching slides</EN_US>
   </TextBlock>
 <TextBlock id ="456">
     <ZH_CN>强制更改所有幻灯片的切换时间 (以秒为单位)，双击文本框可应用</ZH_CN>
     <ZH_TW>强制更改所有幻燈片的切換時間 (以秒爲單位)，雙擊文本框可應用</ZH_TW>
     <ZH_WENYAN>强更具幻灯片切换之时 (以秒计之)，双击文本框以应用</ZH_WENYAN>
-    <EN_GE>Change the time for switching slides unconditionally (in seconds), double-click the textbox to apply</EN_GE>
+    <EN_US>Change the time for switching slides unconditionally (in seconds), double-click the textbox to apply</EN_US>
   </TextBlock>
 <TextBlock id ="457">
     <ZH_CN>执行失败！</ZH_CN>
     <ZH_TW>執行失敗！</ZH_TW>
     <ZH_WENYAN>执行失败！</ZH_WENYAN>
-    <EN_GE>Fail to execute!</EN_GE>
+    <EN_US>Fail to execute!</EN_US>
   </TextBlock>
+<TextBlock id ="458">
+    <ZH_CN>控制台</ZH_CN>
+    <ZH_TW>控制台</ZH_TW>
+    <ZH_WENYAN>控制台</ZH_WENYAN>
+    <EN_US>Console</EN_US>
+  </TextBlock>
+<TextBlock id ="459">
+    <ZH_CN>获取帮助与支持</ZH_CN>
+    <ZH_TW>獲取幫助與支援</ZH_TW>
+    <ZH_WENYAN>得援与助</ZH_WENYAN>
+    <EN_US>Get help and support</EN_US>
+  </TextBlock>
+<TextBlock id ="460">
+    <ZH_CN>更多壁纸...</ZH_CN>
+    <ZH_TW>更多壁紙...</ZH_TW>
+    <ZH_WENYAN>壁纸愈众...</ZH_WENYAN>
+    <EN_US>More wallpapers...</EN_US>
+  </TextBlock>
+<TextBlock id ="461">
+    <ZH_CN>安龙</ZH_CN>
+    <ZH_TW>安龍</ZH_TW>
+    <ZH_WENYAN>安龙</ZH_WENYAN>
+    <EN_US>AnLong</EN_US>
+  </TextBlock>
+<TextBlock id ="462">
+    <ZH_CN>凌禄</ZH_CN>
+    <ZH_TW>凌禄</ZH_TW>
+    <ZH_WENYAN>凌禄</ZH_WENYAN>
+    <EN_US>JesseGary</EN_US>
+  </TextBlock>
+<TextBlock id ="463">
+    <ZH_CN>安逸</ZH_CN>
+    <ZH_TW>安逸</ZH_TW>
+    <ZH_WENYAN>安逸</ZH_WENYAN>
+   <EN_US>ANYI</EN_US>
+  </TextBlock> 
+<TextBlock id ="464">
+    <ZH_CN>大力支持</ZH_CN>
+    <ZH_TW>大力支持</ZH_TW>
+    <ZH_WENYAN>鼎力相助</ZH_WENYAN>
+   <EN_US>Greatly support</EN_US>
+  </TextBlock> 
+<TextBlock id ="465">
+    <ZH_CN>重试</ZH_CN>
+    <ZH_TW>重試</ZH_TW>
+    <ZH_WENYAN>重试</ZH_WENYAN>
+   <EN_US>Retry</EN_US>
+  </TextBlock> 
+<TextBlock id ="466">
+    <ZH_CN>反馈</ZH_CN>
+    <ZH_TW>反饋</ZH_TW>
+    <ZH_WENYAN>反馈</ZH_WENYAN>
+   <EN_US>Feedback</EN_US>
+  </TextBlock> 
 </DocRoot>
