@@ -12,10 +12,10 @@
     <EN_US>Click anywhere to logon</EN_US>
   </TextBlock>
 <TextBlock id ="2">
-    <ZH_CN>生产力</ZH_CN>
-    <ZH_TW>生產力</ZH_TW>
-    <ZH_WENYAN>力之生</ZH_WENYAN>
-    <EN_US>Productivity</EN_US>
+    <ZH_CN>实验性功能</ZH_CN>
+    <ZH_TW>實驗性功能</ZH_TW>
+    <ZH_WENYAN>实验性功能</ZH_WENYAN>
+    <EN_US>Experimental Fu...</EN_US>
   </TextBlock>
 <TextBlock id ="3">
     <ZH_CN>白板</ZH_CN>
@@ -2517,13 +2517,13 @@
     <ZH_CN>哔哩哔哩</ZH_CN>
     <ZH_TW>嗶哩嗶哩</ZH_TW>
     <ZH_WENYAN>哔哩哔哩</ZH_WENYAN>
-    <EN_US>bilibili</EN_US>
+    <EN_US>Bilibili</EN_US>
   </TextBlock>
 <TextBlock id ="420">
     <ZH_CN>IT之家</ZH_CN>
     <ZH_TW>IT之家</ZH_TW>
     <ZH_WENYAN>IT之家</ZH_WENYAN>
-    <EN_US>ithome</EN_US>
+    <EN_US>ITHome</EN_US>
   </TextBlock>
 <TextBlock id ="421">
     <ZH_CN>软媒</ZH_CN>
@@ -2801,4 +2801,28 @@
     <ZH_WENYAN>反馈</ZH_WENYAN>
    <EN_US>Feedback</EN_US>
   </TextBlock> 
+<TextBlock id ="467">
+    <ZH_CN>应用</ZH_CN>
+    <ZH_TW>應用</ZH_TW>
+    <ZH_WENYAN>应用</ZH_WENYAN>
+    <EN_US>Apply</EN_US>
+  </TextBlock>
+<TextBlock id ="468">
+    <ZH_CN>古诗词锁屏签名</ZH_CN>
+    <ZH_TW>古詩詞鎖屏簽名</ZH_TW>
+    <ZH_WENYAN>古诗词锁屏签名</ZH_WENYAN>
+    <EN_US>Chinese Ancient Poetry Lockscreen Signature</EN_US>
+  </TextBlock>
+<TextBlock id ="469">
+    <ZH_CN>将古诗词设置为锁屏签名</ZH_CN>
+    <ZH_TW>將古詩詞設定為鎖屏簽名</ZH_TW>
+    <ZH_WENYAN>设古诗词为屏锁之签</ZH_WENYAN>
+    <EN_US>Set Chinese ancient poems as the lockscreen signature</EN_US>
+  </TextBlock>
+<TextBlock id ="470">
+    <ZH_CN>Tuling 开发团队</ZH_CN>
+    <ZH_TW>Tuling 開發團隊</ZH_TW>
+    <ZH_WENYAN>Tuling 开发团队</ZH_WENYAN>
+    <EN_US>Tuling Development Team</EN_US>
+  </TextBlock>
 </DocRoot>
