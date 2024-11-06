@@ -854,13 +854,13 @@
 <TextBlock id ="142">
     <ZH_CN>二次元随机壁纸</ZH_CN>
     <ZH_TW>二次元隨機壁紙</ZH_TW>
-    <ZH_WENYAN>二次元随机壁纸</ZH_WENYAN>
+    <ZH_WENYAN>二次元随机墙纸</ZH_WENYAN>
     <EN_US>Two-dimensional random wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="143">
     <ZH_CN>每日 4K 风景壁纸</ZH_CN>
     <ZH_TW>每日 4K 風景壁紙</ZH_TW>
-    <ZH_WENYAN>日 4K 风景壁纸</ZH_WENYAN>
+    <ZH_WENYAN>日 4K 景墙</ZH_WENYAN>
     <EN_US>Daily 4K landscape wallpaper</EN_US>
   </TextBlock>
 <TextBlock id ="144">
@@ -2244,10 +2244,10 @@
     <EN_US>Could not load the browser.</EN_US>
   </TextBlock>
 <TextBlock id ="374">
-    <ZH_CN>请检查是否已安装注册表补丁</ZH_CN>
-    <ZH_TW>請檢查是否已安裝註冊表補丁</ZH_TW>
-    <ZH_WENYAN>请检补丁之安装与否</ZH_WENYAN>
-    <EN_US>Please check whether the registry patch is installed.</EN_US>
+    <ZH_CN>请检查是否已安装浏览器补丁</ZH_CN>
+    <ZH_TW>請檢查是否已安裝瀏覽器補丁</ZH_TW>
+    <ZH_WENYAN>请检浏览器补丁之安装与否</ZH_WENYAN>
+    <EN_US>Please check whether the browser patch is installed.</EN_US>
   </TextBlock>
 <TextBlock id ="375">
     <ZH_CN>如果已安装，请尝试退出重进</ZH_CN>
@@ -2824,5 +2824,11 @@
     <ZH_TW>Tuling 開發團隊</ZH_TW>
     <ZH_WENYAN>Tuling 开发团队</ZH_WENYAN>
     <EN_US>Tuling Development Team</EN_US>
+  </TextBlock>
+<TextBlock id ="471">
+    <ZH_CN>随便了</ZH_CN>
+    <ZH_TW>隨便了</ZH_TW>
+    <ZH_WENYAN>无谓罢</ZH_WENYAN>
+    <EN_US>Whatever</EN_US>
   </TextBlock>
 </DocRoot>
